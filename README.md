@@ -47,8 +47,9 @@ Money and debt are not natural — they are engineered systems of obligation. Th
 
 | File | What It Is |
 |------|------------|
-| [references/master-reference-list.md](references/master-reference-list.md) | Complete list of 71 books, papers, and tools referenced across all files, organized by category |
+| [references/master-reference-list.md](references/master-reference-list.md) | Complete list of 122 books, papers, and tools referenced across all files, organized by category |
 | [12-who-knows-this-level.md](12-who-knows-this-level.md) | Who actually understands money creation, debt as power, and the core question of who manages the household — and who doesn't |
+| [13-realtime-flow-tapping.md](13-realtime-flow-tapping.md) | Real-time flowchart: how to read monetary plumbing (BoC balance sheet, EIA inventories, COT, etc.) to tap money flows and compound profits |
 
 ---
 
