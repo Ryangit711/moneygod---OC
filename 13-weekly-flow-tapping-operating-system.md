@@ -1,9 +1,9 @@
 # Your Weekly Flow-Tapping Operating System
-## Turn Monetary Plumbing into Compounding Wealth
+## Turn [Monetary Plumbing](13-weekly-flow-tapping-operating-system.md) into Compounding Wealth
 
 This is your **actionable weekly/daily system** for:
-1. **Reading** where money is moving in the plumbing (liquidity flows)
-2. **Tapping** that flow (trading forex/futures with edge)
+1. **Reading** where [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) is moving in the plumbing ([liquidity](13-weekly-flow-tapping-operating-system.md) flows)
+2. **Tapping** that flow (trading [forex](08-forex-trading-the-purest-flow.md)/[futures](09-futures-trading-energy-and-receipts.md) with edge)
 3. **Investing** the tapped flow so it compounds (building wealth)
 
 > 🔑 **Core Loop**: Monitor Plumbing → Identify Flow → Tap with Edge → Allocate Profits → Compound → Repeat
@@ -13,37 +13,37 @@ This is your **actionable weekly/daily system** for:
 ## 📅 WEEKLY ROUTINE (Every Monday Morning - 30 min)
 *Your "pre-flight check" for the week ahead*
 
-### 1. 📊 Read the Monetary Plumbing (Where is Pressure Building?)
-Check these 7 pressure points. **Note: Is net liquidity being injected (+) or drained (–)?**
+### 1. 📊 Read the [Monetary Plumbing](13-weekly-flow-tapping-operating-system.md) (Where is Pressure Building?)
+Check these 7 pressure points. **Note: Is net [liquidity](13-weekly-flow-tapping-operating-system.md) being injected (+) or drained (–)?**
 
 | Pressure Point | Source | What to Watch | Action Signal |
 |----------------|--------|---------------|---------------|
-| **BoC Balance Sheet Assets** | [Bank of Canada Weekly Assets](https://www.bankofcanada.ca/rates/financial-market-indicators/balance-sheet/) | ↑ = liquidity IN | Look for long CAD/commodity/bank stock setups |
-| **BoC Net Repo Position** | [BoC Market Operations](https://www.bankofcanada.ca/rates/interest-rates/corporate-bond-yields/) | ↑ = liquidity IN | Risk-on bias (favor equities, commodities) |
-| **Charter Bank Credit (CMBSC)** | [StatsCan Table 10-10-0005-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010000501) | ↑ = money creation via loans | Broad economic strength |
-| **GoC Bond Auctions (Bid-to-Cover)** | [GoC Auction Results](https://www.canada.ca/en/department-finance/services/government-securities-debt-auctions/auction-results.html) | ↓ <2.0 = weak demand | Watch for yield spikes despite BoC hold |
+| **BoC Balance Sheet Assets** | [Bank of Canada Weekly Assets](https://www.[bank](03-money-as-debt-modern-system.md)ofcanada.ca/rates/financial-market-indicators/balance-sheet/) | ↑ = [liquidity](13-weekly-flow-tapping-operating-system.md) IN | Look for long CAD/commodity/[bank](03-money-as-debt-modern-system.md) stock setups |
+| **BoC Net Repo Position** | [BoC Market Operations](https://www.[bank](03-money-as-debt-modern-system.md)ofcanada.ca/rates/interest-rates/corporate-bond-yields/) | ↑ = [liquidity](13-weekly-flow-tapping-operating-system.md) IN | Risk-on bias (favor equities, commodities) |
+| **Charter [Bank](03-money-as-debt-modern-system.md) [Credit](03-money-as-debt-modern-system.md) (CMBSC)** | [StatsCan Table 10-10-0005-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010000501) | ↑ = [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) creation via loans | Broad economic strength |
+| **GoC Bond Auctions (Bid-to-Cover)** | [GoC Auction Results](https://www.canada.ca/en/department-finance/services/government-securities-[debt](01-origins-of-money-and-debt.md)-auctions/auction-results.html) | ↓ <2.0 = weak demand | Watch for yield spikes despite BoC hold |
 | **WTI Oil Inventory Change** | [EIA Weekly Report](https://www.eia.gov/petroleum/supply/weekly/) (Wed 10:30 ET) | ↓ draw = bullish oil/CAD | Trade USD/CAD fade of initial spike |
 | **CAD-Oil Correlation (30-day)** | [TradingView CAD/WTI](https://www.tradingview.com/chart/?symbol=FX_IDC%3ACAD) vs CL1! | ↑ = oil drives CAD | Trade oil → CAD directly |
-| **US TGA Balance** | [FRED WTSLA](https://fred.stlouisfed.org/series/WTSLA) | ↓ falling = Treasury spending = liquidity IN | Risk-on bias |
+| **US TGA Balance** | [FRED WTSLA](https://fred.stlouisfed.org/series/WTSLA) | ↓ falling = Treasury spending = [liquidity](13-weekly-flow-tapping-operating-system.md) IN | Risk-on bias |
 
-**Weekly Liquidity Verdict**: 
+**Weekly [Liquidity](13-weekly-flow-tapping-operating-system.md) Verdict**: 
 - **NET INJECTING (+)** → Favor risk assets (equities, commodities, CAD, AUD, growth stocks)
 - **NET DRAINING (–)** → Favor safety (USD, JPY, CHF, gold, bonds, value stocks)
 
 ### 2. 📈 Scan Your Watchlist for Flow Alignment
-Using your weekly liquidity verdict, scan for:
-- **Forex**: Pairs aligned with liquidity direction (e.g., if LIQ IN → long AUD/JPY, short USD/JPY)
-- **Futures**: 
+Using your weekly [liquidity](13-weekly-flow-tapping-operating-system.md) verdict, scan for:
+- **[Forex](08-forex-trading-the-purest-flow.md)**: Pairs aligned with [liquidity](13-weekly-flow-tapping-operating-system.md) direction (e.g., if LIQ IN → long AUD/JPY, short USD/JPY)
+- **[Futures](09-futures-trading-energy-and-receipts.md)**: 
   - Oil (CL): Long if LIQ IN + oil draw
   - Gold (GC): Long if LIQ OUT + real rates falling
-  - S&P 500 (ES): Follows liquidity + earnings
+  - S&P 500 (ES): Follows [liquidity](13-weekly-flow-tapping-operating-system.md) + earnings
 - **Canadian Stocks**: 
   - Energy (CNQ, SU, TOU): LIQ IN + oil draw
-  - Banks (RY, TD, BMO): LIQ IN + credit growth
+  - [Bank](03-money-as-debt-modern-system.md)s (RY, TD, BMO): LIQ IN + [credit](03-money-as-debt-modern-system.md) growth
   - Gold (ABX, AGI): LIQ OUT + real rates falling
 
 **Mark 2-3 "A" setups** for the week where:
-- Liquidity direction + technical setup + fundamentals align
+- [Liquidity](13-weekly-flow-tapping-operating-system.md) direction + technical setup + fundamentals align
 - You can define a clear invalidation point (stop loss)
 - Reward:Risk ≥ 2:1
 
@@ -104,7 +104,7 @@ For each "A" setup:
 ## 🧭 YOUR COMPASS: The Two Questions That Guide Everything
 *Before any action, ask:*
 
-### 🔍 **1. "Where is the money flowing RIGHT NOW?"** 
+### 🔍 **1. "Where is the [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flowing RIGHT NOW?"** 
 *(Read the plumbing – Section 1 above)*
 - If you can't answer this with specific data points, **do not trade**. 
 - Go back to your weekly monetary dashboard.
@@ -126,7 +126,7 @@ For each "A" setup:
 - Identify: Your #1 repeated mistake (fix it next month)
 
 ### 2. **Plumbing Check**
-- Review: Did your weekly liquidity verdicts hold?
+- Review: Did your weekly [liquidity](13-weekly-flow-tapping-operating-system.md) verdicts hold?
 - Note: Which pressure points gave the best signals?
 - Adjust: Your watchlist for next month based on regime
 
@@ -169,7 +169,7 @@ Assume:
 ## 🛡️ NON-NEGOTIABLE RULES (Violate These and You Lose Edge)
 1. **1% risk per trade** – never more, not even when "sure"
 2. **3% daily loss limit** – hit it, you're done for the day
-3. **Only trade in money windows** (9:30-11:00, 14:00-15:30 ET) – never lunch chop
+3. **Only trade in [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) windows** (9:30-11:00, 14:00-15:30 ET) – never lunch chop
 4. **Never enter without a pre-defined stop** – mental stops don't count
 5. **Minimum 2:1 reward:risk** – if it's not there, wait
 6. **No volume = no trade** – low-volume breakouts are traps
@@ -197,10 +197,10 @@ Assume:
 ## 📌 WHERE THIS LIVES IN YOUR WIKI
 *This is your operating system – the bridge between understanding and action*
 
-- **Read the deep theory**: [05-how-money-flows-in-the-system.md](05-how-money-flows-in-the-system.md) (the plumbing)  
+- **Read the deep theory**: [05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) (the plumbing)  
 - **Learn to tap the flow**: [06-day-trading-tap-the-flow.md](06-day-trading-tap-the-flow.md) (exactly how to read order book/tape)  
-- **Master the forex edge**: [08-forex-trading-the-purest-flow.md](08-forex-trading-the-purest-flow.md) (CAD-specific flows)  
-- **Understand futures flows**: [09-futures-trading-energy-and-receipts.md](09-futures-trading-energy-and-receipts.md) (contango, COT, energy)  
+- **Master the [forex](08-forex-trading-the-purest-flow.md) edge**: [08-[forex](08-forex-trading-the-purest-flow.md)-trading-the-purest-flow.md](08-[forex](08-forex-trading-the-purest-flow.md)-trading-the-purest-flow.md) (CAD-specific flows)  
+- **Understand [futures](09-futures-trading-energy-and-receipts.md) flows**: [09-[futures](09-futures-trading-energy-and-receipts.md)-trading-energy-and-receipts.md](09-[futures](09-futures-trading-energy-and-receipts.md)-trading-energy-and-receipts.md) (contango, COT, energy)  
 - **Build the compound engine**: [10-investing-and-compounding.md](10-investing-and-compounding.md) (TFSA/RRSP/FHSA, asset hierarchy)  
 - **Know who gets it**: [12-who-knows-this-level.md](12-who-knows-this-level.md) (are you in the 1%?)  
 
@@ -218,4 +218,4 @@ Print it. Save it on your phone. Do the work. Watch the flow turn into freedom.
 ---
 *This document lives in your wiki at: github.com/Ryangit711/moenygod*  
 *Last updated: $(date)* 
-*Part of your living system for understanding money, tapping flow, and building freedom.*
+*Part of your living system for understanding [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md), tapping flow, and building freedom.*

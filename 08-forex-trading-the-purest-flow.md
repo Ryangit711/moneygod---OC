@@ -1,16 +1,16 @@
-# Forex Trading: The Purest Flow
+# [Forex](08-forex-trading-the-purest-flow.md) Trading: The Purest Flow
 
-## Why Forex Is the Real Game
+## Why [Forex](08-forex-trading-the-purest-flow.md) Is the Real Game
 
 Stocks are about companies. Crypto is about speculation. Options are about leverage and decay.
 
-**Forex is about nations.**
+**[Forex](08-forex-trading-the-purest-flow.md) is about nations.**
 
-When you trade EUR/USD, you're not trading a chart. You're betting on the relative strength of the European energy system vs. the American energy system. The central banks that control their respective receipts. The trade flows between them. The capital flows. The interest rate differentials.
+When you trade EUR/USD, you're not trading a chart. You're betting on the relative strength of the European energy system vs. the American energy system. The [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md)s that control their respective receipts. The trade flows between them. The capital flows. The [interest rate](08-forex-trading-the-purest-flow.md) differentials.
 
-This is the deepest game in the market because the forces that move currencies are the forces that MOVE CIVILIZATIONS. Interest rates. Trade balances. Energy production. War. Central bank policy. Geopolitics.
+This is the deepest game in the market because the forces that move currencies are the forces that MOVE CIVILIZATIONS. [Interest rate](08-forex-trading-the-purest-flow.md)s. Trade balances. Energy production. War. [Central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) policy. Geopolitics.
 
-**Forex is where Soros, Druckenmiller, and the macro gods play.** Not because it's glamorous. Because it's the most direct expression of the money flow we described in [05-how-money-flows-in-the-system.md](05-how-money-flows-in-the-system.md).
+**[Forex](08-forex-trading-the-purest-flow.md) is where Soros, Druckenmiller, and the macro gods play.** Not because it's glamorous. Because it's the most direct expression of the [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flow we described in [05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md).
 
 ---
 
@@ -31,26 +31,26 @@ When EUR/USD goes DOWN → the opposite.
 
 ---
 
-## II. The Six Forces That Move Forex (In Order of Power)
+## II. The Six Forces That Move [Forex](08-forex-trading-the-purest-flow.md) (In Order of Power)
 
-### Force 1: Interest Rate Differential — THE Driver
+### Force 1: [Interest Rate](08-forex-trading-the-purest-flow.md) Differential — THE Driver
 
-Money flows to where it earns the highest return. This is not theory. This is mechanical.
+[Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows to where it earns the highest return. This is not theory. This is mechanical.
 
 | Scenario | Flow | Trade |
 |----------|------|-------|
-| Fed raising rates faster than ECB | USD yields > EUR yields → money flows to USD | Long USD/Short EUR |
-| BoC cutting while Fed is on hold | CAD yields drop → money flows out of CAD | Short CAD/Long USD |
+| Fed raising rates faster than ECB | USD yields > EUR yields → [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows to USD | Long USD/Short EUR |
+| BoC cutting while Fed is on hold | CAD yields drop → [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows out of CAD | Short CAD/Long USD |
 | JPY at 0% while USD at 5% | Carry trade — borrow JPY free, buy USD at 5% | Long USD/JPY (until it unwinds violently) |
 
-**The interest rate differential is the gravity of forex.** Everything orbits it. All other forces are secondary.
+**The [interest rate](08-forex-trading-the-purest-flow.md) differential is the gravity of [forex](08-forex-trading-the-purest-flow.md).** Everything orbits it. All other forces are secondary.
 
 **How to track it:**
-- Follow central bank meeting schedules (Fed, BoC, ECB, BoE, BoJ, RBA)
-- Watch the interest rate futures markets — they price in what the market EXPECTS the next move to be
+- Follow [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) meeting schedules (Fed, BoC, ECB, BoE, BoJ, RBA)
+- Watch the [interest rate](08-forex-trading-the-purest-flow.md) [futures](09-futures-trading-energy-and-receipts.md) markets — they price in what the market EXPECTS the next move to be
 - When reality diverges from expectation → that's the trade
 
-→ See also: [05-how-money-flows-in-the-system.md](05-how-money-flows-in-the-system.md#the-central-bank-where-all-flow-begins)
+→ See also: [05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md#the-central-[bank](03-money-as-debt-modern-system.md)-where-all-flow-begins)
 
 ### Force 2: Energy and Commodity Exports
 
@@ -68,8 +68,8 @@ Canada's #1 export: **oil**. Australia's #1 export: **iron ore and coal**. Russi
 
 ### Force 3: Trade Balances
 
-- **Trade surplus** (exports > imports) = money flows IN → currency strengthens
-- **Trade deficit** (imports > exports) = money flows OUT → currency weakens
+- **Trade surplus** (exports > imports) = [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows IN → currency strengthens
+- **Trade deficit** (imports > exports) = [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows OUT → currency weakens
 
 Canada historically runs trade surpluses when oil is strong. The US runs persistent trade deficits. This is structural — the US consumes more than it produces, and the world accepts USD because it's the reserve currency.
 
@@ -79,13 +79,13 @@ Canada historically runs trade surpluses when oil is strong. The US runs persist
 
 ### Force 4: Capital Flows
 
-Where are investors putting their money?
+Where are investors putting their [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)?
 
 - US stocks booming → global capital flows into USD to buy US equities → USD strengthens
 - Emerging market crisis → capital flies to "safe haven" currencies (USD, CHF, JPY) → those strengthen
 - Canadian housing bubble pops → capital flees CAD → CAD weakens
 
-Capital flows are the SHORT-TERM driver of forex. They can override interest rate differentials for days or weeks. But in the medium term (months), interest rates always reassert.
+Capital flows are the SHORT-TERM driver of [forex](08-forex-trading-the-purest-flow.md). They can override [interest rate](08-forex-trading-the-purest-flow.md) differentials for days or weeks. But in the medium term (months), [interest rate](08-forex-trading-the-purest-flow.md)s always reassert.
 
 ### Force 5: Geopolitical Events
 
@@ -95,21 +95,21 @@ War, sanctions, elections, trade wars. These create sudden, violent re-pricing:
 - Middle East conflict → oil spikes → CAD strengthens
 - US-China trade war → AUD weakens (Australia caught in the middle)
 
-**How to trade geopolitics:** Don't predict events. Trade the AFTERMATH. When a geopolitical shock hits, the first move is usually a panic overreaction. Wait for the first 15-30 minutes of chaos to pass. Then trade the direction that makes fundamental sense. The panic creates liquidity. The fundamental direction is where the smart money goes.
+**How to trade geopolitics:** Don't predict events. Trade the AFTERMATH. When a geopolitical shock hits, the first move is usually a panic overreaction. Wait for the first 15-30 minutes of chaos to pass. Then trade the direction that makes fundamental sense. The panic creates [liquidity](13-weekly-flow-tapping-operating-system.md). The fundamental direction is where the smart [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) goes.
 
-### Force 6: Central Bank Intervention
+### Force 6: [Central [Bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) Intervention
 
-Sometimes central banks don't just set rates — they directly buy or sell their own currency:
+Sometimes [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md)s don't just set rates — they directly buy or sell their own currency:
 
-- **Bank of Japan** — intervened multiple times to weaken the yen when it got too strong
-- **Swiss National Bank** — famously removed the EUR/CHF floor in 2015, destroying everyone who was on the wrong side in seconds
-- **Bank of Canada** — less interventionist than most, but will jawbone (simply talk about the currency) to influence sentiment
+- **[Bank](03-money-as-debt-modern-system.md) of Japan** — intervened multiple times to weaken the yen when it got too strong
+- **Swiss National [Bank](03-money-as-debt-modern-system.md)** — famously removed the EUR/CHF floor in 2015, destroying everyone who was on the wrong side in seconds
+- **[Bank](03-money-as-debt-modern-system.md) of Canada** — less interventionist than most, but will jawbone (simply talk about the currency) to influence sentiment
 
-**Hard rule:** Never trade against a central bank that is actively intervening. They have infinite firepower because they CREATE the currency. You will lose. Every time.
+**Hard rule:** Never trade against a [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) that is actively intervening. They have infinite firepower because they CREATE the currency. You will lose. Every time.
 
 ---
 
-## III. The Canadian Forex Trader's Universe
+## III. The Canadian [Forex](08-forex-trading-the-purest-flow.md) Trader's Universe
 
 You're in Canada. Here's your specific edge:
 
@@ -147,22 +147,22 @@ You're in Canada. Here's your specific edge:
 
 ---
 
-## IV. The Forex-Specific Esoteric Knowledge
+## IV. The [Forex](08-forex-trading-the-purest-flow.md)-Specific Esoteric Knowledge
 
-### The Carry Trade — How the Smart Money Makes Free Money
+### The Carry Trade — How the Smart [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) Makes Free [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)
 
-The carry trade is the simplest and most powerful force in forex:
+The carry trade is the simplest and most powerful force in [forex](08-forex-trading-the-purest-flow.md):
 
 1. Borrow in a low-yield currency (JPY at 0.5%, CHF at 1.5%)
 2. Convert to a high-yield currency (CAD at 4%, AUD at 4.5%, USD at 5%)
-3. Earn the interest rate differential — this is FREE MONEY as long as the exchange rate doesn't move against you
+3. Earn the [interest rate](08-forex-trading-the-purest-flow.md) differential — this is FREE [MONEY](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) as long as the exchange rate doesn't move against you
 4. The interest accrues daily — even while you sleep
 
-**Why it works:** Central banks set different rates. Banks and institutions borrow cheap and lend dear. You can do the same thing at a smaller scale.
+**Why it works:** [Central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md)s set different rates. [Bank](03-money-as-debt-modern-system.md)s and institutions borrow cheap and lend dear. You can do the same thing at a smaller scale.
 
 **The danger:** When risk appetite reverses (crisis, Fed unexpectedly cuts, etc.), the carry trade UNWINDS violently. Everyone who borrowed JPY to buy AUD must sell AUD and buy back JPY simultaneously. JPY rockets up. AUD crashes. This is called the "carry trade unwind" and it happens in hours what took months to build.
 
-**Hard rule:** You can collect carry, but ALWAYS have a stop. Carry trades feel like free money until they aren't. When they break, they break FAST.
+**Hard rule:** You can collect carry, but ALWAYS have a stop. Carry trades feel like free [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) until they aren't. When they break, they break FAST.
 
 ### The News Fade — How to Trade Data Releases
 
@@ -171,7 +171,7 @@ Most retail traders try to trade the DIRECTION of a news release. "CPI came in h
 Here's what actually happens:
 
 1. **News hits** → immediate spike in the "expected" direction (seconds)
-2. **Retail enters** chasing the spike → liquidity appears
+2. **Retail enters** chasing the spike → [liquidity](13-weekly-flow-tapping-operating-system.md) appears
 3. **Institutions fade the spike** → sell into the buying / buy into the selling
 4. **Price reverses** → sometimes completely, sometimes partially
 5. **The real direction emerges** over the next 15-60 minutes
@@ -181,40 +181,40 @@ Here's what actually happens:
 - Wait for the spike to stall (1-5 minutes)
 - Enter in the FADE direction with tight stop just beyond the spike extreme
 - Target the pre-news price or the next key level
-- This works because institutions need the retail liquidity that the spike creates — and they use it to position in the REAL direction
+- This works because institutions need the retail [liquidity](13-weekly-flow-tapping-operating-system.md) that the spike creates — and they use it to position in the REAL direction
 
 **Hard rule:** Never enter in the first 30 seconds of a news release. The spike is designed to kill you.
 
-### The Weekly Flow — How Institutions Move Money Across Borders
+### The Weekly Flow — How Institutions Move [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) Across Borders
 
 Every week, billions of dollars flow between currencies for corporate hedging, trade settlement, and portfolio rebalancing. These flows are PREDICTABLE:
 
 - **Month-end rebalancing** — pension funds and mutual funds adjust currency hedges. USD/CAD often moves 20-50 pips in the final hours of the month. Track the direction of equity markets to estimate the flow.
 - **Tokyo fix** — 3:00 PM ET daily — Japanese corporates fix their exchange rates for the day. Creates predictable JPY flow.
-- **London fix** — 4:00 PM GMT (11:00 AM ET) — the single most liquid and gameable 5-minute window in forex. Banks know everyone needs to transact at the fix. They front-run it. You can too.
+- **London fix** — 4:00 PM GMT (11:00 AM ET) — the single most liquid and gameable 5-minute window in [forex](08-forex-trading-the-purest-flow.md). [Bank](03-money-as-debt-modern-system.md)s know everyone needs to transact at the fix. They front-run it. You can too.
 
 **Hard rule:** The London fix at 11:00 AM ET is your daily window. Watch for order accumulation in the 15 minutes before it. Price often runs to one side of the range, then snaps back when the fix orders execute.
 
 ---
 
-## V. The Hard Rules — Forex Specific
+## V. The Hard Rules — [Forex](08-forex-trading-the-purest-flow.md) Specific
 
-1. **Always know the interest rate of both currencies in your pair.** This is the gravity field.
-2. **Always know when the next central bank meeting is.** Trade lightly or not at all in the 24 hours before.
+1. **Always know the [interest rate](08-forex-trading-the-purest-flow.md) of both currencies in your pair.** This is the gravity field.
+2. **Always know when the next [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) meeting is.** Trade lightly or not at all in the 24 hours before.
 3. **For USD/CAD: always check WTI crude before you trade.** Oil is your leading indicator.
 4. **Never trade a news release in the first 30 seconds.** Let the spike happen. Trade the fade.
-5. **Respect the London fix (11 AM ET) and month-end flows.** They are real money moving for real reasons.
-6. **Never fight a central bank that is actively intervening.** You will lose.
+5. **Respect the London fix (11 AM ET) and month-end flows.** They are real [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) moving for real reasons.
+6. **Never fight a [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) that is actively intervening.** You will lose.
 7. **Carry trades are income, not lottery tickets.** Size small, set stops, collect the differential.
-8. **Leverage kills.** Forex brokers offer 50:1, 100:1, even 500:1. Use 5:1 maximum. 10:1 is reckless. 50:1 is a death sentence.
+8. **Leverage kills.** [Forex](08-forex-trading-the-purest-flow.md) brokers offer 50:1, 100:1, even 500:1. Use 5:1 maximum. 10:1 is reckless. 50:1 is a death sentence.
 9. **Trade the pair, not the currency.** A strong USD doesn't mean buy every USD pair — it means look at which counter-currency is weakest and pair USD against THAT one.
-10. **The trend is your friend until the central bank changes it.** When a central bank signals a pivot, the trend is OVER. Don't fight the pivot.
+10. **The trend is your friend until the [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) changes it.** When a [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) signals a pivot, the trend is OVER. Don't fight the pivot.
 
 ---
 
 ## VI. The Connection to the Deeper Truth
 
-Forex is the purest expression of what we laid out in [07-what-money-actually-is-no-bs.md](07-what-money-actually-is-no-bs.md):
+[Forex](08-forex-trading-the-purest-flow.md) is the purest expression of what we laid out in [07-what-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-actually-is-no-bs.md](07-what-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-actually-is-no-bs.md):
 
 - You're trading receipts for nations' energy output
 - You're reading which nation is creating more/fewer receipts
@@ -224,21 +224,21 @@ This is exactly what Druckenmiller did with the pound. What Soros did with the b
 
 **The chart is just a visualization of the flow. The flow is the thing.**
 
-→ See also: [07-what-money-actually-is-no-bs.md](07-what-money-actually-is-no-bs.md) — money as concentrated human time and energy  
-→ See also: [05-how-money-flows-in-the-system.md](05-how-money-flows-in-the-system.md) — the central bank pump  
-→ See also: [09-futures-trading-energy-and-receipts.md](09-futures-trading-energy-and-receipts.md) — the next level  
+→ See also: [07-what-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-actually-is-no-bs.md](07-what-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-actually-is-no-bs.md) — [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) as concentrated human time and energy  
+→ See also: [05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) — the [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) pump  
+→ See also: [09-[futures](09-futures-trading-energy-and-receipts.md)-trading-energy-and-receipts.md](09-[futures](09-futures-trading-energy-and-receipts.md)-trading-energy-and-receipts.md) — the next level  
 → See also: [10-escaping-the-rat-race.md](10-escaping-the-rat-race.md) — the endgame
 
 ---
 
 ## References
 
-- **#9** — L. Randall Wray, *Modern Money Theory* (2012) — how sovereign currencies work
+- **#9** — L. Randall Wray, *Modern [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) Theory* (2012) — how sovereign currencies work
 - **#19** — George Soros, *The Alchemy of Finance* (1987) — reflexivity in FX markets
 - **#25** — Charles Kindleberger, *Manias, Panics, and Crashes* (1978) — carry trade unwind dynamics
-- **#51** — Ray Dalio, *Principles for Navigating Big Debt Crises* (2018) — currency crises, the long-term debt cycle
+- **#51** — Ray Dalio, *Principles for Navigating Big [Debt](01-origins-of-money-and-debt.md) Crises* (2018) — currency crises, the long-term [debt](01-origins-of-money-and-debt.md) cycle
 - **#52** — Ray Dalio, *The Changing World Order* (2020) — reserve currency dynamics
-- **#66** — FRED (fred.stlouisfed.org) — interest rate data, CPI, trade balances
-- **#70** — Trading Economics (tradingeconomics.com) — central bank calendars
+- **#66** — FRED (fred.stlouisfed.org) — [interest rate](08-forex-trading-the-purest-flow.md) data, CPI, trade balances
+- **#70** — Trading Economics (tradingeconomics.com) — [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) calendars
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)

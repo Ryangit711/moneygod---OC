@@ -14,13 +14,13 @@ This file is not about indicators. It's not about "red candle green candle." It'
 The market is a price discovery mechanism where buyers and sellers meet to determine fair value.
 
 ### The Real Story
-The market is a **liquidity extraction machine** designed to transfer money from the impatient and uninformed to the patient and informed.
+The market is a **[liquidity](13-weekly-flow-tapping-operating-system.md) extraction machine** designed to transfer [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) from the impatient and uninformed to the patient and informed.
 
 The market's primary function is NOT price discovery. It is **wealth transfer**. Every market structure — the bid-ask spread, maker-taker fees, dark pools, payment for order flow, the NBBO — exists to facilitate this transfer.
 
 **You are either the extractor or the extracted. There is no middle ground.**
 
-→ See also: [03-money-as-debt-modern-system.md](03-money-as-debt-modern-system.md) — on how the system is designed to concentrate wealth  
+→ See also: [03-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md](03-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) — on how the system is designed to concentrate wealth  
 → See also: [04-what-the-powerful-understand.md](04-what-the-powerful-understand.md) — on crisis as opportunity
 
 ---
@@ -33,7 +33,7 @@ Candlesticks, moving averages, RSI, MACD, support and resistance. This is what 9
 
 **The retail layer is the bait.** It creates the patterns that draw you in, then reverses just when it looks most convincing.
 
-### Layer 2: The Institutional Layer (Where the Money Moves)
+### Layer 2: The Institutional Layer (Where the [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) Moves)
 
 This is where the real game happens. Institutions move billions. They cannot just "buy" — if they bought all at once, they'd move the price against themselves. So they use **algorithmic execution**:
 
@@ -45,7 +45,7 @@ This is where the real game happens. Institutions move billions. They cannot jus
 
 **If you can see where institutional orders are accumulating, you can position in front of them and ride the wave they create.**
 
-→ See also: [05-how-money-flows-in-the-system.md](05-how-money-flows-in-the-system.md) — on how money flows from Fed → banks → markets
+→ See also: [05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) — on how [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows from Fed → [bank](03-money-as-debt-modern-system.md)s → markets
 
 ### Layer 3: The Meta Layer (Why Things Move)
 
@@ -97,24 +97,24 @@ Price can be manipulated. Volume cannot be faked at scale.
 | Time (ET) | Who's Active | What's Happening | Strategy |
 |-----------|-------------|-------------------|----------|
 | **4:00–9:30** | Overseas, pre-market | Gap setting, overnight positioning | Watch, don't trade (yet) |
-| **9:30–10:30** | Everyone — highest volume | Opening range, institutional repositioning, gap fills | **THE money window** — trade the opening range breakout or fade |
+| **9:30–10:30** | Everyone — highest volume | Opening range, institutional repositioning, gap fills | **THE [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) window** — trade the opening range breakout or fade |
 | **10:30–12:00** | Institutional, some retail | Trend continuation or reversal | Follow the 9:30–10:30 direction if volume sustains |
 | **12:00–14:00** | Lunch — low volume | Chop, fake moves, low conviction | **DO NOT TRADE** — this is where accounts die |
 | **14:00–15:30** | Institutional repositioning before close | Power hour, late-day breakouts or reversals | Second best window after open |
 | **15:30–16:00** | Closing auction positioning | Marking up/down for close | Trade the close direction or stay out |
 
-**Hard rule:** Trade only 9:30–11:00 and 14:00–15:30. The lunch chop exists to separate you from your money.
+**Hard rule:** Trade only 9:30–11:00 and 14:00–15:30. The lunch chop exists to separate you from your [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md).
 
 ### Principle 4: The Stop Hunt Is the Most Predictable Pattern in Markets
 
-Institutions need liquidity to enter/exit large positions. Where is liquidity? At obvious support and resistance levels where retail traders place their stop losses.
+Institutions need [liquidity](13-weekly-flow-tapping-operating-system.md) to enter/exit large positions. Where is [liquidity](13-weekly-flow-tapping-operating-system.md)? At obvious support and resistance levels where retail traders place their stop losses.
 
 **The stop hunt sequence:**
 
 1. Price approaches an obvious support/resistance level
 2. Retail traders place stops just beyond the level
 3. Price pushes THROUGH the level — triggering stops
-4. The stop orders CREATE the liquidity institutions need
+4. The stop orders CREATE the [liquidity](13-weekly-flow-tapping-operating-system.md) institutions need
 5. Institutions absorb the stop-triggered orders
 6. Price reverses back through the level in the real direction
 7. Retail is stopped out. Institution is positioned. Price moves.
@@ -162,7 +162,7 @@ The order book shows you the limit orders at each price level. Here's how to rea
 | **Large resting bid** | 50K shares on the bid at a key level | Institution supporting price — or a spoof (fake; will cancel) |
 | **Large resting offer** | 50K shares on the ask at resistance | Institution capping price — or a spoof |
 | **Spoofing** | Large orders appear then disappear as price approaches | Designed to make you think there's a wall — there isn't. Watch if the order stays or vanishes. |
-| **Iceberg detection** | Small visible size but price keeps transacting without moving | Hidden orders executing. Big money is accumulating/distributing silently. |
+| **Iceberg detection** | Small visible size but price keeps transacting without moving | Hidden orders executing. Big [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) is accumulating/distributing silently. |
 | **Bid/ask imbalance** | 3x more on bid than ask | Buying pressure — lean long. Opposite for selling pressure. |
 
 **Hard rule:** Never trade based on a single order book reading. Watch how the book CHANGES as price approaches. The real intention is revealed by what appears and disappears, not by what sits there.
@@ -195,7 +195,7 @@ Before entering ANY trade, ALL of these must be true:
 | 5 | **I know my stop BEFORE I enter** | Defined risk, no emotional decisions |
 | 6 | **My risk is 1% or less of account** | Survival math |
 | 7 | **My reward:risk is at least 2:1** | Positive expectancy even with <50% win rate |
-| 8 | **I am trading in the money window** (9:30–11:00 or 14:00–15:30 ET) | Not during chop hours |
+| 8 | **I am trading in the [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) window** (9:30–11:00 or 14:00–15:30 ET) | Not during chop hours |
 | 9 | **I have not hit my daily loss limit** | If I have, I'm done for the day |
 | 10 | **I am calm and detached from the outcome** | If I "need" this trade to work, I shouldn't take it |
 
@@ -207,7 +207,7 @@ Before entering ANY trade, ALL of these must be true:
 
 ### Pre-Market (7:00–9:30 AM ET)
 
-1. Check overnight futures — any gap setting up?
+1. Check overnight [futures](09-futures-trading-energy-and-receipts.md) — any gap setting up?
 2. Check economic calendar — any catalysts today? (CPI, Fed, earnings)
 3. Mark key levels on your watchlist from yesterday's price action
 4. Identify where the stops are sitting (just beyond obvious levels)
@@ -252,22 +252,22 @@ Before entering ANY trade, ALL of these must be true:
 Stop thinking about being "right" or "wrong" on a trade. Think about **expected value**:
 
 - If your strategy wins 45% of the time with a 2:1 reward:risk, you are profitable
-- If your strategy wins 60% of the time with a 1:0.5 reward:risk, you will lose money
+- If your strategy wins 60% of the time with a 1:0.5 reward:risk, you will lose [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)
 - **Win rate is meaningless without reward:risk. Reward:risk is meaningless without win rate. Together they determine your edge.**
 
 Calculate: (Win Rate × Average Win) − (Loss Rate × Average Loss) = Expected Value per trade
 
-If this number is positive, you will make money over time. If negative, you will lose. Everything else is noise.
+If this number is positive, you will make [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) over time. If negative, you will lose. Everything else is noise.
 
 ---
 
 ## VIII. The Hard Rules — Summary
 
-These are LAWS, not guidelines. Violate them and the market will extract your money:
+These are LAWS, not guidelines. Violate them and the market will extract your [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md):
 
 1. **1% risk per trade maximum. No exceptions.**
 2. **3% daily loss limit. Hit it, you're done.**
-3. **Trade only during money windows (9:30–11:00, 14:00–15:30 ET).**
+3. **Trade only during [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) windows (9:30–11:00, 14:00–15:30 ET).**
 4. **Never enter without a pre-defined stop loss.**
 5. **Minimum 2:1 reward:risk on every trade.**
 6. **No volume = no trade. Low-volume breakouts are traps.**
@@ -290,7 +290,7 @@ The traders who consistently profit understand that their trades exist **within 
 
 **Day trading is not about being right. It's about being aligned with the flow and protecting yourself when you're not.**
 
-→ See also: [05-how-money-flows-in-the-system.md](05-how-money-flows-in-the-system.md) — the macro current your trades exist within  
+→ See also: [05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) — the macro current your trades exist within  
 → See also: [07-investing-and-compounding.md](07-investing-and-compounding.md) — what you do with the profits  
 → See also: [08-escaping-the-rat-race.md](08-escaping-the-rat-race.md) — the endgame
 
