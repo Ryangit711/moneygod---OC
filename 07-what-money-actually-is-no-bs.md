@@ -128,6 +128,27 @@ If [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)
 
 ## References
 
+## See also
+- [central bank](05-how-money-flows-in-the-system.md)
+- [commercial bank](03-money-as-debt-modern-system.md)
+- [money](03-money-as-debt-modern-system.md)
+- [debt](01-origins-of-money-and-debt.md)
+- [forex](08-forex-trading-the-purest-flow.md)
+- [futures](09-futures-trading-energy-and-receipts.md)
+- [liquidity](13-weekly-flow-tapping-operating-system.md)
+- [reserves](14-monetary-plumbing-global.md)
+- [credit](03-money-as-debt-modern-system.md)
+- [interest rate](08-forex-trading-the-purest-flow.md)
+- [inflation](03-money-as-debt-modern-system.md)
+- [Minsky cycle](05-how-money-flows-in-the-system.md)
+- [monetary plumbing](13-weekly-flow-tapping-operating-system.md)
+- [oikonomia](02-the-real-meaning-of-economy.md)
+- [household management](02-the-real-meaning-of-economy.md)
+- [who manages the household](12-who-knows-this-level.md)
+- [financial system](05-how-money-flows-in-the-system.md)
+- [bank](03-money-as-debt-modern-system.md)
+
+
 - **#19** — George Soros, *The Alchemy of Finance* (1987) — reflexivity in markets
 - **#51** — Ray Dalio, *Principles for Navigating Big [Debt](01-origins-of-money-and-debt.md) Crises* (2018) — the long-term [debt](01-origins-of-money-and-debt.md) cycle, how [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) flows between nations
 - **#53** — George Soros, *Alchemy of Finance* (1987) — how to see where [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) MUST go

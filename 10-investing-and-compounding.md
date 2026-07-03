@@ -183,6 +183,27 @@ Here's what the path looks like if you start at 30 with $10K and can generate $2
 
 ## References
 
+## See also
+- [central bank](05-how-money-flows-in-the-system.md)
+- [commercial bank](03-money-as-debt-modern-system.md)
+- [money](03-money-as-debt-modern-system.md)
+- [debt](01-origins-of-money-and-debt.md)
+- [forex](08-forex-trading-the-purest-flow.md)
+- [futures](09-futures-trading-energy-and-receipts.md)
+- [liquidity](13-weekly-flow-tapping-operating-system.md)
+- [reserves](14-monetary-plumbing-global.md)
+- [credit](03-money-as-debt-modern-system.md)
+- [interest rate](08-forex-trading-the-purest-flow.md)
+- [inflation](03-money-as-debt-modern-system.md)
+- [Minsky cycle](05-how-money-flows-in-the-system.md)
+- [monetary plumbing](13-weekly-flow-tapping-operating-system.md)
+- [oikonomia](02-the-real-meaning-of-economy.md)
+- [household management](02-the-real-meaning-of-economy.md)
+- [who manages the household](12-who-knows-this-level.md)
+- [financial system](05-how-money-flows-in-the-system.md)
+- [bank](03-money-as-debt-modern-system.md)
+
+
 - **#37** — Benjamin Graham, *The Intelligent Investor* (1949)
 - **#38** — Warren Buffett, *The Essays of Warren Buffett* (1997)
 - **#40** — Peter Lynch, *One Up on Wall Street* (1989)

@@ -219,3 +219,26 @@ Print it. Save it on your phone. Do the work. Watch the flow turn into freedom.
 *This document lives in your wiki at: github.com/Ryangit711/moenygod*  
 *Last updated: $(date)* 
 *Part of your living system for understanding [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md), tapping flow, and building freedom.*
+## References
+
+## See also
+- [central bank](05-how-money-flows-in-the-system.md)
+- [commercial bank](03-money-as-debt-modern-system.md)
+- [money](03-money-as-debt-modern-system.md)
+- [debt](01-origins-of-money-and-debt.md)
+- [forex](08-forex-trading-the-purest-flow.md)
+- [futures](09-futures-trading-energy-and-receipts.md)
+- [liquidity](13-weekly-flow-tapping-operating-system.md)
+- [reserves](14-monetary-plumbing-global.md)
+- [credit](03-money-as-debt-modern-system.md)
+- [interest rate](08-forex-trading-the-purest-flow.md)
+- [inflation](03-money-as-debt-modern-system.md)
+- [Minsky cycle](05-how-money-flows-in-the-system.md)
+- [monetary plumbing](13-weekly-flow-tapping-operating-system.md)
+- [oikonomia](02-the-real-meaning-of-economy.md)
+- [household management](02-the-real-meaning-of-economy.md)
+- [who manages the household](12-who-knows-this-level.md)
+- [financial system](05-how-money-flows-in-the-system.md)
+- [bank](03-money-as-debt-modern-system.md)
+
+[Complete reference list](references/master-reference-list.md)
