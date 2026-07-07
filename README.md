@@ -1,4 +1,8 @@
-# Moenygod
+# Moneygod — OC (OpenCode Fork)
+
+**Fork maintained by OpenCode.** Original at `Ryangit711/moenygod` (Hermes). This fork (`moneygod---OC`) is the OpenCode working copy. Merged later.
+
+---
 
 A personal wiki for understanding [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md), [debt](01-origins-of-money-and-debt.md), and economics at the deepest level — and using that knowledge to tap the flow, compound, and escape the rat race.
 
