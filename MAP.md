@@ -3,9 +3,10 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (3,248 lines · 19 files)               ║
+║            🌊 MONEYGOLD — OC  (3,248+ lines · 23 files)             ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"        ║
 ║     RAW TRUTH: Money = concentrated human time/energy                ║
+║     NEW LAYERS: Tri-Region (US→CA→EU) · Formulas · Systems           ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
                       ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
@@ -170,6 +171,17 @@
 │       need 2,000 hrs screen time + scar tissue)                     │
 └─────────────────────────────────────────────────────────────────────┘
 
+═══════════════════════════════════════════════════════════════════════
+  NEW LAYERS (Built on top — originals untouched)
+═══════════════════════════════════════════════════════════════════════
+
+│                                                                      │
+│  core/tri-region-flow-map.md          NEW — US→CA→EU flow map       │
+│  core/liquidity-equation.md           NEW — Net Liq = ΔBS-ΔTGA-ΔRRP │
+│  core/money-creation-mechanism.md     NEW — How each region creates  │
+│  mental-models/pipe-theory.md         NEW — "Sit in the pipe" model │
+│  systems/weekly-flow-checklist.md     NEW — 10-min tri-region check │
+│                                                                      │
 ═══════════════════════════════════════════════════════════════════════
                     THE THREE LAWS (Entire Repo)
 ═══════════════════════════════════════════════════════════════════════
