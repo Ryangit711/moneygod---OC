@@ -193,6 +193,15 @@
 │  systems/daily-pre-session.md         NEW — 5-min daily pre-session  │
 │  systems/position-sizing-by-flow.md   NEW — Size by liquidity        │
 │                                                                      │
+│  quickstart/01-broker-canada.md      NEW — Broker setup for Canada  │
+│  quickstart/02-platform-setup.md     NEW — MT5/TradingView walkthru │
+│  quickstart/03-demo-path.md          NEW — 30-day zero-to-demo plan │
+│  quickstart/pip-calculator.md        NEW — Pip values + positioning │
+│                                                                      │
+│  trading/prop-firm-playbook.md       NEW — From vault: prop firms   │
+│  trading/complete-strategy-orb-eurusd.md NEW — ORB + London break   │
+│  trading/trading-commandments.md     NEW — 10 rules before trade    │
+│                                                                      │
 ═══════════════════════════════════════════════════════════════════════
                     THE THREE LAWS (Entire Repo)
 ═══════════════════════════════════════════════════════════════════════
@@ -209,7 +218,7 @@
            freedom number and take back control of your time.
 
 ═══════════════════════════════════════════════════════════════════════
-               TOTAL: 3,248 lines · 16 wiki files · 5 new layers ·
+               TOTAL: 4,200+ lines · 16 wiki files · 15 new layers ·
                70+ references
 ═══════════════════════════════════════════════════════════════════════
 ```
