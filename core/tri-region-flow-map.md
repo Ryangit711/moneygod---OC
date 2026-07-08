@@ -1,4 +1,6 @@
 # TRI-REGION FLOW MAP
+## ⚠️ SUPERSEDED BY core/global-flow-map.md — SEE THAT FILE FOR THE COMPLETE 11-REGION MAP
+### This file preserved as a simpler 3-region reference for quick reading
 ## US (Primary) → Canada (Home) → Europe (Secondary)
 ### The Three Pools of Global Liquidity
 
