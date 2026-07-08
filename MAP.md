@@ -181,7 +181,8 @@
 │  core/money-creation-mechanism.md     NEW — How each region creates  │
 │  core/repo-plumbing.md                NEW — SOFR, repo market,       │
 │                                            crisis playbook           │
-│  core/global-flow-map.md             NEW — 11-region global flow    │
+│  core/global-flow-map.md             NEW — 18-region global flow    │
+│                                            +LATAM, Af, ME, SEA       │
 │                                            (supersedes tri-region)   │
 │  mental-models/pipe-theory.md         NEW — "Sit in the pipe" model │
 │  mental-models/wealth-code-synthesis.md  NEW — Wealth Code pyramid   │
