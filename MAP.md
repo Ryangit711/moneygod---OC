@@ -179,8 +179,16 @@
 │  core/tri-region-flow-map.md          NEW — US→CA→EU flow map       │
 │  core/liquidity-equation.md           NEW — Net Liq = ΔBS-ΔTGA-ΔRRP │
 │  core/money-creation-mechanism.md     NEW — How each region creates  │
+│  core/repo-plumbing.md                NEW — SOFR, repo market,       │
+│                                            crisis playbook           │
 │  mental-models/pipe-theory.md         NEW — "Sit in the pipe" model │
+│  mental-models/wealth-code-synthesis.md  NEW — Wealth Code pyramid   │
+│                                            merged with pipe theory   │
+│  mental-models/10-level-mastery-path.md  NEW — 18-month actionable   │
+│                                            path from vault's 10 lvls │
 │  systems/weekly-flow-checklist.md     NEW — 10-min tri-region check │
+│  systems/daily-pre-session.md         NEW — 5-min daily pre-session  │
+│  systems/position-sizing-by-flow.md   NEW — Size by liquidity        │
 │                                                                      │
 ═══════════════════════════════════════════════════════════════════════
                     THE THREE LAWS (Entire Repo)
@@ -198,6 +206,7 @@
            freedom number and take back control of your time.
 
 ═══════════════════════════════════════════════════════════════════════
-              TOTAL: 3,248 lines · 16 wiki files · 70+ references
+               TOTAL: 3,248 lines · 16 wiki files · 5 new layers ·
+               70+ references
 ═══════════════════════════════════════════════════════════════════════
 ```
