@@ -1,207 +1,258 @@
 # MONEYGOD — OC MASTER MIND MAP
-## (Updated: 2026-07-07)
+
+## (Updated: 2026-07-08)
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOLD — OC  (3,248+ lines · 23 files)             ║
+║            🌊 MONEYGOD — OC  (4,200+ lines · 31 files)              ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"        ║
 ║     RAW TRUTH: Money = concentrated human time/energy                ║
-║     NEW LAYERS: Tri-Region (US→CA→EU) · Formulas · Systems           ║
+║     STRUCTURE: 6 phases · read in order → don't skip                ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
-                      ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-                 ╱     THE WATERFALL (4 LEVELS)       ╲
-                ╱  Knowledge flows down. Each level    ╲
-               ╱   pours into the next.                  ╲
-              ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                       ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+                  ╱      THE WATERFALL (6 PHASES)       ╲
+                 ╱   Read top to bottom. Each phase       ╲
+                ╱    pours into the next.                   ╲
+               ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ┌─────────────────────────────────────────────────────────────────────┐
-│  LEVEL 1 — THE HEADWATERS (Origins & Architecture)                  │
-│  "Where the system came from and what it actually is"               │
+│  PHASE I — FOUNDATIONS (What Money Actually Is)                     │
+│  "Before you look at a chart, understand the substance"             │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  01-origins-of-money-and-debt.md     [144 lines]                    │
-│   ├── Barter myth debunked (Graeber — no society bartered)          │
-│   ├── Real origin: community credit & social obligation ledgers     │
-│   ├── Debt & sin share root word (Sanskrit rna, Aramaic hob)        │
-│   └── 4 steps: commodity > coinage > fiat > digital                 │
+│  📄 01-origins-of-money-and-debt.md              [144 lines]        │
+│    ├── Barter myth debunked (Graeber — no society bartered)         │
+│    ├── Real origin: community credit & social obligation ledgers     │
+│    ├── Debt & sin share root word (Sanskrit rna, Aramaic hob)       │
+│    └── 4 steps: commodity > coinage > fiat > digital                │
 │                                                                      │
-│  02-the-real-meaning-of-economy.md   [90 lines]                     │
-│   ├── Oikonomia (household management) vs Chrematistike (wealth     │
-│   │   getting for its own sake) — Aristotle's original distinction  │
-│   ├── 2008 = chrematistike destroying oikonomia                     │
-│   └── Core question: who manages the household, for whom?           │
+│  📄 02-the-real-meaning-of-economy.md             [90 lines]        │
+│    ├── Oikonomia (household management) vs Chrematistike            │
+│    │   (wealth-getting for its own sake) — Aristotle's distinction  │
+│    ├── 2008 = chrematistike destroying oikonomia                    │
+│    └── Core question: who manages the household, for whom?          │
 │                                                                      │
-│  03-money-as-debt-modern-system.md   [154 lines]                    │
-│   ├── Banks create money from nothing (BoE 2014 paper proof)        │
-│   ├── System REQUIRES perpetual growth (debt demands interest)      │
-│   ├── Inflation as hidden tax on savers                             │
-│   └── Cantillon effect: first receivers of new money benefit most   │
+│  📄 03-money-as-debt-modern-system.md             [154 lines]       │
+│    ├── Banks create money from nothing (BoE 2014 paper proof)       │
+│    ├── System REQUIRES perpetual growth (debt demands interest)     │
+│    ├── Inflation as hidden tax on savers                            │
+│    └── Cantillon effect: first receivers of new money benefit most  │
 │                                                                      │
-│  ──── FOUNDATION. Miss these, nothing else works. ────              │
+│  📄 04-what-the-powerful-understand.md            [122 lines]       │
+│    ├── 5 beliefs vs 5 truths (money, debt, inflation, banks,        │
+│    │   economy — what most believe vs what is real)                 │
+│    ├── Soros reflexivity: markets never efficient                   │
+│    ├── Debt as architecture of power                                │
+│    └── Crisis as opportunity — debt jubilee tradition               │
+│                                                                      │
+│  📄 07-what-money-actually-is-no-bs.md            [157 lines]       │
+│    ├── Money = concentrated human time/energy (literal)             │
+│    ├── Trader's job: sit in the pipe as flow passes through         │
+│    └── Ma, Ambani, Gates, Musk — what they know about money         │
+│                                                                      │
+│  ──── MISS THESE, NOTHING ELSE WORKS. ────                          │
 └─────────────────────────────────────────────────────────────────────┘
-                              ⬇
-                              ⬇
-                              ⬇
+                              ⬇⬇⬇
 ┌─────────────────────────────────────────────────────────────────────┐
-│  LEVEL 2 — THE CURRENT (Power & Flow Mechanics)                     │
-│  "What elites see that 99% don't"                                   │
+│  PHASE II — THE PLUMBING (How the Machine Works)                    │
+│  "Learn how money moves before you try to catch it"                 │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  04-what-the-powerful-understand.md  [122 lines]                    │
-│   ├── 5 beliefs vs 5 truths (money, debt, inflation, banks,         │
-│   │   economy — what most believe vs what is real)                   │
-│   ├── Soros reflexivity: markets never efficient, profit from break │
-│   ├── Debt as architecture of power (Mesopotamia > Rome > today)    │
-│   └── Crisis as opportunity — debt jubilee tradition                │
+│  📄 14-monetary-plumbing-global.md                [191 lines]       │
+│    ├── Two-layer engine: CB reserves > commercial bank credit       │
+│    └── SWIFT, CHIPS, Fedwire, Eurodollar, repo, shadow banking      │
 │                                                                      │
-│  05-how-money-flows-in-the-system.md [225 lines]                    │
-│   ├── Central bank pump (creates reserves)                          │
-│   ├── THREE POOL MODEL: Banks > Government > Markets                │
-│   ├── Minsky Cycle: stability > speculation > Ponzi > crash         │
-│   └── How to track money flow in real time                          │
+│  📄 core/repo-plumbing.md                        [NEW]              │
+│    ├── SOFR/repo market mechanics                                   │
+│    ├── Crisis playbook — 2019 repo spike, 2008, 2020               │
+│    └── How repo tells you liquidity stress before markets crash     │
 │                                                                      │
-│  ──── These answer "what do the powerful know that I don't?" ────   │
+│  📄 05-how-money-flows-in-the-system.md          [225 lines]       │
+│    ├── Central bank pump (creates reserves)                         │
+│    ├── THREE POOL MODEL: Banks > Government > Markets               │
+│    ├── Minsky Cycle: stability > speculation > Ponzi > crash        │
+│    └── How to track money flow in real time                         │
+│                                                                      │
+│  📄 core/global-flow-map.md                      [NEW]              │
+│    ├── 18-region master flow map                                    │
+│    ├── US → China → EU → Japan → UK → Switzerland → AU → NZ       │
+│    │   → SG → India → Russia → Brazil → Mexico → Chile             │
+│    │   → Saudi/Gulf → South Africa → SE Asia → Argentina/COP       │
+│    ├── Master transmission table (how flow propagates region→region)│
+│    ├── Carry trade matrix                                           │
+│    └── Traders flow deck                                             │
+│                                                                      │
+│  📄 core/money-creation-mechanism.md              [NEW]              │
+│    └── Per-region creation mechanics — how each CB creates money    │
+│                                                                      │
+│  📄 core/liquidity-equation.md                   [NEW]              │
+│    └── Net Liq = ΔCB BS − ΔTGA − ΔRRP — global liquidity in one    │
+│        line                                                          │
+│                                                                      │
+│  📄 core/tri-region-flow-map.md                  [NEW]              │
+│    ├── US→CA→EU simplified flow map (gentler intro)                 │
+│    └── Superseded by global-flow-map, kept as warmup                │
+│                                                                      │
+│  ──── AFTER THIS, YOU CAN READ THE MACHINE IN REAL TIME. ────      │
 └─────────────────────────────────────────────────────────────────────┘
-                              ⬇
-                              ⬇
-                              ⬇
+                              ⬇⬇⬇
 ┌─────────────────────────────────────────────────────────────────────┐
-│  LEVEL 3 — THE FAST WATER (Trading — Tapping the Flow)              │
-│  "Reading the current and positioning your bucket"                  │
+│  PHASE III — SYSTEMS & RITUAL (Discipline Before Strategy)          │
+│  "The ritual must exist before the trade"                           │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  06-day-trading-tap-the-flow.md      [315 lines]                    │
-│   ├── 3 layers: microstructure > flow > narrative                   │
-│   ├── 5 esoteric principles (liquidity, footprint, divergence,      │
-│   │   absorption, exhaustion)                                       │
-│   ├── Order book reading + tape reading                             │
-│   ├── Daily ritual (pre-market > session > review)                  │
-│   └── Hard rules (risk 1%/trade, no revenge, cut losses fast)       │
+│  📄 13-weekly-flow-tapping-operating-system.md  [244 lines]        │
+│    ├── 7 pressure points (Mon 30-min check): BoC balance sheet,     │
+│    │   repos, credit growth, bond auctions, WTI inventory,          │
+│    │   CAD-oil correlation, US TGA balance                          │
+│    ├── Liquidity verdict: NET IN (+) = risk-on. NET OUT (−) = safe  │
+│    └── Position sizing: 1%/trade, 3% daily max loss                 │
 │                                                                      │
-│  07-what-money-actually-is-no-bs.md  [157 lines]                    │
-│   ├── Money = concentrated human time/energy (literal)              │
-│   ├── Trader's job: sit in the pipe as flow passes through          │
-│   ├── CB opens valve > banks receive > institutions > retail exits  │
-│   └── Ma, Ambani, Gates, Musk — what they know about money          │
+│  📄 systems/weekly-flow-checklist.md             [NEW]              │
+│    ├── 15-min Monday tri-region check                               │
+│    ├── Data sources with URLs                                        │
+│    └── Verdict format: net in/net out/neutral                       │
 │                                                                      │
-│  08-forex-trading-the-purest-flow.md [321 lines]                    │
-│   ├── Currency pairs = nation-receipt game                          │
-│   ├── 6 forces: rates, commodities, risk sentiment, carry,          │
-│   │   liquidity, intervention                                       │
-│   ├── CANADIAN FX PLAYBOOK:                                         │
-│   │   ├── USD/CAD — oil correlation (WTI drives loonie)             │
-│   │   ├── BoC news fade playbook                                    │
-│   │   ├── CAD crosses with commodity bloc (AUD, NZD)                │
-│   │   └── Canadian brokers, tax, margin rules                       │
-│   ├── Carry trade, London fix, session overlaps                     │
-│   └── Hard rules (never trade news, no holding through NFP)         │
+│  📄 systems/daily-pre-session.md                 [NEW]              │
+│    ├── 5-min pre-session ritual                                      │
+│    └── 1-min post-session review                                     │
 │                                                                      │
-│  09-futures-trading-energy-and-receipts.md [310 lines]              │
-│   ├── Futures = bets on energy/commodity price direction            │
-│   ├── Contango vs backwardation (market tilts)                      │
-│   ├── COT report reading (commercial vs speculative positioning)    │
-│   ├── Canadian picks: WTI crude, nat gas, gold — all affect CAD     │
-│   └── FOREX+FUTURES MATRIX:                                         │
-│       WTI up > CAD up > short USD/CAD                               │
-│       Gold up > CAD up (Canada is gold producer)                    │
-│       NatGas up > CAD up (Alberta)                                  │
+│  📄 systems/position-sizing-by-flow.md           [NEW]              │
+│    ├── Size by liquidity regime matrix                              │
+│    └── Instrument multiplier per regime                             │
 │                                                                      │
-│  ──── TRADING ENGINE. Know these, tap the flow. ────                │
+│  ──── AFTER THIS, DISCIPLINE EXISTS BEFORE THE TRADE. ────         │
 └─────────────────────────────────────────────────────────────────────┘
-                              ⬇
-                              ⬇
-                              ⬇
+                              ⬇⬇⬇
 ┌─────────────────────────────────────────────────────────────────────┐
-│  LEVEL 4 — THE OCEAN (Escape & Freedom)                             │
-│  "What you do with the flow once you've tapped it"                  │
+│  PHASE IV — MENTAL MODELS (Mind Before Method)                      │
+│  "Cognitive architecture before technique"                          │
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  10-investing-and-compounding.md     [212 lines]                    │
-│   ├── TWO GAMES: flow game (trading) vs compound game (investing)   │
-│   ├── Asset hierarchy: cash > bonds > equities > RE > private       │
-│   ├── CANADIAN TAX SHIELDS: TFSA ($7K/yr), RRSP ($32K/yr),          │
-│   │   FHSA ($8K/yr), Norbert's Gambit for CAD>USD                   │
-│   └── Timeline: $10K > $100K > $1M (compounding tables)             │
+│  📄 mental-models/pipe-theory.md                 [NEW]              │
+│    ├── Core model: sit in the pipe                                  │
+│    ├── Flow > prediction                                             │
+│    └── Liquidity > analysis                                         │
 │                                                                      │
-│  11-escaping-the-rat-race.md         [216 lines]                    │
-│   ├── FREEDOM NUMBER: monthly burn x 12 x 30 (4% rule)              │
-│   ├── THREE PHASES:                                                 │
-│   │   Phase 1 — Stack ammo ($50K liquid + no debt)                  │
-│   │   Phase 2 — Build pipe (consistent trading + compounding)        │
-│   │   Phase 3 — Extract and live (freedom number hit)               │
-│   ├── THE FOUR KILLERS: lifestyle creep, leverage, taxes, wife      │
-│   ├── Canadian path: TFSA > RRSP > FHSA > Margin > Real Estate     │
-│   └── Hard rules: never touch principal, 6-month buffer             │
+│  📄 mental-models/wealth-code-synthesis.md       [NEW]              │
+│    ├── Wealth Code pyramid × pipe theory                            │
+│    └── 18 Rule Book principles rewired for trader                   │
 │                                                                      │
-│  ──── THE POINT. Everything builds to this. ────                     │
+│  📄 mental-models/10-level-mastery-path.md       [NEW]              │
+│    └── 18-month actionable path. User at 25/100 → 100/100          │
+│                                                                      │
+│  ──── AFTER THIS, YOUR MIND IS STRUCTURED. YOU KNOW THE PATH. ──── │
 └─────────────────────────────────────────────────────────────────────┘
-                              ⬇
-                              ⬇
-                              ⬇
+                              ⬇⬇⬇
 ┌─────────────────────────────────────────────────────────────────────┐
-│  SUPPORT — THE NETWORK HOLDING THE WATER                            │
+│  PHASE V — TRADING (Tapping the Flow)                               │
+│  "Last phase, not first — sits on everything above"                 │
+├─────────────────────────────────────────────────────────────────────┤
 │                                                                      │
-│  12-who-knows-this-level.md          [165 lines]                    │
-│   ├── GETS IT: Hudson, Graeber, Keen, Werner, Kelton, Soros,        │
-│   │   Druckenmiller, Dalio, Taleb                                   │
-│   └── DOESN'T: 95% textbooks, CNBC, finance ministers, retail       │
+│  ── PREP (Before First Trade) ──                                    │
 │                                                                      │
-│  13-weekly-flow-tapping-operating-system.md [244 lines]            │
-│   ├── 7 pressure points (Mon 30-min check): BoC balance sheet,      │
-│   │   repos, credit growth, bond auctions, WTI inventory,           │
-│   │   CAD-oil correlation, US TGA balance                           │
-│   ├── Liquidity verdict: NET IN (+) = risk-on. NET OUT (-) = safe   │
-│   └── Position sizing: 1%/trade, 3% daily max loss                  │
+│  📄 quickstart/01-broker-canada.md              [NEW]               │
+│    ├── IBKR, OANDA, Forex.com, NinjaTrader, Goat, FTMO              │
+│    ├── Step-by-step account opening                                  │
+│    ├── TFSA/RRSP/FHSA restrictions                                  │
+│    └── Minimum capital table                                        │
 │                                                                      │
-│  14-monetary-plumbing-global.md      [191 lines]                    │
-│   ├── Two-layer engine: CB reserves > commercial bank credit        │
-│   └── SWIFT, CHIPS, Fedwire, Eurodollar, repo, shadow banking      │
+│  📄 quickstart/pip-calculator.md                [NEW]               │
+│    ├── Pip values per pair per lot size                              │
+│    ├── Position sizing formula with examples                        │
+│    └── Quick ref tables for $10K / $2K accounts                     │
 │                                                                      │
-│  14-forex-clock-resources.md         [186 lines]                    │
-│   ├── Session overlaps (Tokyo/London/NY)                            │
-│   └── Key CAD release times (BoC, StatsCan, employment)             │
+│  📄 quickstart/02-platform-setup.md             [NEW]               │
+│    ├── Install MT5 + TradingView                                     │
+│    ├── First trade walkthrough (buy/sell, SL/TP)                    │
+│    ├── Order types cheat sheet                                       │
+│    └── Common mistakes                                               │
 │                                                                      │
-│  references/master-reference-list.md [178 lines]                    │
-│   └── 70+ books, papers, tools in 11 categories                     │
+│  ── THEORY ──                                                        │
 │                                                                      │
-│  conversations/2026-07-07_oc-session-01.md                          │
-│   ├── Q1: How many know this? ~5,000 globally                       │
-│   └── Q2: Where am I on 1-100? 25/100 (intellectual mastery done,   │
-│       need 2,000 hrs screen time + scar tissue)                     │
+│  📄 14-forex-clock-resources.md                [186 lines]          │
+│    ├── Session overlaps (Tokyo/London/NY)                           │
+│    └── Key CAD release times (BoC, StatsCan, employment)            │
+│                                                                      │
+│  📄 08-forex-trading-the-purest-flow.md        [321 lines]          │
+│    ├── Currency pairs = nation-receipt game                         │
+│    ├── 6 forces: rates, commodities, risk sentiment, carry,         │
+│    │   liquidity, intervention                                       │
+│    ├── CANADIAN FX PLAYBOOK (oil, BoC news fade, CAD crosses)       │
+│    ├── Carry trade, London fix, session overlaps                    │
+│    └── Hard rules (never trade news, no holding through NFP)        │
+│                                                                      │
+│  📄 09-futures-trading-energy-and-receipts.md  [310 lines]          │
+│    ├── Futures = bets on energy/commodity price direction           │
+│    ├── Contango vs backwardation (market tilts)                     │
+│    ├── COT report reading                                           │
+│    ├── Canadian picks: WTI crude, nat gas, gold                     │
+│    └── FOREX+FUTURES MATRIX: WTI↑ > CAD↑ > short USD/CAD            │
+│                                                                      │
+│  📄 06-day-trading-tap-the-flow.md             [315 lines]          │
+│    ├── 3 layers: microstructure > flow > narrative                  │
+│    ├── 5 esoteric principles (liquidity, footprint, divergence,     │
+│    │   absorption, exhaustion)                                      │
+│    ├── Order book reading + tape reading                            │
+│    ├── Daily ritual (pre-market > session > review)                 │
+│    ├── Hard rules (risk 1%/trade, no revenge, cut losses fast)      │
+│    └── ◀ MOVED HERE — was at step 6, now at step 22                │
+│                                                                      │
+│  ── ACTION ──                                                        │
+│                                                                      │
+│  📄 trading/complete-strategy-orb-eurusd.md    [NEW]                │
+│    ├── ORB (USD/CAD, NY session)                                    │
+│    ├── London breakout (EUR/USD)                                    │
+│    ├── Pre-session checklist                                         │
+│    └── Post-trade journal template                                   │
+│                                                                      │
+│  📄 quickstart/03-demo-path.md                [NEW]                 │
+│    ├── Day 1 → Day 30 plan                                           │
+│    ├── Week 1 exploration → Week 4 discipline                       │
+│    └── Trade log template included                                  │
+│                                                                      │
+│  📄 trading/prop-firm-playbook.md             [NEW]                 │
+│    ├── Goat/Apex/FTMO/Topstep comparison                            │
+│    ├── MES/MNQ/MGC/MBT specs and daily P/L targets                  │
+│    └── Vancouver session map + eval nuances                         │
+│                                                                      │
+│  📄 trading/trading-commandments.md           [NEW]                 │
+│    ├── 10 rules from vault                                           │
+│    └── Print this. Read before every session. Forever.              │
+│                                                                      │
+│  ──── AFTER THIS, YOU CAN TRADE. NOT BEFORE. ────                   │
+└─────────────────────────────────────────────────────────────────────┘
+                              ⬇⬇⬇
+┌─────────────────────────────────────────────────────────────────────┐
+│  PHASE VI — FREEDOM (The Why)                                       │
+│  "What you're building toward — the escape"                         │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📄 10-investing-and-compounding.md            [212 lines]          │
+│    ├── TWO GAMES: flow game (trading) vs compound game (investing)  │
+│    ├── Asset hierarchy: cash > bonds > equities > RE > private      │
+│    ├── CANADIAN TAX SHIELDS: TFSA ($7K/yr), RRSP ($32K/yr),         │
+│    │   FHSA ($8K/yr), Norbert's Gambit                              │
+│    └── Timeline: $10K > $100K > $1M (compounding tables)            │
+│                                                                      │
+│  📄 11-escaping-the-rat-race.md                [216 lines]          │
+│    ├── FREEDOM NUMBER: monthly burn × 12 × 30 (4% rule)             │
+│    ├── THREE PHASES: Stack ammo → Build pipe → Extract and live     │
+│    ├── THE FOUR KILLERS: lifestyle creep, leverage, taxes, wife     │
+│    └── Canadian path: TFSA > RRSP > FHSA > Margin > Real Estate    │
+│                                                                      │
+│  📄 12-who-knows-this-level.md                [165 lines]           │
+│    ├── GETS IT: Hudson, Graeber, Keen, Werner, Kelton, Soros,       │
+│    │   Druckenmiller, Dalio, Taleb                                   │
+│    └── DOESN'T: 95% textbooks, CNBC, finance ministers, retail      │
+│                                                                      │
+│  📄 references/master-reference-list.md       [178 lines]           │
+│    └── 70+ books, papers, tools in 11 categories                    │
+│                                                                      │
+│  ──── THIS IS THE POINT. EVERYTHING BUILDS TO HERE. ────            │
 └─────────────────────────────────────────────────────────────────────┘
 
-═══════════════════════════════════════════════════════════════════════
-  NEW LAYERS (Built on top — originals untouched)
-═══════════════════════════════════════════════════════════════════════
-
-│                                                                      │
-│  core/tri-region-flow-map.md          NEW — US→CA→EU flow map       │
-│  core/liquidity-equation.md           NEW — Net Liq = ΔBS-ΔTGA-ΔRRP │
-│  core/money-creation-mechanism.md     NEW — How each region creates  │
-│  core/repo-plumbing.md                NEW — SOFR, repo market,       │
-│                                            crisis playbook           │
-│  core/global-flow-map.md             NEW — 18-region global flow    │
-│                                            +LATAM, Af, ME, SEA       │
-│                                            (supersedes tri-region)   │
-│  mental-models/pipe-theory.md         NEW — "Sit in the pipe" model │
-│  mental-models/wealth-code-synthesis.md  NEW — Wealth Code pyramid   │
-│                                            merged with pipe theory   │
-│  mental-models/10-level-mastery-path.md  NEW — 18-month actionable   │
-│                                            path from vault's 10 lvls │
-│  systems/weekly-flow-checklist.md     NEW — 10-min tri-region check │
-│  systems/daily-pre-session.md         NEW — 5-min daily pre-session  │
-│  systems/position-sizing-by-flow.md   NEW — Size by liquidity        │
-│                                                                      │
-│  quickstart/01-broker-canada.md      NEW — Broker setup for Canada  │
-│  quickstart/02-platform-setup.md     NEW — MT5/TradingView walkthru │
-│  quickstart/03-demo-path.md          NEW — 30-day zero-to-demo plan │
-│  quickstart/pip-calculator.md        NEW — Pip values + positioning │
-│                                                                      │
-│  trading/prop-firm-playbook.md       NEW — From vault: prop firms   │
-│  trading/complete-strategy-orb-eurusd.md NEW — ORB + London break   │
-│  trading/trading-commandments.md     NEW — 10 rules before trade    │
-│                                                                      │
 ═══════════════════════════════════════════════════════════════════════
                     THE THREE LAWS (Entire Repo)
 ═══════════════════════════════════════════════════════════════════════
@@ -218,7 +269,17 @@
            freedom number and take back control of your time.
 
 ═══════════════════════════════════════════════════════════════════════
-               TOTAL: 4,200+ lines · 16 wiki files · 15 new layers ·
-               70+ references
+
+## Reference Files (Not in the Linear Flow)
+
+| File | What It Is | When to Use |
+|------|-----------|-------------|
+| `conversations/2026-07-07_oc-session-01.md` | Session record — where you started | Read anytime for context |
+| `quickstart/pip-calculator.md` | Pip values + position sizing | Open alongside any trade |
+| `trading/trading-commandments.md` | 10 rules | Read before every session |
+| `trading/prop-firm-playbook.md` | Funded account specs | When you graduate demo (Day 30+) |
+
 ═══════════════════════════════════════════════════════════════════════
-```
+                TOTAL: 4,200+ lines · 31 files · 6 phases ·
+                70+ references
+═══════════════════════════════════════════════════════════════════════
