@@ -4,10 +4,11 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (5,000+ lines · 32 files)              ║
+║            🌊 MONEYGOD — OC  (6,000+ lines · 33 files)              ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"        ║
 ║     RAW TRUTH: Money = concentrated human time/energy                ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                ║
+║     FRONT DOOR: CURRICULUM.md (start here if new)                   ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 
                        ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
@@ -288,12 +289,13 @@
 
 | File | What It Is | When to Use |
 |------|-----------|-------------|
+| **`CURRICULUM.md`** | **Full study path: zero to funded trader** | **START HERE if new. Day-by-day plan with exercises, milestones.** |
 | `conversations/2026-07-07_oc-session-01.md` | Session record — where you started | Read anytime for context |
 | `quickstart/pip-calculator.md` | Pip values + position sizing | Open alongside any trade |
 | `trading/trading-commandments.md` | 10 rules | Read before every session |
 | `trading/prop-firm-playbook.md` | Funded account specs | When you graduate demo (Day 30+) |
 
 ═══════════════════════════════════════════════════════════════════════
-                TOTAL: 5,000+ lines · 32 files · 6 phases ·
+                TOTAL: 6,000+ lines · 33 files · 6 phases ·
                 70+ references
 ═══════════════════════════════════════════════════════════════════════

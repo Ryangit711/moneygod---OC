@@ -1,5 +1,11 @@
 # READING ORDER — Moneygod Wiki
 
+## Front Door: CURRICULUM.md
+
+**If you are starting from zero, go to CURRICULUM.md first.** That file tells you what to read, what to do, and in what sequence — day by day, week by week. This READING_ORDER.md is the backup reference: the sequence of files alone, without the exercises, timelines, or milestones.
+
+---
+
 ## The Correct Waterfall (6 Phases)
 
 Do not read by file number. The original numbering was written before plumbing, systems, and mental models were added. Read in this sequence. Each phase assumes you have completed the previous one.
