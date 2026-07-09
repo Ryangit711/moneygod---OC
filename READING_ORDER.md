@@ -35,6 +35,7 @@ Now that you know what money is, learn how it actually moves. This phase was **o
 | 5 | `core/money-creation-mechanism.md` | Per-region creation mechanics — how each region's CB creates money and how it enters the real economy. |
 | 6 | `core/liquidity-equation.md` | Net Liq = ΔCB BS − ΔTGA − ΔRRP. The formula that lets you read global liquidity in one line. |
 | 7 | `core/tri-region-flow-map.md` | US→CA→EU simplified map. Good warmup before the 18-region map. (Note: superseded by global-flow-map but kept as gentler introduction.) |
+| 8 | `core/plumbing-esoterica.md` | **What only insiders know.** Eurodollar system, cross-currency basis swaps, FRA-OIS, primary dealer positioning, FX swap funding, CCP margin cascades, CP/shadow bank plumbing, China's parallel plumbing (CIPS, e-CNY, MLF/SLF/PSL), BIS statistics, SDR mechanics, NBFI. |
 
 **Checkpoint:** After Phase II, you can read the machine's state in real time. You know where money is being created, where it's flowing, and what would break.
 

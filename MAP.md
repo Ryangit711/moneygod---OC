@@ -4,7 +4,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (4,200+ lines · 31 files)              ║
+║            🌊 MONEYGOD — OC  (5,000+ lines · 32 files)              ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"        ║
 ║     RAW TRUTH: Money = concentrated human time/energy                ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                ║
@@ -93,6 +93,20 @@
 │  📄 core/tri-region-flow-map.md                  [NEW]              │
 │    ├── US→CA→EU simplified flow map (gentler intro)                 │
 │    └── Superseded by global-flow-map, kept as warmup                │
+│                                                                      │
+│  📄 core/plumbing-esoterica.md                   [NEW]              │
+│    ├── Eurodollar system — the $14T+ offshore USD market            │
+│    ├── Cross-currency basis swaps — hidden plumbing gauge           │
+│    ├── FRA-OIS / plumbing stress gauges                             │
+│    ├── Primary dealer positioning — plumbers' own books             │
+│    ├── FX swap funding market — bigger than spot, invisible          │
+│    ├── CCP margin cascade — the hidden liquidity drain               │
+│    ├── CP & shadow bank plumbing — the canary                        │
+│    ├── IOER/ON RRP corridor — Fed's control room                    │
+│    ├── China's parallel plumbing — CIPS, e-CNY, PBOC tools          │
+│    ├── BIS statistics reading — central bankers' data feed          │
+│    ├── SDR mechanics — stealth reserve asset                        │
+│    └── NBFI/shadow banking — where next break happens               │
 │                                                                      │
 │  ──── AFTER THIS, YOU CAN READ THE MACHINE IN REAL TIME. ────      │
 └─────────────────────────────────────────────────────────────────────┘
@@ -280,6 +294,6 @@
 | `trading/prop-firm-playbook.md` | Funded account specs | When you graduate demo (Day 30+) |
 
 ═══════════════════════════════════════════════════════════════════════
-                TOTAL: 4,200+ lines · 31 files · 6 phases ·
+                TOTAL: 5,000+ lines · 32 files · 6 phases ·
                 70+ references
 ═══════════════════════════════════════════════════════════════════════
