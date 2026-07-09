@@ -22,6 +22,7 @@
 | 8 | COUNTRY-SPECIFIC PLUMBING | US (primary) → Canada → EU → Japan → China |
 | 9 | RESEARCH PATH + ICT INTEGRATION | The curriculum, the sources, the ICT synthesis |
 | 10 | YOUR EXFILTRATION PATH | From where you are now to the other side |
+| 11 | READER'S LEXICON | Feynman breakdowns of fuzzy terms flagged during study — grows with every session |
 
 ---
 
@@ -2344,7 +2345,83 @@ The flow is real. The pipe exists. Your job is to sit in the right section of th
 
 *This document is a living reference. As the system evolves, this document evolves. The plumbing hierarchy is not fixed — it shifts with every central bank decision, every crisis, every innovation. The principles are permanent. The applications are adaptive.*
 
-*Last updated: July 2026*
+*Last updated: July 2026 — BOE 2014 Quarterly Bulletin nuances ingested into Part 11*
+
+---
+
+## PART 11 — READER'S LEXICON: FEYNMAN BREAKDOWNS FROM THE STUDY SESSION
+
+> This is a living appendix. Every term the reader flags during study gets broken down from first principles, no jargon, no assumed knowledge. Batched and appended after every session. The file grows as you learn.
+
+---
+
+### 11.1 Fountain Pen Money (Tobin, 1963)
+
+**What you heard:** "Money is created at the stroke of a pen (or keystroke) when a bank issues a loan."
+
+**The Feynman:** Imagine you have a ledger book — one column for "what people deposited" and one column for "what we lent out." A bank doesn't need to have $100 in deposits before lending $100. It simply writes "$100" in the borrower's account as a new deposit. Both entries happen at the same time on the bank's books. The pen (or keyboard) is the mint.
+
+James Tobin, the Yale economist, called this "fountain pen money" in 1963 because: the bank dips its pen in — writes a number — and out comes brand new purchasing power that didn't exist two seconds ago. The pen is the fountain of creation.
+
+**Why it matters for trading:** Every new loan creates new deposits. New deposits chase assets. When credit expands broadly, liquidity floods markets. When credit contracts (loans being repaid faster than new ones issued), deposits get destroyed, liquidity drains. You can feel this in risk-on/risk-off rotations.
+
+---
+
+### 11.2 The Single-Bank vs. All-Banks Constraint
+
+**What you heard:** "An individual bank can't lend without limit because it loses deposits to other banks. But if ALL banks expand together, the constraint vanishes."
+
+**The Feynman:** Think of a poker table with 10 players. One player can't print his own chips — if he gives himself extra chips, the other 9 won't accept them in payment. He'd be isolated, the game breaks for him.
+
+But if ALL 10 players agree to double everyone's chips at the same time? Now the game continues. The new chips work for everyone. Nobody is "short" because everyone has double.
+
+**Single bank case:** Bank A lends $100 to Alice. Alice buys a car from Bob, who banks at Bank B. Bank A's books show: -$100 in reserves (they left to Bank B). If Bank A keeps doing this, its reserve balance drains to zero. It can't keep creating money alone.
+
+**All-banks case:** Bank A, B, C, D, E all lend $100 simultaneously. Alice buys from Bob (both within the system). Reserves shuffle between banks but stay inside the banking system as a whole. No single bank drains. The system expands together.
+
+**Why it matters for trading:** Credit cycles are collective. When all banks expand (loose monetary policy, low rates), the entire system pumps liquidity. When one bank alone is tight (idiosyncratic), it doesn't matter. Watch the aggregate — are ALL banks expanding or contracting? That's your answer for where liquidity is going.
+
+---
+
+### 11.3 The Hot Potato Effect vs. Reflux
+
+**What you heard:** "Newly created money passes between households until someone spends it on goods/services (inflation) or repays debt (reflux)."
+
+**The Feynman:** The central bank creates £100 of new money (say, via QE). This £100 is sitting in someone's bank account. What happens next depends on what that someone does with it:
+
+**Scenario A — Hot Potato:** The person doesn't want to hold the £100 cash. They try to give it away by buying an asset (stock, house, bond). The seller now has the £100. Same issue — the seller also doesn't want excess cash. They buy something else. The £100 bounces from person to person like a hot potato — everyone tries to pass it off. Nobody wants to hold it. Eventually, someone spends it on a real good or service (a meal, a car, rent), and the price of that thing goes up. That's inflation. The hot potato keeps moving until it hits real economic output and pushes prices up.
+
+**Scenario B — Reflux:** The person looks at the £100, says "I have an outstanding loan at 5% interest," and immediately repays the loan. The £100 goes back to the bank, which cancels both the loan and the deposit from its balance sheet. The money disappears — destroyed, gone, refluxed back into the banking system. No hot potato, no inflation, nothing.
+
+**The dynamic that determines inflation:** If newly created money is used to repay debt (reflux), there's no inflation. If it's used to buy goods and services (hot potato keeps moving), there IS inflation. The net effect depends on whether the economy is:
+- **Deleveraging** (lots of debt to repay) → reflux dominates → low inflation even with money creation
+- **Expanding** (people want to spend) → hot potato dominates → inflation appears
+
+**Why it matters for trading:** This is how massive QE (2009-2021) coexisted with low inflation for years — the reflux was dominant. Then when confidence returned and spending took over (2021-2023), the hot potato effect kicked in and inflation surged. The mechanism was always the same. The regime shifted.
+
+---
+
+### 11.4 The Reverse Money Multiplier
+
+**What you heard:** "Textbooks say: reserves → loans → deposits. Reality: loans → deposits → reserves."
+
+**The Feynman:** The textbook story goes like this: Central bank creates reserves → banks now have extra reserves → banks lend out those reserves → borrowers get deposits → money is "multiplied." It sounds logical. It is also backwards.
+
+**The actual chain:**
+
+1. A creditworthy borrower walks into a bank and asks for a loan.
+2. The bank checks: is the borrower good for it? Yes.
+3. The bank creates a new loan (asset) and a new deposit (liability) simultaneously — on the same keystroke.
+4. The borrower has new money to spend.
+5. When the borrower spends it, the money moves to another bank. That bank now has a new deposit.
+6. To settle, the receiving bank asks for reserves from the originating bank. The originating bank now needs more reserves.
+7. It borrows reserves in the interbank market or from the central bank.
+
+**The direction: loans create deposits create reserve demand.** Not the other way around. The money multiplier runs in reverse. Reserves are the caboose, not the engine.
+
+The Bank of England made this explicit in their 2014 Quarterly Bulletin — the definitive institutional refutation of the multiplier myth. They showed that the correlation textbooks cite (more reserves → more lending) is just that: correlation, not causation. Both rise together because lending creates reserve demand, not because reserves enable lending.
+
+**Why it matters for trading:** If you hear "the Fed is adding reserves, so lending must expand" — that's the textbook view, and it's wrong. Banks don't lend because they have reserves. They lend because they find creditworthy borrowers at profitable rates. Watch credit demand (borrower behavior), not reserve supply (Fed operations). The demand side drives the pipe. Supply accommodates.
 
 
 
