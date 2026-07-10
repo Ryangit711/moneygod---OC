@@ -2423,6 +2423,46 @@ The Bank of England made this explicit in their 2014 Quarterly Bulletin — the 
 
 **Why it matters for trading:** If you hear "the Fed is adding reserves, so lending must expand" — that's the textbook view, and it's wrong. Banks don't lend because they have reserves. They lend because they find creditworthy borrowers at profitable rates. Watch credit demand (borrower behavior), not reserve supply (Fed operations). The demand side drives the pipe. Supply accommodates.
 
+---
+
+### 11.5 The Unified Valve — QE, Rate Cuts, TGA Drawdown
+
+**What you heard:** "Central bank opens valve (QE, rate cut, TGA drawdown) → dollar liquidity surges."
+
+**The Feynman:** There are three different pipes that all end up adding reserves to the banking system. They just enter at different points:
+
+**Pipe 1 — QE (Quantitative Easing):** The Fed buys a 10-year Treasury bond from a pension fund. The Fed pays by typing new reserves into the pension fund's bank account. Result: the pension fund has cash instead of a bond, the banking system has +$X in reserves, and the Fed holds the bond. What actually happened: the Fed pulled duration out of the private sector and replaced it with liquidity.
+
+**Pipe 2 — Rate Cut:** The Fed lowers IORB (Interest on Reserve Balances) from 5% to 4%. A bank that was earning $5M/year on $100M of reserves by doing nothing now earns only $4M. That missing $1M is a pain signal. The bank looks for something else to do with the money — lend it, buy assets, deploy it. The rate cut didn't create new reserves. It lowered the opportunity cost of not-lending. It greased the pipe so existing reserves move faster.
+
+**Pipe 3 — TGA Drawdown:** The Treasury writes a $100B check (stimulus, contractor payment, Social Security). The money lives in the Treasury General Account at the Fed. When the check clears, the TGA balance drops $100B and bank reserves rise $100B. That's a direct dollar-for-dollar transfer from the Treasury's account to the banking system. No new money created by the Fed — fiscal spending lands as reserves.
+
+**The kid explanation:** QE is dumping a bucket of water into the top of the pipe. Rate cut is making the pipe walls more slippery so water flows faster. TGA drawdown is a second faucet at the side of the pipe. All three add water downstream. But they arrive at different speeds (QE instant, rate cut gradual, TGA drawdown lumpy).
+
+**Why it matters for trading:** When you hear "liquidity injection," ask *which* pipe. QE adds reserves AND removes duration (bonds) from the market — bullish for long-duration assets. Rate cuts change the incentive to deploy cash — bullish for risk assets but slowly. TGA drawdown is pure reserve injection with no duration removal — directly adds fuel for repo markets and short-end liquidity. They are not the same thing even though they look the same on a balance sheet.
+
+---
+
+### 11.6 The Cantillon Effect
+
+**What you heard:** "New money enters at one point, first receivers get full purchasing power, last receivers get diluted."
+
+**The Feynman — the pizza party:** Imagine a pizza delivered to a long table. The box opens at one end. The people sitting closest to the box grab big slices while the pizza is full — hot, loaded, perfect. The people at the far end get whatever is left — smaller slices, cold, missing pepperoni. Everyone paid the same price. The difference is purely geometry.
+
+Money works the same way. New dollars don't rain down evenly on everyone. They enter at one specific point — the spigot:
+
+1. **The spigot** = where money is created. Central bank creates reserves. Bank issues a loan. Treasury spends from the TGA. That's the single tap.
+
+2. **First receivers (closest to the spigot):** Primary dealers (the 24 banks that trade directly with the Fed), banks receiving QE proceeds, government contractors getting paid from TGA. They get new dollars **before prices have adjusted**. They buy assets at the old, lower prices. Full purchasing power.
+
+3. **Later receivers (far from the spigot):** The pension fund that sold bonds to the Fed now has cash. They buy stocks. Stock prices rise slightly. The next guy buys corporate bonds. Bond yields tighten. By the time a small business gets a loan 12 steps later, the prices of everything have already been pushed up by the earlier dollars. His dollar buys less.
+
+**The core insight:** The Cantillon Effect is not about who "deserves" the money. It's about the **propagation sequence**. Money moves through the economy like a wave through a stadium crowd. The people at the wave's origin feel nothing; the people 50 seats down get knocked over. By the time it reaches the far end, it's barely a ripple — but prices have already changed everywhere.
+
+**Why it matters for trading:** If you know where the spigot is and can sit near it, you capture the first wave of new money before it distorts prices. This is why primary dealer franchise, prime brokerage access, and being a first-mover in asset classes matter. It's not insider trading. It's knowing the geometry of money entry. Every QE round, every stimulus check, every debt issuance — ask "who gets this first?" and sit there.
+
+**The one-sentence version:** New money enters at one spot and spreads like spilled milk — the people who lap it up first get the most, the people who find it after it's soaked into the carpet get the least.
+
 
 
 
