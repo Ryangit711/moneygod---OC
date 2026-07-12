@@ -295,16 +295,18 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`trading/prop-firm-playbook.md`** | 81 | Funded account specs (Goat/FTMO/Apex) | Day 30+ when gradating demo |
 | **`references/master-reference-list.md`** | 178 | 70+ books/papers/tools in 11 categories | Deep research on any topic |
 | **`GROWTH_PROTOCOL.md`** | 101 | Living system heartbeat — how the repo evolves with every study session | Read before and after every session |
-| **`README.md`** | 130 | Repo overview | First-time visitors |
+| **`MAP.md`** | 408 | Complete mindmap — all files, connections, Part 11 cross-refs | Navigate the entire repo |
+| **`MAP_360.md`** | ~300 | 360° architecture view — system connections, term clusters, esoteric truths | Full system overview at a glance |
+| **`README.md`** | 41 | Repo overview | First-time visitors |
 
 ---
 
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (41 files · ~11,400 lines)
+📁 moneygod-oc/ (43 files · ~11,400 lines)
 │
-├── 📄 ROOT (14 files · 2,447 lines)
+├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
 │   ├── 02-the-real-meaning-of-economy.md ...........  98  │ Phase I
 │   ├── 03-money-as-debt-modern-system.md ........... 125  │ Phase I
@@ -359,10 +361,11 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ├── 📄 plumbing-hierarchy-master.md .................3307  │ DEEP DIVE — 12 parts
 │
 ├── 📄 CURRICULUM.md ................................ 361  │ Front door
-├── 📄 MAP.md ....................................... THIS │ You are here
+├── 📄 MAP.md ....................................... 408  │ Mindmap
+├── 📄 MAP_360.md ................................... THIS │ 360° architecture view
 ├── 📄 READING_ORDER.md ............................. 150  │ File sequence
-├── 📄 README.md .................................... 130  │ Repo overview
-└── 📄 SYSTEM_MAP_360.md ........................... 936  │ 3-pillar god view
+├── 📄 GROWTH_PROTOCOL.md ........................... 101  │ Living system heartbeat
+└── 📄 README.md ....................................  41  │ Repo overview
 ```
 
 ---
@@ -388,7 +391,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 41 |
+| Total files | 43 |
 | Total lines | ~11,400 |
 | Total words (est.) | ~240,000 |
 | Phases | 6 |
