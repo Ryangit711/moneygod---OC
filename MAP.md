@@ -282,21 +282,6 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 ---
 
-## CROSS-DOMAIN CONNECTIONS → ABHIMANYU 2.0
-
-The plumbing knowledge feeds directly into job application strategy:
-
-| Plumbing Concept | Job Application Use |
-|------------------|---------------------|
-| **Cantillon Geometry** | Being close to the money spigot → target companies closest to capital flow (Big4 consulting, funded startups, Big Tech) |
-| **Pipe Theory** | Position yourself in the right pipe (T/I/C/S) where flow is strongest |
-| **Legal Fiction / Charter** | Understanding that "job titles" and "corporate hierarchy" are costumes, not reality → negotiate without deference |
-| **Terminology Obfuscation** | JD language = weaponized terms → decode what they actually want → semantic masquerade |
-| **Body vs Machine** | Nobody knows the whole system → apply with confidence, the hiring manager also doesn't know the full picture |
-| **Liquidity Equation** | Follow the money → target companies that are growing (hiring) vs shrinking |
-
----
-
 ## REFERENCE FILES (Not in Linear Flow)
 
 | File | Lines | What It Is | When to Use |
@@ -416,7 +401,6 @@ The plumbing knowledge feeds directly into job application strategy:
 | External references | 70+ |
 | Root files | 15 |
 | Conversations | 1 (genesis) |
-| Cross-domain links to ABHIMANYU | 6 (documented above) |
 
 ---
 
