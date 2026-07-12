@@ -294,6 +294,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`trading/trading-commandments.md`** | 70 | 10 immutable rules | Read before every session |
 | **`trading/prop-firm-playbook.md`** | 81 | Funded account specs (Goat/FTMO/Apex) | Day 30+ when gradating demo |
 | **`references/master-reference-list.md`** | 178 | 70+ books/papers/tools in 11 categories | Deep research on any topic |
+| **`GROWTH_PROTOCOL.md`** | 101 | Living system heartbeat — how the repo evolves with every study session | Read before and after every session |
 | **`README.md`** | 130 | Repo overview | First-time visitors |
 
 ---
@@ -301,7 +302,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (42 files · ~12,000 lines)
+📁 moneygod-oc/ (41 files · ~11,400 lines)
 │
 ├── 📄 ROOT (14 files · 2,447 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -387,8 +388,8 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 42 |
-| Total lines | ~12,000 |
+| Total files | 41 |
+| Total lines | ~11,400 |
 | Total words (est.) | ~240,000 |
 | Phases | 6 |
 | Core plumbing files | 6 (1,937 lines) |
