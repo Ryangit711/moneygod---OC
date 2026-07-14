@@ -47,8 +47,8 @@ git add -A && git commit -m "GROWTH — [n] new terms: [term list] — YYYY-MM-D
 
 | Metric | Count | Date of Last Addition |
 |--------|:-----:|:---------------------:|
-| Total files | 49 | 2026-07-14 |
-| Total lines | ~12,700 | 2026-07-14 |
+| Total files | 50 | 2026-07-14 |
+| Total lines | ~13,200 | 2026-07-14 |
 | Part 11 terms | 25 | 2026-07-11 |
 | Plumbing-esoterica lines | 646 | 2026-07-07 |
 | Sessions on record | 1 | 2026-07-07 |
