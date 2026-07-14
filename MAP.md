@@ -1,6 +1,6 @@
 # MONEYGOD — OC MASTER MAP
 
-## (Updated: 2026-07-12)
+## (Updated: 2026-07-14)
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -138,8 +138,11 @@ BEGINNER ──▶ PHASE I (Foundations) ──▶ PHASE II (Plumbing) ──▶
 | 9 | `trading/complete-strategy-orb-eurusd.md` | 174 | ORB (USD/CAD, NY session). London breakout (EUR/USD). Pre-session checklist. Post-trade journal. |
 | 10 | `trading/prop-firm-playbook.md` | 81 | Goat/Apex/FTMO/Topstep. MES/MNQ/MGC/MBT specs. Vancouver session map. Eval nuances. |
 | 11 | `trading/trading-commandments.md` | 70 | 10 rules. **Print this. Read before every session. Forever.** |
+| 12 | `trading/mes-mnq-playbook.md` | — | MES/MNQ execution — ORB, VWAP reversion, Power Hour, gap play, scalp. Edge integration table. R:R tables. |
+| 13 | `trading/eval-mode-protocol.md` | — | Prop eval rules — different sizing for eval vs funded, daily targets, psychology, firm-by-firm parameters. |
+| 14 | `trading/fill-your-cup.md` | — | Three phases: Prove It → Scale It → Live It. Compound path. Freedom number. 3-bucket system. |
 
-**Total: 1,857 lines · ~20 hrs to complete**
+**Total: ~2,000+ lines · ~20 hrs to complete**
 
 **Hierarchy-master parallel:** Part 5 (Liquidity Equation + 15 Trading Edges) + Part 10 (Exfiltration Path)
 
@@ -255,9 +258,12 @@ CURRICULUM.md → Phase I (5 files, Week 1-2)
 core/liquidity-equation.md (formula)
   → plumbing-hierarchy-master.md Part 5 (15 edges)
     → 13-weekly-flow-tapping.md (7 pressure points)
-      → trading/complete-strategy-orb-eurusd.md (ORB + London breakout)
-        → quickstart/01-broker-canada.md → 03-demo-path.md
-          → trading/prop-firm-playbook.md (funded account)
+      → systems/live-data-workflow.md (daily plumbing → verdict)
+        → systems/plumbing-to-trade-bridge.md (verdict → instrument/bias/size)
+          → trading/mes-mnq-playbook.md (MES/MNX execution)
+            → trading/eval-mode-protocol.md (if in prop eval)
+              → quickstart/01-broker-canada.md → 03-demo-path.md
+                → trading/prop-firm-playbook.md → trading/fill-your-cup.md
 ```
 
 ### 🏛️ Path: "I want to understand sovereignty and power."
@@ -293,6 +299,12 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`quickstart/pip-calculator.md`** | 100 | Pip values + position sizing | Open alongside any trade |
 | **`trading/trading-commandments.md`** | 70 | 10 immutable rules | Read before every session |
 | **`trading/prop-firm-playbook.md`** | 81 | Funded account specs (Goat/FTMO/Apex) | Day 30+ when gradating demo |
+| **`trading/mes-mnq-playbook.md`** | — | MES/MNQ entry/exit rules, R:R tables, edge integration | Open alongside every session |
+| **`trading/eval-mode-protocol.md`** | — | Eval vs funded rules, risk per firm, daily targets, psychology | Before purchasing any eval |
+| **`trading/fill-your-cup.md`** | — | First payout → scale → compound → freedom number | After first funded payout |
+| **`systems/live-data-workflow.md`** | — | 15-min morning: 5 URLs, 6 numbers, compute Net Liq, verdict → trade decision | Every single trading day before session |
+| **`systems/plumbing-to-trade-bridge.md`** | — | Decision trees: should I trade → bias → instrument → size. References plumbing files, never re-explains. | After live data workflow |
+| **`systems/3hr-daily-schedule.md`** | — | The OS: pre-session → trade → post-session → study. 3-hour block per day. Trading vs study day schedules. | Every day |
 | **`references/master-reference-list.md`** | 178 | 70+ books/papers/tools in 11 categories | Deep research on any topic |
 | **`GROWTH_PROTOCOL.md`** | 101 | Living system heartbeat — how the repo evolves with every study session | Read before and after every session |
 | **`MAP.md`** | 408 | Complete mindmap — all files, connections, Part 11 cross-refs | Navigate the entire repo |
@@ -304,7 +316,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (43 files · ~11,400 lines)
+📁 moneygod-oc/ (49 files · ~12,700 lines)
 │
 ├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -336,15 +348,21 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── pipe-theory.md .............................. 145  │ Core model
 │   └── wealth-code-synthesis.md .................... 129  │ Pyramid × pipe
 │
-├── 📁 systems/ (3 files · 567 lines)
+├── 📁 systems/ (6 files · ~1,200 lines)
 │   ├── daily-pre-session.md ........................ 209  │ 5-min ritual
 │   ├── position-sizing-by-flow.md .................. 223  │ Size by regime
-│   └── weekly-flow-checklist.md ................... 135  │ 15-min check
+│   ├── weekly-flow-checklist.md ................... 135  │ 15-min check
+│   ├── live-data-workflow.md .......................  —  │ 15-min morning plumbing check
+│   ├── plumbing-to-trade-bridge.md ................  —  │ Decision trees: plumbing → trade
+│   └── 3hr-daily-schedule.md ......................  —  │ The daily OS
 │
-├── 📁 trading/ (3 files · 325 lines)
+├── 📁 trading/ (6 files · ~850 lines)
 │   ├── complete-strategy-orb-eurusd.md ............. 174  │ ORB + London breakout
 │   ├── prop-firm-playbook.md .......................  81  │ Funded account specs
-│   └── trading-commandments.md .....................  70  │ 10 rules
+│   ├── trading-commandments.md .....................  70  │ 10 rules
+│   ├── mes-mnq-playbook.md ........................  —  │ MES/MNQ execution playbook
+│   ├── eval-mode-protocol.md ......................  —  │ Prop eval rules
+│   └── fill-your-cup.md ...........................  —  │ First payout to freedom
 │
 ├── 📁 quickstart/ (4 files · 564 lines)
 │   ├── 01-broker-canada.md ......................... 142  │ Broker setup
@@ -391,14 +409,14 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 43 |
-| Total lines | ~11,400 |
-| Total words (est.) | ~240,000 |
+| Total files | 49 |
+| Total lines | ~12,700 |
+| Total words (est.) | ~260,000 |
 | Phases | 6 |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
-| Trading strategies | 3 |
-| Systems & ritual | 3 |
+| Trading strategies | 6 |
+| Systems & ritual (incl. bridge) | 6 |
 | Quickstart guides | 4 |
 | Master reference (hierarchy) | 1 file, 12 parts, 3,307 lines |
 | Part 11 lexicon terms | 25 |

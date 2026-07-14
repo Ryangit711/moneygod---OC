@@ -169,21 +169,13 @@ Go to **fred.stlouisfed.org** and look up:
 
 ### Demo Routine (Days 42-75)
 
-**Every trading day:**
+**Every trading day (follow `systems/3hr-daily-schedule.md`):**
 ```
-7:30AM PT — Daily pre-session (5 min)
-7:45AM   — Check pipeline + plumbing indicators (10 min)
-8:00AM   — Review trade journal from yesterday (5 min)
-8:15AM   — Prepare for session (set levels, news check) (10 min)
-
-9:30AM ET / 6:30AM PT — NY session open (if trading)
-  → Execute if ORB setup triggers
-  → Otherwise: watch only
-
-POST-SESSION (within 15 min of close):
-  → Journal the trade
-  → Screenshot the chart
-  → Write: what did I feel? What did I do? What will I do differently?
+:00-:15 — Live data workflow (systems/live-data-workflow.md)
+:15-:20 — Commandments read + plumbing-to-trade-bridge.md
+:20-:60 — Execute per instrument playbook (MES/MNQ or FX per bridge verdict)
+:60-:70 — Post-session review + journal
+:70-:90 — Study time (COT, hierarchy-master review, or demo)
 ```
 
 **Week-by-week:**
@@ -349,9 +341,15 @@ All roads lead to the curriculum. Every file in this repo exists to serve a spec
 | `quickstart/01-broker-canada.md` | P5-6 |
 | `quickstart/02-platform-setup.md` | P5-6 |
 | `trading/complete-strategy-orb-eurusd.md` | P5 |
+| `trading/mes-mnq-playbook.md` | P5 (after complete-strategy) |
+| `trading/eval-mode-protocol.md` | P6 (before first eval purchase) |
 | `quickstart/03-demo-path.md` | P5 |
 | `trading/prop-firm-playbook.md` | P6 |
+| `trading/fill-your-cup.md` | P6 (after first payout) |
 | `trading/trading-commandments.md` | Every phase. Every day. |
+| `systems/live-data-workflow.md` | P5 (integrate into daily routine) |
+| `systems/plumbing-to-trade-bridge.md` | P5 (after workflow) |
+| `systems/3hr-daily-schedule.md` | P5 (daily OS from here on) |
 | `10-investing-and-compounding.md` | P6+ |
 | `11-escaping-the-rat-race.md` | P6+ |
 | `12-who-knows-this-level.md` | P6+ |

@@ -29,6 +29,8 @@ The system is engineered. The pipes exist. Your job: read the plumbing, sit in t
 | **Understand how this grows** | `GROWTH_PROTOCOL.md` — the living system heartbeat |
 | **Dive deep into plumbing** | `plumbing-hierarchy-master.md` — 12 parts, 3,307 lines, sovereign source to retail execution |
 | **Trade right now** | `trading/complete-strategy-orb-eurusd.md` — ORB + London breakout |
+| **Trade MES/MNQ** | `trading/mes-mnq-playbook.md` — Futures execution playbook |
+| **Take prop eval** | `trading/eval-mode-protocol.md` — Eval risk rules per firm |
 
 ---
 
@@ -46,7 +48,7 @@ The system is engineered. The pipes exist. Your job: read the plumbing, sit in t
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 41 |
+| Total files | 49 |
 | Total lines | ~11,600 |
 | Phases | 6 (Foundations → Plumbing → Ritual → Mental Models → Trading → Freedom) |
 | Core plumbing files | 6 (1,937 lines) |
