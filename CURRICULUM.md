@@ -172,10 +172,11 @@ Go to **fred.stlouisfed.org** and look up:
 **Every trading day (follow `systems/3hr-daily-schedule.md`):**
 ```
 :00-:15 — Live data workflow (systems/live-data-workflow.md)
-:15-:20 — Commandments read + plumbing-to-trade-bridge.md
-:20-:60 — Execute per instrument playbook (MES/MNQ or FX per bridge verdict)
+:16-:20 — Gangotri Protocol (systems/gangotri-protocol.md) — edge matrix + 3-question gate
+:21-:25 — Commandments read + plumbing-to-trade-bridge decision trees
+:26-:60 — Execute per instrument playbook (MES/MNQ or FX per bridge verdict)
 :60-:70 — Post-session review + journal
-:70-:90 — Study time (COT, hierarchy-master review, or demo)
+:70-:90 — Study time (COT, hierarchy-master review, or syllabus work)
 ```
 
 **Week-by-week:**
@@ -349,6 +350,8 @@ All roads lead to the curriculum. Every file in this repo exists to serve a spec
 | `trading/trading-commandments.md` | Every phase. Every day. |
 | `systems/live-data-workflow.md` | P5 (integrate into daily routine) |
 | `systems/plumbing-to-trade-bridge.md` | P5 (after workflow) |
+| `systems/gangotri-protocol.md` | P5 (the integration master — open every session) |
+| `systems/accumulation-distribution-syllabus.md` | P5 (active learning path from here) |
 | `systems/3hr-daily-schedule.md` | P5 (daily OS from here on) |
 | `10-investing-and-compounding.md` | P6+ |
 | `11-escaping-the-rat-race.md` | P6+ |

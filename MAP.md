@@ -316,7 +316,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (49 files · ~12,700 lines)
+📁 moneygod-oc/ (52 files · ~13,900 lines)
 │
 ├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -348,13 +348,15 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── pipe-theory.md .............................. 145  │ Core model
 │   └── wealth-code-synthesis.md .................... 129  │ Pyramid × pipe
 │
-├── 📁 systems/ (6 files · ~1,200 lines)
+├── 📁 systems/ (8 files · ~1,650 lines)
 │   ├── daily-pre-session.md ........................ 209  │ 5-min ritual
 │   ├── position-sizing-by-flow.md .................. 223  │ Size by regime
 │   ├── weekly-flow-checklist.md ................... 135  │ 15-min check
 │   ├── live-data-workflow.md .......................  —  │ 15-min morning plumbing check
 │   ├── plumbing-to-trade-bridge.md ................  —  │ Decision trees: plumbing → trade
-│   └── 3hr-daily-schedule.md ......................  —  │ The daily OS
+│   ├── 3hr-daily-schedule.md ......................  —  │ The daily OS
+│   ├── gangotri-protocol.md .......................  —  │ Integration master: plumbing×ICT×exec
+│   └── accumulation-distribution-syllabus.md ......  —  │ 12-week learning OS with proof gates
 │
 ├── 📁 trading/ (6 files · ~850 lines)
 │   ├── complete-strategy-orb-eurusd.md ............. 174  │ ORB + London breakout
@@ -409,9 +411,9 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 49 |
-| Total lines | ~12,700 |
-| Total words (est.) | ~260,000 |
+| Total files | 52 |
+| Total lines | ~13,900 |
+| Total words (est.) | ~280,000 |
 | Phases | 6 |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |

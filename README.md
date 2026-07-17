@@ -48,8 +48,8 @@ The system is engineered. The pipes exist. Your job: read the plumbing, sit in t
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 49 |
-| Total lines | ~11,600 |
+| Total files | 52 |
+| Total lines | ~13,900 |
 | Phases | 6 (Foundations → Plumbing → Ritual → Mental Models → Trading → Freedom) |
 | Core plumbing files | 6 (1,937 lines) |
 | Master reference | 1 file, 12 parts, 3,307 lines |
