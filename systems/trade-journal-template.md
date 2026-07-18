@@ -23,13 +23,13 @@
 
 ## POST-SESSION — TRADE LOG
 
-| # | Time | Instrument | Setup | Entry | Stop | Exit | R:R | $Result | Screenshot? |
-|---|------|-----------|-------|-------|------|------|-----|---------|-------------|
-| 1 | | | | | | | :1 | $ | Y/N |
-| 2 | | | | | | | :1 | $ | Y/N |
-| 3 | | | | | | | :1 | $ | Y/N |
-| 4 | | | | | | | :1 | $ | Y/N |
-| 5 | | | | | | | :1 | $ | Y/N |
+| # | Time | Instrument | Concept | Setup | Entry | Stop | Exit | R:R | $Result | Screenshot? |
+|---|------|-----------|---------|-------|-------|------|------|-----|---------|-------------|
+| 1 | | | | | | | | :1 | $ | Y/N |
+| 2 | | | | | | | | :1 | $ | Y/N |
+| 3 | | | | | | | | :1 | $ | Y/N |
+| 4 | | | | | | | | :1 | $ | Y/N |
+| 5 | | | | | | | | :1 | $ | Y/N |
 
 **Session P&L:** $_____  **Total R:** ____R
 
@@ -109,6 +109,8 @@
 
 ## WEEKLY REVIEW (fill Friday close)
 
+### Performance by Day
+
 | Metric | Mon | Tue | Wed | Thu | Fri | Total |
 |--------|-----|-----|-----|-----|-----|-------|
 | Sessions traded | /1 | /1 | /1 | /1 | /1 | /5 |
@@ -117,14 +119,45 @@
 | Avg R:R | :1 | :1 | :1 | :1 | :1 | :1 |
 | Impulse trades | | | | | | |
 | Model failures | | | | | | |
+| Discipline score (1-10) | | | | | | |
+
+### Discipline Metrics (Critical — Flat Is a Win)
+
+| Metric | Count | Notes |
+|--------|-------|-------|
+| Days you WANTED to trade but didn't (signal wasn't there) | | |
+| Days you traded MORE than your session plan allowed | | |
+| Times you moved a stop wider after entry | | |
+| Times you added to a loser | | |
+| **Discipline grade for the week:** A / B / C / D / F | | |
+
+### Edge × Concept Cross-Tracking
+
+For each trade this week, note the plumbing context when it happened:
+
+| Concept (from syllabus) | Trades | Wins | Losses | Plumbing Context That Was Active | Notes |
+|------------------------|--------|------|--------|----------------------------------|-------|
+| Example: Week 1 Sweep | 3 | 2 | 1 | RRP draining, TGA flat, Net Liq -$20B | Sweeps won when Net Liq was negative |
 
 **Which setup won most this week?** _____
 
 **Which plumbing signal was wrong most often?** _____
 
+**Is there a plumbing × concept combination that stands out?** (e.g., "sweeps win 80% when RRP is draining but 30% when TGA is building"):
+
+> _____
+
+### Psyche & Lessons
+
 **Psyche trend (did discipline degrade across the week?):** _____
 
+**Aha insights captured this week** (things that didn't fit a journal entry but you noticed):
+
+> _____
+
 **Go-to next week or repeat this concept?** _____
+
+**One sentence for future-you reading this entry:** _____
 
 ---
 

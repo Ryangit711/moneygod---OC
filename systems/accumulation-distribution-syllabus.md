@@ -6,9 +6,17 @@
 
 ## THE FRAMEWORK
 
-One week = one cycle. Every cycle has three phases:
+One week = one cycle. Every cycle has four phases:
 
 ```
+SUNDAY PREP (Sunday evening — 20 min)
+│  1. Open weekly charts → mark key levels (PDH, PDL, monthly range)
+│  2. Find unfilled FVGs on 4H / Daily — these are the week's high-probability targets
+│  3. Check the week's plumbing events (opex, FOMC, NFP, quarter-end)
+│  4. Set the week's bias frame (bullish / bearish / neutral)
+│  5. Write one-line focus for the week
+│  → Full ritual: systems/sunday-prep-ritual.md
+
 ACCUMULATION (Weekend — 60-90 min)
 │  1. Open the week's concept (see curriculum below)
 │  2. Read its hierarchy-master Part 9.2 definition + plumbing cross-ref
@@ -19,15 +27,19 @@ ACCUMULATION (Weekend — 60-90 min)
 DISTRIBUTION (Trading Days — Mon/Wed/Fri or Tue/Thu)
 │  1. Run live-data-workflow → get verdict
 │  2. Open gangotri-protocol — check active edges against THIS WEEK'S concept
-│  3. If concept's pattern triggers AND passes the 3-question gate → take the trade
-│  4. Journal: date, setup, plumbing context, win/loss, R:R, lesson
-│  5. Target: 3-4 trades applying THIS WEEK'S concept
+│  3. Apply per-session risk cap (see week-1-readiness.md — HARD RULES)
+│  4. If concept's pattern triggers AND passes the 3-question gate → take the trade
+│  5. Journal: tag each trade with this week's concept name. Mark the plumbing context that was active.
+│  6. Target: 3-4 trades applying THIS WEEK'S concept
 │
 REVIEW (Friday close — 15 min)
 │  1. Count: concept-specific setups seen vs. taken vs. won
 │  2. Did the plumbing context help or hurt the pattern?
-│  3. Decision: advance to next concept OR repeat this week
-│  4. Decision rule: ≥50% win rate over ≥3 trades = advance. Otherwise repeat.
+│  3. Edge × concept cross-tracking: which plumbing signals correlated with this concept's wins/losses?
+│  4. Discipline score (A-F) and flat days count
+│  5. Decision: advance to next concept OR repeat this week
+│  6. Decision rule: ≥50% win rate over ≥3 trades = advance. Otherwise repeat.
+│  → Full journal template: systems/trade-journal-template.md
 ```
 
 ---
@@ -42,8 +54,9 @@ REVIEW (Friday close — 15 min)
 | Sat | Cross-ref: hierarchy-master Part 1 (money creation), Part 2 (bank balance sheets) | `plumbing-hierarchy-master.md` lines 268-562 |
 | Sun | Write: 1-page Feynman breakdown — "How banks create money, in my words" | Store in `references/feynman-mmw.txt` |
 | Sun | Cross-ref: what MMM doesn't cover — read Part 3 (esoteric), Part 9.2 (ICT) | `plumbing-hierarchy-master.md` lines 563-828, 2538-2601 |
+| Sun | **Week 1 Readiness:** sign up for demo, set up chart templates, read Vancouver killzone map, memorize per-session risk caps | `systems/week-1-readiness.md` |
 
-**Proof of completion:** 1-page Feynman breakdown written and committed.
+**Proof of completion:** 1-page Feynman breakdown written and committed + demo account active with chart templates saved.
 
 ---
 
@@ -207,15 +220,20 @@ WEEK | CONCEPT            | TRADES | WINS | WIN% | ADVANCE?
 
 1. **Do not advance until proof is met.** The proof gates exist because each concept builds on the last. Skip a foundation, and Month 2 patterns won't work.
 2. **If you repeat a week, change your approach.** Same concept, different lens. If sweeps didn't work with the plumbing signal you were watching, try a different signal from the daily workflow. The concept isn't wrong — your application is.
-3. **Journal every trade.** Even skipped trades. "I saw a sweep but the plumbing said contraction. I skipped. Price reversed." That's a WIN — you followed the system.
+3. **Journal every trade. Tag every trade with the concept name.** Even skipped trades. "I saw a sweep but the plumbing said contraction. I skipped. Price reversed." That's a WIN — you followed the system. The concept tag is how you filter later.
 4. **When the tracker fills up, you're ready.** 12 weeks of structured learning, ~120 journaled trades, eval-ready risk habits. That's the gate. Not 6 months of demo. 12 focused weeks.
 5. **The syllabus is not the teacher. The screen is.** Every line in this file is a suggestion. The only real curriculum is price. Let the chart tell you what you need to study next.
+6. **Per-session risk cap is law.** Max 2% loss per session. Max 3 trades per session. Max 3 consecutive loss days before forced flat day. See `systems/week-1-readiness.md` for full risk table. Violating any of these = the session is void. You learn nothing from a session where you broke your own rules.
+7. **Sunday prep is not optional.** The weekly chart frames every intraday trade. Skipping it means trading blind on the timeframe that matters most. See `systems/sunday-prep-ritual.md`.
+8. **Flat is a win.** Every day you wanted to trade but didn't because the signal wasn't there is a WIN. Track it in the journal's discipline metrics. Those days compound into the habit of patience.
 ```
 
 ---
 
-*Cross-ref: gangotri-protocol.md (the integration master — open every session)
+*Cross-ref: systems/gangotri-protocol.md (the integration master — open every session)
 Cross-ref: systems/live-data-workflow.md (daily plumbing verdict)
-Cross-ref: trading/trade-journal.md (use this template for every trade)
+Cross-ref: systems/trade-journal-template.md (use this template for every trade)
+Cross-ref: systems/week-1-readiness.md (demo setup, Vancouver killzones, risk caps — read before Week 1)
+Cross-ref: systems/sunday-prep-ritual.md (weekly chart context — every Sunday)
 Cross-ref: trading/eval-mode-protocol.md (Week 12 gate)
 Cross-ref: CURRICULUM.md (broader reading order — the syllabus is the active path)*
