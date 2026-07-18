@@ -418,7 +418,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
 | Trading strategies | 6 |
-| Systems & ritual (incl. bridge) | 6 |
+| Systems & ritual (incl. bridge) | 8 |
 | Quickstart guides | 4 |
 | Master reference (hierarchy) | 1 file, 12 parts, 3,307 lines |
 | Part 11 lexicon terms | 25 |

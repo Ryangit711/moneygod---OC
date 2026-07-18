@@ -1,0 +1,70 @@
+Feynman Breakdown: Modern Money Mechanics (FRB Chicago, 1992 rev.)
+====================================================================
+
+The Central Trick: Banks Create Money When They Lend
+------------------------------------------------------
+Most people think banks take deposits (money already existing) and lend them out.
+Wrong. When a bank makes a loan, it creates a new deposit in the borrower's account.
+That deposit didn't exist before. The bank just wrote a number on a ledger.
+New money, created from nothing. The loan is an asset. The deposit is a liability.
+Both appear on the balance sheet simultaneously. Money is a double-entry invention.
+
+What Constrains This?
+---------------------
+Not deposits. Banks don't need depositors' money to lend.
+What constrains it: RESERVES. Each bank must hold a fraction of its deposits
+as reserves (vault cash + balance at the Fed). When a borrower spends the loan,
+the money moves to another bank. The lending bank loses reserves to the receiving bank.
+If the lending bank doesn't have enough reserves after that drain, it must borrow
+reserves from other banks (fed funds market) or from the Fed (discount window).
+
+This is the key chain: Lending creates deposits → deposits move between banks →
+reserves shift → the system as a whole is constrained by TOTAL reserves,
+which only the Fed controls.
+
+The Fed Controls the Total
+---------------------------
+The Fed adds reserves by buying government securities from banks (pays by crediting
+their reserve accounts). It drains reserves by selling securities. This is
+OPEN MARKET OPERATIONS — the primary policy tool. Reserve requirements are secondary;
+they set the minimum, but the Fed targets the FED FUNDS RATE (the price of reserves),
+and supplies whatever quantity is needed to hit that rate.
+
+Other factors also affect reserves:
+- Treasury payments (TT&L accounts — when Treasury spends, reserves increase;
+  when Treasury collects taxes, reserves drain)
+- Currency in circulation (when people withdraw cash, reserves leave the banking system)
+- Foreign exchange intervention (sterilized by the Fed to neutralize impact on reserves)
+- Float (checks in process — temporarily inflates reserves)
+- Foreign deposits at the Fed
+
+The Fed offsets all these to keep total reserves at the desired level.
+
+The Multiplier Isn't Fixed
+---------------------------
+Textbook says: with 10% reserve requirement, $1 of reserves supports $10 of deposits.
+Reality: the multiplier varies because:
+1. Banks hold excess reserves (don't lend every dollar)
+2. Currency drains (people hold cash, which doesn't multiply)
+3. Different institutions have different reserve requirements
+4. Not all deposits are in the money supply (interbank deposits, govt deposits)
+5. Banks lend based on credit demand, not reserve arithmetic
+
+The 1992 revision notes that contemporaneous reserve accounting (1984) and
+the Monetary Control Act (1980) made the multiplier more stable than the 1970s.
+But the relationship between reserves and money is still not fixed.
+
+What This Means for Trading
+----------------------------
+- The Fed doesn't "print money" in the literal sense. Money is created by banks
+  when they lend. The Fed controls the SCAFFOLDING (reserves), not the building.
+- The plumbing is about CREDIT FLOW, not just "liquidity."
+- When I see RRP draining, TGA rising, and reserves flat → credit is being
+  absorbed by the Treasury. Less fuel for risk assets.
+- When RRP is stable and TGA is flat → reserves are neutral. The Fed is
+  neither adding nor draining. The market finds its own level.
+- Everything I already have in hierarchy-master (Parts 1-3, liquidity equation)
+  is consistent with and extends beyond this booklet. MMM is the official story.
+  hierarchy-master is the esoteric truth that the official story doesn't tell you.
+
+Week 0 confirmed: system already surpasses MMM. Proceed to Week 1. 
