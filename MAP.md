@@ -309,6 +309,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`GROWTH_PROTOCOL.md`** | 101 | Living system heartbeat — how the repo evolves with every study session | Read before and after every session |
 | **`MAP.md`** | 408 | Complete mindmap — all files, connections, Part 11 cross-refs | Navigate the entire repo |
 | **`MAP_360.md`** | ~300 | 360° architecture view — system connections, term clusters, esoteric truths | Full system overview at a glance |
+| **`FREEFALL_LIFE.md`** | 820 | FREEFALL — every sector of life (body, mind, money, time, craft, emotions, relationships, environment, spirit, legacy) | When you need the big picture across ALL sectors |
 | **`README.md`** | 41 | Repo overview | First-time visitors |
 
 ---
@@ -316,7 +317,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (52 files · ~13,900 lines)
+📁 moneygod-oc/ (53 files · ~14,700 lines)
 │
 ├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -384,6 +385,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ├── 📄 MAP.md ....................................... 408  │ Mindmap
 ├── 📄 MAP_360.md ................................... THIS │ 360° architecture view
 ├── 📄 READING_ORDER.md ............................. 150  │ File sequence
+├── 📄 FREEFALL_LIFE.md ............................. 820  │ FREEFALL — every sector of life
 ├── 📄 GROWTH_PROTOCOL.md ........................... 101  │ Living system heartbeat
 └── 📄 README.md ....................................  41  │ Repo overview
 ```
@@ -411,9 +413,9 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 52 |
-| Total lines | ~13,900 |
-| Total words (est.) | ~280,000 |
+| Total files | 53 |
+| Total lines | ~14,700 |
+| Total words (est.) | ~295,000 |
 | Phases | 6 |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
