@@ -310,6 +310,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`MAP.md`** | 408 | Complete mindmap — all files, connections, Part 11 cross-refs | Navigate the entire repo |
 | **`MAP_360.md`** | ~300 | 360° architecture view — system connections, term clusters, esoteric truths | Full system overview at a glance |
 | **`FREEFALL_LIFE.md`** | 820 | FREEFALL — every sector of life (body, mind, money, time, craft, emotions, relationships, environment, spirit, legacy) | When you need the big picture across ALL sectors |
+| **`FREEFALL_PHILOSOPHY.md`** | 750 | FREEFALL — the system thinking about itself (7 philosophical layers, tensions, meta-layer) | When you need to understand WHY the system exists |
 | **`README.md`** | 41 | Repo overview | First-time visitors |
 
 ---
@@ -317,7 +318,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (53 files · ~14,700 lines)
+📁 moneygod-oc/ (55 files · ~15,450 lines)
 │
 ├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -386,6 +387,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ├── 📄 MAP_360.md ................................... THIS │ 360° architecture view
 ├── 📄 READING_ORDER.md ............................. 150  │ File sequence
 ├── 📄 FREEFALL_LIFE.md ............................. 820  │ FREEFALL — every sector of life
+├── 📄 FREEFALL_PHILOSOPHY.md ....................... 750  │ FREEFALL — the system thinking about itself
 ├── 📄 GROWTH_PROTOCOL.md ........................... 101  │ Living system heartbeat
 └── 📄 README.md ....................................  41  │ Repo overview
 ```
@@ -413,9 +415,9 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 53 |
-| Total lines | ~14,700 |
-| Total words (est.) | ~295,000 |
+| Total files | 55 |
+| Total lines | ~15,450 |
+| Total words (est.) | ~310,000 |
 | Phases | 6 |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
