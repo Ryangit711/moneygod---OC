@@ -1,6 +1,6 @@
 # MONEYGOD — OC MASTER MAP (Scoped to Trading Mastery)
 
-## (53 files · ~14,700 lines · 6 phases · 25 lexicon terms · Updated 2026-07-21)
+## (57 files · ~16,500 lines · 6 phases · 25 lexicon terms · Updated 2026-07-23)
 
 *This is the bird's eye view of moneygod---OC only. For the full system view across all repos, see aman-os/ARCHITECTURE/MASTER_MAP.md.*
 
@@ -12,7 +12,7 @@
 ║         "Money is concentrated human time and energy."                          ║
 ║         "The flow exists. Your job: read the plumbing, sit in the pipe."       ║
 ║                                                                                  ║
-║         53 files · ~14,700 lines · 6 phases · 25 lexicon terms                  ║
+║         57 files · ~16,500 lines · 6 phases · 25 lexicon terms                  ║
 ║         STATUS: ACTIVE PERMANENTLY (the cash engine)                            ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -110,7 +110,7 @@ moneygod---OC/
 │   ├── wealth-code-synthesis.md   (129 lines, pyramid × pipe)
 │   └── 10-level-mastery-path.md   (259 lines, 18-month path)
 │
-├── systems/                   ← Discipline framework (8 files)
+├── systems/                   ← Discipline framework (9 files)
 │   ├── daily-pre-session.md       (209 lines, 5-min ritual)
 │   ├── position-sizing-by-flow.md (223 lines, size by regime)
 │   ├── weekly-flow-checklist.md   (135 lines, 15-min check)
@@ -120,13 +120,16 @@ moneygod---OC/
 │   ├── gangotri-protocol.md       (integration master)
 │   └── accumulation-distribution-syllabus.md (12-week learning)
 │
-├── trading/                   ← Execution (6 files)
+├── trading/                   ← Execution (9 files)
 │   ├── complete-strategy-orb-eurusd.md (ORB + London breakout)
-│   ├── prop-firm-playbook.md     (81 lines, funded specs)
+│   ├── prop-firm-playbook.md     (~200 lines, 11 firms, 2026 data)
 │   ├── trading-commandments.md   (70 lines, 10 rules — READ DAILY)
 │   ├── mes-mnq-playbook.md       (MES/MNQ execution)
 │   ├── eval-mode-protocol.md     (prop eval rules)
-│   └── fill-your-cup.md          (first payout to freedom)
+│   ├── fill-your-cup.md          (first payout to freedom)
+│   ├── paper-vs-live-gap.md       (~250 lines, execution gap bible)
+│   ├── prop-firm-architecture.md  (~300 lines, master prop firm map)
+│   └── multi-account-gateway.md   (~200 lines, multi-account architecture)
 │
 ├── quickstart/                ← Day-1 setup (4 files, 564 lines)
 ├── references/                ← 70+ books/papers/tools
@@ -174,8 +177,8 @@ PLUMBING (How it works)        BRIDGE (Translation)      TRADING (What you do)
 |--------|-------|
 | Status | ACTIVE PERMANENTLY |
 | Lifespan | Permanent (the cash engine) |
-| Total files | 53 |
-| Total lines | ~14,700 |
+| Total files | 57 |
+| Total lines | ~16,500 |
 | Phases | 6 |
 | Lexicon terms | 25 |
 | Core plumbing | 6 files (1,937 lines) |

@@ -1,6 +1,6 @@
 # SYMBIOTIC MAP — THE LIVING REEF
 
-## (2026-07-14 · 50 organisms · 13,200 lines · 1 ecosystem)
+## (2026-07-14 · 57 organisms · 16,500 lines · 1 ecosystem)
 
 *A coral reef. Every organism depends on every other. Remove one, the system doesn't die — but it breathes harder. The reef is not the sum of its parts. The reef is the RELATIONSHIPS between them.*
 
@@ -14,7 +14,7 @@
 ║   PLUMBING KINGDOM ────── BRIDGE KINGDOM ────── TRADING KINGDOM     ║
 ║   (What IS)                 (What it MEANS)          (What I DO)     ║
 ║                                                                      ║
-║   core/ (6)                 systems/ (6)             trading/ (6)    ║
+║   core/ (6)                 systems/ (9)             trading/ (9)    ║
 ║   hierarchy-master         live-data-workflow       commandments     ║
 ║   14-monetary-plumbing     plumbing-to-trade        mes-mnq-playbook ║
 ║   05-how-money-flows       3hr-daily-schedule       eval-mode        ║
@@ -126,11 +126,11 @@ trading/mes-mnq-playbook.md ↔ trading/complete-strategy-orb-eurusd.md
 trading/eval-mode-protocol.md ↔ trading/prop-firm-playbook.md
   └── One tells you HOW to pass. The other tells you WHICH firm to use.
   └── Eval mode: rules, sizing, psychology, daily targets, pre-eval checklist
-  └── Prop firm: Goat/FTMO/Apex specs, costs, eval nuances, session map
+  └── Prop firm: 11 firms across 3 categories (FX/futures/multi), 2026 data, platform matrix
   └── Without eval mode: you buy an eval and blow it (no risk framework)
   └── Without prop firm: you study eval rules for a firm you never choose
 
-  ───▶ FEEDS: fill-your-cup.md (funded account → compound path)
+  ───▶ FEEDS: fill-your-cup.md (funded account → compound path) + multi-account-gateway.md (scaling)
   ───▶ RECEIVES: funding path (why you're doing evals)
 ```
 
@@ -193,7 +193,39 @@ systems/3hr-daily-schedule.md ↔ mental-models/10-level-mastery-path.md
   ───▶ RECEIVES: the entire trading pipeline (this is why you trade)
 ```
 
-### 12. THE META-RECURSIVE SYMBIOSIS
+### 12. THE BRIDGE-TO-REALITY SYMBIOSIS
+
+```
+trading/paper-vs-live-gap.md ↔ trading/prop-firm-architecture.md ↔ systems/week-1-readiness.md
+  └── The gap between demo and real money
+  └── Paper-vs-live: the 6 execution gaps most people discover too late
+  └── Prop-firm-architecture: which firm matches your instruments and location
+  └── Week-1-readiness: the 4-week bridge protocol that closes the gap
+  └── Without paper-vs-live: you blow an eval on slippage you didn't expect
+  └── Without prop-firm-architecture: you pick a firm by price, not fit
+  └── Without week-1-readiness: you jump to eval with no bridge
+
+  ───▶ FEEDS: eval-mode-protocol.md (now ready for real eval)
+  ───▶ RECEIVES: prop-firm-playbook.md (which firm, this is when)
+```
+
+### 13. THE MULTI-ACCOUNT SYMBIOSIS
+
+```
+trading/multi-account-gateway.md ↔ trading/fill-your-cup.md ↔ trading/paper-vs-live-gap.md
+  └── The scaling layer that turns one funded account into a cash machine
+  └── Gateway: 4-layer architecture (TradingView → execution → risk → journal)
+  └── Fill Your Cup: the compound path that justifies scaling
+  └── Paper-vs-live: the cost awareness that keeps scaling safe
+  └── Without gateway: you trade multiple accounts with no unified risk
+  └── Without fill-your-cup: scaling becomes gambling at institutional scale
+  └── Without paper-vs-live: you scale before mastering one account
+
+  ───▶ FEEDS: the freedom layer (Phase VI — the destination)
+  ───▶ RECEIVES: proven execution from eval-mode-protocol
+```
+
+### 14. THE META-RECURSIVE SYMBIOSIS
 
 ```
 MAP.md ↔ MAP_360.md ↔ FREEFALL_360.md ↔ GROWTH_PROTOCOL.md
@@ -278,7 +310,7 @@ A reef also has predators and diseases. These relationships weaken the system:
 |----------------|----------------|
 | **Reading hierarchy-master WITHOUT live-data-workflow** | You know everything about plumbing. You never check it live. Information without action = ego without edge. |
 | **Trading MES/MNQ WITHOUT plumbing-to-trade-bridge** | You execute setups without regime context. You take a breakout scalp on a day Net Liq is draining. The setup works statistically. Today is the exception. |
-| **Buying a prop eval WITHOUT eval-mode-protocol.md** | You size like a funded trader on an eval. One bad day = account gone. The eval is not the same game as funded. Most people never learn this. |
+| **Buying a prop eval WITHOUT eval-mode-protocol.md OR paper-vs-live-gap.md** | You size like a funded trader on an eval. Slippage eats your edge. One bad day = account gone. Read both before any real eval. |
 | **Studying fill-your-cup WITHOUT trading-commandments.md** | You know where you want to go. You don't have the rules to survive the journey. The path to $10K/month runs through 10 drawdowns first. |
 | **Reading CURRICULUM.md without doing it** | The most common anti-symbiosis. You know the order. You never execute. The curriculum is not a reading list — it's a prescription. |
 | **Running GROWTH_PROTOCOL without adding new content** | You git push every session but never write new understanding. The system calcifies. You're maintaining a graveyard. |

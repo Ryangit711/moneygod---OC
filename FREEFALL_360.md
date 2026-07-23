@@ -1,6 +1,6 @@
 # FREEFALL 360° — THE SYSTEM AS LIVING ORGANISM
 
-## (Drawn 2026-07-14 · 49 files · 12,700 lines)
+## (Drawn 2026-07-14 · 57 files · 16,500 lines)
 
 *Drop in anywhere. Follow the thread. Every node connects to every other node.*
 
@@ -391,7 +391,7 @@ Every blown account story follows the same arc: small win → size up → lose �
                                          │                                      │
                                          ▼                                      │
                             ┌────────────────────────────┐                      │
-                            │    TRADING/ (6 files)      │◀─────────────────────┘
+                            │    TRADING/ (9 files)      │◀─────────────────────┘
                             │                            │
                             │ commandments                │
                             │ mes-mnq playbook            │
@@ -437,7 +437,7 @@ Money is debt
 
 Everything else (mental models, rituals, study schedule, commandments, R:R tables) is scaffolding around that spine. The scaffolding matters — it keeps the spine from collapsing. But the spine is the spine.
 
-**The free fall truth:** You don't need all 49 files. You need the spine + whatever scaffolding your current phase needs. The rest is depth for when you're curious or confused. The system is designed to be entered at any point, followed in any direction, and still lead to the same outcome.
+**The free fall truth:** You don't need all 57 files. You need the spine + whatever scaffolding your current phase needs. The rest is depth for when you're curious or confused. The system is designed to be entered at any point, followed in any direction, and still lead to the same outcome.
 
 Drop in. Follow the thread. The thread always leads to freedom.
 

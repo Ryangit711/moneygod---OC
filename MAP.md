@@ -1,10 +1,10 @@
 # MONEYGOD — OC MASTER MAP
 
-## (Updated: 2026-07-14)
+## (Updated: 2026-07-23)
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (42 files · ~12,000 lines)                    ║
+║            🌊 MONEYGOD — OC  (57 files · ~16,500 lines)                    ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"               ║
 ║     RAW TRUTH: Money = concentrated human time/energy                       ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                        ║
@@ -136,13 +136,16 @@ BEGINNER ──▶ PHASE I (Foundations) ──▶ PHASE II (Plumbing) ──▶
 | # | File | Lines | What It Gives You |
 |:-:|------|:----:|--------------------|
 | 9 | `trading/complete-strategy-orb-eurusd.md` | 174 | ORB (USD/CAD, NY session). London breakout (EUR/USD). Pre-session checklist. Post-trade journal. |
-| 10 | `trading/prop-firm-playbook.md` | 81 | Goat/Apex/FTMO/Topstep. MES/MNQ/MGC/MBT specs. Vancouver session map. Eval nuances. |
+| 10 | `trading/prop-firm-playbook.md` | ~200 | 11 firms across 3 categories (FX-only, futures-only, multi-asset). 2026 data, promo codes, daily loss rules. |
 | 11 | `trading/trading-commandments.md` | 70 | 10 rules. **Print this. Read before every session. Forever.** |
 | 12 | `trading/mes-mnq-playbook.md` | — | MES/MNQ execution — ORB, VWAP reversion, Power Hour, gap play, scalp. Edge integration table. R:R tables. |
 | 13 | `trading/eval-mode-protocol.md` | — | Prop eval rules — different sizing for eval vs funded, daily targets, psychology, firm-by-firm parameters. |
 | 14 | `trading/fill-your-cup.md` | — | Three phases: Prove It → Scale It → Live It. Compound path. Freedom number. 3-bucket system. |
+| 15 | `trading/paper-vs-live-gap.md` | ~250 | **Execution gap bible.** 6 gaps (slippage, spreads, commissions, rollover, stop gap, queue position). Cost math. B-Book reality. 4-week bridge protocol. |
+| 16 | `trading/prop-firm-architecture.md` | ~300 | **Master prop firm map.** 3 categories (FX-only / futures-only / multi-asset). Every major firm mapped. Platform matrix. Scaling architecture. Canada-specific. |
+| 17 | `trading/multi-account-gateway.md` | ~200 | **Multi-account architecture.** 4-layer gateway. 3 firm combos. 4-stage scaling path. Combined risk model. Circuit breakers. |
 
-**Total: ~2,000+ lines · ~20 hrs to complete**
+**Total: ~2,800+ lines · ~25 hrs to complete**
 
 **Hierarchy-master parallel:** Part 5 (Liquidity Equation + 15 Trading Edges) + Part 10 (Exfiltration Path)
 
@@ -262,8 +265,12 @@ core/liquidity-equation.md (formula)
         → systems/plumbing-to-trade-bridge.md (verdict → instrument/bias/size)
           → trading/mes-mnq-playbook.md (MES/MNX execution)
             → trading/eval-mode-protocol.md (if in prop eval)
-              → quickstart/01-broker-canada.md → 03-demo-path.md
-                → trading/prop-firm-playbook.md → trading/fill-your-cup.md
+              → trading/prop-firm-architecture.md (which firm? 3 categories)
+                → trading/prop-firm-playbook.md (11 firms mapped)
+                  → trading/paper-vs-live-gap.md (bridge protocol before real eval)
+                    → trading/multi-account-gateway.md (scaling to multiple accounts)
+                      → trading/fill-your-cup.md (prove → scale → live)
+                        → quickstart/01-broker-canada.md → 03-demo-path.md
 ```
 
 ### 🏛️ Path: "I want to understand sovereignty and power."
@@ -298,16 +305,19 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`quickstart/01-broker-canada.md`** | 142 | Broker setup for Canadian traders | When ready to open live/demo account |
 | **`quickstart/pip-calculator.md`** | 100 | Pip values + position sizing | Open alongside any trade |
 | **`trading/trading-commandments.md`** | 70 | 10 immutable rules | Read before every session |
-| **`trading/prop-firm-playbook.md`** | 81 | Funded account specs (Goat/FTMO/Apex) | Day 30+ when gradating demo |
+| **`trading/prop-firm-playbook.md`** | ~200 | Funded account specs (11 firms, 3 categories — FX/futures/multi) | Day 30+ when gradating demo |
 | **`trading/mes-mnq-playbook.md`** | — | MES/MNQ entry/exit rules, R:R tables, edge integration | Open alongside every session |
 | **`trading/eval-mode-protocol.md`** | — | Eval vs funded rules, risk per firm, daily targets, psychology | Before purchasing any eval |
 | **`trading/fill-your-cup.md`** | — | First payout → scale → compound → freedom number | After first funded payout |
+| **`trading/paper-vs-live-gap.md`** | ~250 | Execution gap bible — 6 gaps, cost math, B-Book reality, 4-week bridge protocol | Before first real eval |
+| **`trading/prop-firm-architecture.md`** | ~300 | Master prop firm map — 3 categories, platform matrix, scaling path, Canada-specific | When choosing a firm |
+| **`trading/multi-account-gateway.md`** | ~200 | Multi-account 4-layer architecture, risk rules, scaling path, circuit breakers | When running 2+ prop accounts |
 | **`systems/live-data-workflow.md`** | — | 15-min morning: 5 URLs, 6 numbers, compute Net Liq, verdict → trade decision | Every single trading day before session |
 | **`systems/plumbing-to-trade-bridge.md`** | — | Decision trees: should I trade → bias → instrument → size. References plumbing files, never re-explains. | After live data workflow |
 | **`systems/3hr-daily-schedule.md`** | — | The OS: pre-session → trade → post-session → study. 3-hour block per day. Trading vs study day schedules. | Every day |
 | **`references/master-reference-list.md`** | 178 | 70+ books/papers/tools in 11 categories | Deep research on any topic |
 | **`GROWTH_PROTOCOL.md`** | 101 | Living system heartbeat — how the repo evolves with every study session | Read before and after every session |
-| **`MAP.md`** | 408 | Complete mindmap — all files, connections, Part 11 cross-refs | Navigate the entire repo |
+| **`MAP.md`** | ~440 | Complete mindmap — all files, connections, Part 11 cross-refs | Navigate the entire repo |
 | **`MAP_360.md`** | ~300 | 360° architecture view — system connections, term clusters, esoteric truths | Full system overview at a glance |
 | **`FREEFALL_LIFE.md`** | 820 | FREEFALL — every sector of life (body, mind, money, time, craft, emotions, relationships, environment, spirit, legacy) | When you need the big picture across ALL sectors |
 | **`FREEFALL_PHILOSOPHY.md`** | 750 | FREEFALL — the system thinking about itself (7 philosophical layers, tensions, meta-layer) | When you need to understand WHY the system exists |
@@ -318,7 +328,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (55 files · ~15,450 lines)
+📁 moneygod-oc/ (57 files · ~16,500 lines)
 │
 ├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -350,7 +360,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── pipe-theory.md .............................. 145  │ Core model
 │   └── wealth-code-synthesis.md .................... 129  │ Pyramid × pipe
 │
-├── 📁 systems/ (8 files · ~1,650 lines)
+├── 📁 systems/ (9 files · ~1,950 lines)
 │   ├── daily-pre-session.md ........................ 209  │ 5-min ritual
 │   ├── position-sizing-by-flow.md .................. 223  │ Size by regime
 │   ├── weekly-flow-checklist.md ................... 135  │ 15-min check
@@ -358,15 +368,19 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── plumbing-to-trade-bridge.md ................  —  │ Decision trees: plumbing → trade
 │   ├── 3hr-daily-schedule.md ......................  —  │ The daily OS
 │   ├── gangotri-protocol.md .......................  —  │ Integration master: plumbing×ICT×exec
-│   └── accumulation-distribution-syllabus.md ......  —  │ 12-week learning OS with proof gates
+│   ├── accumulation-distribution-syllabus.md ......  —  │ 12-week learning OS with proof gates
+│   └── week-1-readiness.md ........................  —  │ Execution bridge: paper→live gap, prop firm ref, 4-week protocol
 │
-├── 📁 trading/ (6 files · ~850 lines)
+├── 📁 trading/ (9 files · ~1,550 lines)
 │   ├── complete-strategy-orb-eurusd.md ............. 174  │ ORB + London breakout
-│   ├── prop-firm-playbook.md .......................  81  │ Funded account specs
+│   ├── prop-firm-playbook.md ....................... ~200  │ Funded account specs (2026)
 │   ├── trading-commandments.md .....................  70  │ 10 rules
 │   ├── mes-mnq-playbook.md ........................  —  │ MES/MNQ execution playbook
 │   ├── eval-mode-protocol.md ......................  —  │ Prop eval rules
-│   └── fill-your-cup.md ...........................  —  │ First payout to freedom
+│   ├── fill-your-cup.md ...........................  —  │ First payout to freedom
+│   ├── paper-vs-live-gap.md ....................... ~250  │ Execution gap bible + bridge protocol
+│   ├── prop-firm-architecture.md .................. ~300  │ Master prop firm map (3 categories)
+│   └── multi-account-gateway.md ................... ~200  │ Multi-account architecture
 │
 ├── 📁 quickstart/ (4 files · 564 lines)
 │   ├── 01-broker-canada.md ......................... 142  │ Broker setup
@@ -415,14 +429,14 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 55 |
-| Total lines | ~15,450 |
-| Total words (est.) | ~310,000 |
+| Total files | 57 |
+| Total lines | ~16,500 |
+| Total words (est.) | ~330,000 |
 | Phases | 6 |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
-| Trading strategies | 6 |
-| Systems & ritual (incl. bridge) | 8 |
+| Trading strategies | 9 |
+| Systems & ritual (incl. bridge) | 9 |
 | Quickstart guides | 4 |
 | Master reference (hierarchy) | 1 file, 12 parts, 3,307 lines |
 | Part 11 lexicon terms | 25 |

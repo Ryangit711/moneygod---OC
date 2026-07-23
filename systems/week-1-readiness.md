@@ -149,9 +149,116 @@ FRIDAY CLOSE (15 min) — systems/trade-journal-template.md (weekly review)
 
 ---
 
+## 5. THE 4-WEEK BRIDGE — Demo → Prop Firm Eval
+
+**This is the gap most traders ignore.** Demo execution is not the same as prop firm execution. The fills are different, the spreads are different, the psychology is different. Walk this stairway before you buy your first eval.
+
+### The Paper-to-Live Execution Gap (Quick Summary)
+
+| What Demo Gives You | What Prop Firm Gives You |
+|---------------------|-------------------------|
+| Zero slippage | 1-10 ticks slippage on volatility |
+| Fixed tight spreads | Variable spreads (widen at rollover, news) |
+| No commissions | $3-$7/lot or $0.62/contract |
+| Instant fills | 5-200ms latency |
+| Stop at exact price | Stop becomes market order → fill at available price |
+
+**Full breakdown:** `trading/paper-vs-live-gap.md`
+
+### Week 1: Realistic Demo
+
+Trade your retail demo, but manually subtract realistic costs:
+
+| Day | Activity | Purpose |
+|-----|----------|---------|
+| 1-2 | Trade demo, mentally subtract 1 pip from every win | Simulates slippage |
+| 3-4 | Trade demo, use limit entries only (never market) | Learn queue behavior |
+| 5-7 | Trade demo, subtract $5 from every winning trade | Factor in commissions |
+
+### Week 2: Prop Firm's Own Demo
+
+| Day | Activity | Purpose |
+|-----|----------|---------|
+| 1 | Sign up for FTMO free 14-day demo OR Goat Funded free demo | Get on their actual price feed |
+| 2-3 | Trade 1-2 sessions. Compare fills to TradingView. | Identify their execution quality |
+| 4-7 | Full sessions on their demo. Journal every fill. | Build your slippage profile |
+
+### Week 3: Eval Rehearsal
+
+| Day | Activity | Purpose |
+|-----|----------|---------|
+| 1-3 | Same demo, but treat it like live: 0.25% risk max, 1 trade/day | Build eval-mode discipline |
+| 4-5 | Only A+ setups. Flat if no A+. | Prove you can wait |
+| 6-7 | Full pre-session ritual + 1 trade + journal | Rehearse the exact eval routine |
+
+### Week 4: Pre-Eval Checklist
+
+```
+- [ ] 30+ demo trades on prop firm's own feed (not retail demo)
+- [ ] Average slippage documented per instrument
+- [ ] Execution cost calculated (spread + slippage + commission)
+- [ ] Win rate after execution costs is still positive
+- [ ] R:R maintained at 1:1.5 minimum after costs
+- [ ] Pre-session ritual is habitual (not something you think about)
+- [ ] Journal entries for every trade
+- [ ] Max 2 consecutive losses in any 5-trade stretch
+- [ ] No overtrading: 1-2 trades/day for 5+ consecutive days
+```
+
+**All boxes checked → you're ready to buy your first eval.**
+
+### Which Platform to Practice On (By Firm)
+
+| If Your First Eval Is... | Practice On... | Why |
+|--------------------------|---------------|-----|
+| FTMO (FX) | MT5 demo from FTMO's site | Same platform, same feed |
+| Funding Pips (FX) | MT5 demo from their site | Same platform, same feed |
+| Goat Funded (FX/CFD) | MT5 demo from their site | Same platform, same feed |
+| MyFundedFutures (futures) | Tradovate paper trading | Same platform, same feed |
+| Apex (futures) | Tradovate or NinjaTrader paper | Same platform, same feed |
+| TradeDay (futures) | Tradovate paper trading | Same platform, same feed |
+
+**Rule:** Never practice on a retail demo and then buy an eval. Practice on THE FIRM'S OWN DEMO FIRST. The feeds are different. The fills are different. The experience must match.
+
+---
+
+## 6. PROP FIRM ARCHITECTURE — Quick Reference
+
+**Full details:** `trading/prop-firm-architecture.md`
+
+### Forex/CFD Firms (MT4/MT5/cTrader)
+- FTMO — Gold standard, $79 entry, 14-day free demo
+- Funding Pips — Best value, $29 entry, weekly payouts
+- The5ers — Best scaling, up to $4M, milestone-based
+- FundedNext — Best multi-strategy, up to $4M, 24h payouts
+
+### Futures Firms (NinjaTrader/Tradovate/Rithmic)
+- MyFundedFutures — Highest trust (4.9★), EOD drawdown, $54.50
+- Apex — Cheapest ($19.90), 100% split first $25K, trailing DD
+- TradeDay — Commission-free, $43.50, EOD drawdown
+- Tradeify — Simple 1-step, $42.25, 90% split
+
+### Multi-Asset (FX + Futures)
+- FXIFY — #1 for Canada, MT5 + FFX, $59, Canadian privacy policy
+
+### Paper vs Live Gap
+- Full execution gap analysis: `trading/paper-vs-live-gap.md`
+- 6 execution gaps, cost math, 4-week bridge protocol
+
+### Multi-Account Gateway
+- Managing multiple prop accounts: `trading/multi-account-gateway.md`
+- 4-layer architecture, risk rules, scaling path
+
+---
+
 ## REFERENCES
 
+- **Paper vs live gap:** `trading/paper-vs-live-gap.md` — execution differences, cost math, bridging protocol
+- **Prop firm architecture:** `trading/prop-firm-architecture.md` — every firm categorized by market
+- **Prop firm specs:** `trading/prop-firm-playbook.md` — detailed comparison with promo codes
+- **Multi-account gateway:** `trading/multi-account-gateway.md` — managing multiple funded accounts
 - **Tradovate demo signup:** tradovate.com → Free Trial
+- **FTMO free demo:** ftmo.com → Free Trial (14 days)
 - **Vancouver timezone reference:** https://time.is/PT
 - **Per-session risk:** `systems/position-sizing-by-flow.md` (size per trade mode)
 - **Full daily OS:** `systems/3hr-daily-schedule.md`
