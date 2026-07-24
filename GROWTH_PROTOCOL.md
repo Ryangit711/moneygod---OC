@@ -4,6 +4,14 @@
 
 You study → you learn → you write → you push → the system evolves. The git history is not a changelog — it is the fossil record of your mind expanding.
 
+## CURRENT STATE
+
+- **Files:** 64
+- **Lines:** ~18,700
+- **Words (est.):** ~374,000
+- **Last updated:** 2026-07-23
+- **Key additions:** 6 basics files (pip, candlestick, order types, MT5 walkthrough, Tradovate walkthrough, VWAP/EMA/volume) + master-syllabus.md (20-week curriculum)
+
 ---
 
 ## THE CYCLE

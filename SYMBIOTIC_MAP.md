@@ -1,6 +1,6 @@
 # SYMBIOTIC MAP — THE LIVING REEF
 
-## (2026-07-14 · 57 organisms · 16,500 lines · 1 ecosystem)
+## (2026-07-14 · 64 organisms · ~18,700 lines · 1 ecosystem)
 
 *A coral reef. Every organism depends on every other. Remove one, the system doesn't die — but it breathes harder. The reef is not the sum of its parts. The reef is the RELATIONSHIPS between them.*
 

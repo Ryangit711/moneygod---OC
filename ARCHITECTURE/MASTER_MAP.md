@@ -1,6 +1,6 @@
 # MONEYGOD — OC MASTER MAP (Scoped to Trading Mastery)
 
-## (57 files · ~16,500 lines · 6 phases · 25 lexicon terms · Updated 2026-07-23)
+## (64 files · ~18,700 lines · 6 phases · 25 lexicon terms · Updated 2026-07-23)
 
 *This is the bird's eye view of moneygod---OC only. For the full system view across all repos, see aman-os/ARCHITECTURE/MASTER_MAP.md.*
 
@@ -12,7 +12,7 @@
 ║         "Money is concentrated human time and energy."                          ║
 ║         "The flow exists. Your job: read the plumbing, sit in the pipe."       ║
 ║                                                                                  ║
-║         57 files · ~16,500 lines · 6 phases · 25 lexicon terms                  ║
+║         64 files · ~18,700 lines · 6 phases · 25 lexicon terms                  ║
 ║         STATUS: ACTIVE PERMANENTLY (the cash engine)                            ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```

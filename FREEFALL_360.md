@@ -1,6 +1,6 @@
 # FREEFALL 360° — THE SYSTEM AS LIVING ORGANISM
 
-## (Drawn 2026-07-14 · 57 files · 16,500 lines)
+## (Drawn 2026-07-14 · 64 files · ~18,700 lines)
 
 *Drop in anywhere. Follow the thread. Every node connects to every other node.*
 

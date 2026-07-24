@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (57 files · ~16,500 lines)                    ║
+║            🌊 MONEYGOD — OC  (64 files · ~18,700 lines)                    ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"               ║
 ║     RAW TRUTH: Money = concentrated human time/energy                       ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                        ║
@@ -49,6 +49,7 @@ BEGINNER ──▶ PHASE I (Foundations) ──▶ PHASE II (Plumbing) ──▶
 
 | # | File | Lines | What It Gives You |
 |:-:|------|:----:|--------------------|
+| 0 | `basics/what-is-a-pip.md` | ~180 | Pip, lot, spread, leverage, margin, drawdown, R:R — all defined with examples. The vocabulary of trading. |
 | 1 | `01-origins-of-money-and-debt.md` | 144 | Money's true origin: community credit, not barter. Debt as social obligation. 4-stage evolution. |
 | 2 | `02-the-real-meaning-of-economy.md` | 98 | Oikonomia (household mgmt) vs chrematistike (wealth-getting). Aristotle's distinction. |
 | 3 | `03-money-as-debt-modern-system.md` | 125 | Banks create money from nothing (BoE 2014). Cantillon effect. Inflation as hidden tax. Perpetual growth requirement. |
@@ -299,6 +300,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | File | Lines | What It Is | When to Use |
 |------|:-----:|-----------|-------------|
+| **`systems/master-syllabus.md`** | ~450 | **THE MASTER SYLLABUS** — 20-week day-by-day curriculum from absolute zero to first funded trade. Gap analysis, 6 phases, proof gates, cross-reference table. | **START HERE if new** |
 | **`CURRICULUM.md`** | 361 | Full study path: zero to funded trader — day-by-day with exercises | **START HERE if new** |
 | **`READING_ORDER.md`** | 150 | Pure file sequence without exercises | When you know the path, just need order |
 | **`conversations/2026-07-07_oc-session-01.md`** | 57 | Genesis record — where this all started | Read once for context |
@@ -328,7 +330,15 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (57 files · ~16,500 lines)
+📁 moneygod-oc/ (64 files · ~18,700 lines)
+│
+├── 📁 basics/ (6 files · ~900 lines)
+│   ├── what-is-a-pip.md ............................. ~180  │ Pre-Nursery W2
+│   ├── candlestick-anatomy.md ....................... ~150  │ Pre-Nursery W2
+│   ├── order-types.md ............................... ~160  │ Nursery W4
+│   ├── how-to-place-a-trade-mt5.md ................. ~200  │ Primary W7
+│   ├── how-to-place-a-trade-tradovate.md ........... ~200  │ Primary W7
+│   └── what-is-vwap-ema-volume.md .................. ~150  │ Nursery W4
 │
 ├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
@@ -429,20 +439,22 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 57 |
-| Total lines | ~16,500 |
-| Total words (est.) | ~330,000 |
+| Total files | 64 |
+| Total lines | ~18,700 |
+| Total words (est.) | ~374,000 |
 | Phases | 6 |
+| Basics files | 6 (900 lines) |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
 | Trading strategies | 9 |
-| Systems & ritual (incl. bridge) | 9 |
+| Systems & ritual (incl. bridge) | 10 |
 | Quickstart guides | 4 |
 | Master reference (hierarchy) | 1 file, 12 parts, 3,307 lines |
 | Part 11 lexicon terms | 25 |
 | External references | 70+ |
 | Root files | 15 |
 | Conversations | 1 (genesis) |
+| Master syllabus | 1 (20-week curriculum) |
 
 ---
 
