@@ -1,4 +1,4 @@
-# Moneygod — OC
+# Moneygod 1.0
 
 **A living system.** 41 files · ~11,600 lines · 12 parts · 25 Feynman terms · growing with every study.
 
