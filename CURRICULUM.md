@@ -14,6 +14,7 @@ This is the front door. Everything in this repo exists to serve this curriculum.
 
 | Task | Time | Done? |
 |------|------|-------|
+| **Read `00-background-edge.md`** — codify your personal context and edge before anything else | 20 min | ☐ |
 | Download **TradingView** (free account) | 10 min | ☐ |
 | Open **OANDA demo account** (or your broker from quickstart/01-broker-canada.md) | 15 min | ☐ |
 | Read the **six phase titles** below so you see the entire path | 5 min | ☐ |
@@ -309,6 +310,22 @@ The pre-session, the journal, the plumbing check — these are NOT optional extr
 
 ---
 
+## New Foundation Files Added 2026-07-29 (Assimilation Batch 1)
+
+These 5 files fill foundational gaps. Read alongside the curriculum phases below — they are not a substitute, they enrich.
+
+| File | Phase | Why It Exists |
+|------|-------|---------------|
+| `00-background-edge.md` | PRE-P0 (read first) | Codifies YOUR specific edge + your flagged dangers. Without this, the curriculum is generic. |
+| `systems/s01-mathematics.md` | P3 (alongside ritual) | First-principles math: pip value, EV, Kelly, money management stats. Eliminates every "I don't know the math" blocker. |
+| `systems/s02-trading-psychology.md` | P0+ (parallel track, re-read in P5) | Psychology as a structured operating system, not platitudes. Four dangerous states + 8 flagged negatives. |
+| `systems/s03-volume-profile-and-order-flow.md` | P4 (alongside chart foundations) | Market microstructure — the missing layer that explains "why" behind every ICT concept. |
+| `systems/s04-backtesting-and-system-development.md` | P5 W12 (before eval prep) | How to develop and validate a trading system. The scientific method for trading. |
+
+All 22 planned new files end with a `## Synaptic Connections` section linking them to related files. This is the **neural architecture** — see `ASSIMILATION_PROTOCOL.md` for the full protocol.
+
+---
+
 ## References in This Repo
 
 All roads lead to the curriculum. Every file in this repo exists to serve a specific phase above.
@@ -356,6 +373,12 @@ All roads lead to the curriculum. Every file in this repo exists to serve a spec
 | `10-investing-and-compounding.md` | P6+ |
 | `11-escaping-the-rat-race.md` | P6+ |
 | `12-who-knows-this-level.md` | P6+ |
+| `00-background-edge.md` | PRE-P0 (read first) |
+| `systems/s01-mathematics.md` | P3 Week 5 (alongside position sizing) |
+| `systems/s02-trading-psychology.md` | P0+ (parallel track) |
+| `systems/s03-volume-profile-and-order-flow.md` | P4 Week 6-7 |
+| `systems/s04-backtesting-and-system-development.md` | P5 Week 12 (before eval prep) |
+| `ASSIMILATION_PROTOCOL.md` | KERNEL (always — governs all info flow) |
 
 ---
 
