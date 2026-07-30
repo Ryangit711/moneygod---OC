@@ -162,3 +162,15 @@ Cross-ref: hierarchy-master Part 5 (15 edges — the plumbing source for every I
 Cross-ref: trading/mes-mnq-playbook (MES/MNQ specific setups with R:R tables)
 Cross-ref: trading/complete-strategy-orb-eurusd (ORB FX setups)
 Cross-ref: trading/eval-mode-protocol (sizing rules for eval vs funded)*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/live-data-workflow.md` | Outputs the VERDICT that Lens 1 (plumbing) consumes as the source signal | Running Step 1 of the before-session sequence |
+| `systems/plumbing-to-trade-bridge.md` | Decision trees translate the plumbing verdict into Trade Mode and bias | Running Step 2 before any trade consideration |
+| `core/plumbing-esoterica.md` | Esoteric signals (XCCY, FRA-OIS) map to rows in the Combined Edge Matrix | Matching today's signals against the edge matrix |
+| `systems/position-sizing-by-flow.md` | Lens 3 execution sizing depends on regime classifications from the matrix | Setting trade size after the 3-question gate passes |
+| `plumbing-hierarchy-master.md` | Part 9.2 ICT table and Part 5 edges define the structure lens patterns | Looking up a specific ICT concept for the structure lens |
+| `trading/mes-mnq-playbook.md` | The execution-source playbook that Lens 3 references for MES/MNQ entries | Entering on a specific MES/MNQ setup after the gate passes |
+| `systems/3hr-daily-schedule.md` | The before-session sequence integrates into Block A of the daily schedule | Sequencing the pre-session workflow against the daily block |

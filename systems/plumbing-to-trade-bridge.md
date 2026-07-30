@@ -274,3 +274,15 @@ The most important function of this bridge is telling you when NOT to trade:
 - Live data workflow: `systems/live-data-workflow.md`
 - Daily schedule: `systems/3hr-daily-schedule.md`
 - This file: `systems/plumbing-to-trade-bridge.md`
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/live-data-workflow.md` | The workflow verdict is the primary input feeding all four decision trees | Starting Decision Tree 1 from the workflow's verdict |
+| `core/liquidity-equation.md` | Net Liq thresholds ($50B+) used in Tree 1 and Tree 2 come from the equation | Checking whether Net Liq says trade or flat |
+| `core/repo-plumbing.md` | SOFR vs IORB stress check in Tree 1 references repo plumbing definitions | Determining if repo stress kills the session |
+| `systems/position-sizing-by-flow.md` | Decision Tree 4 maps directly to the sizing regimes defined in the sizing file | Sizing after bias and instrument are set |
+| `plumbing-hierarchy-master.md` | Part 5 edges and Part 6 HUD supply the active-edge quick reference table | Classifying active edges against today's plumbing data |
+| `trading/mes-mnq-playbook.md` | Tree 3 instrument selection routes to specific MES/MNQ plays in the playbook | Selecting a specific setup after choosing an instrument |
+| `systems/gangotri-protocol.md` | The 3-question gate wraps the bridge's Trees 1-4 into the before-session sequence | Integrating the bridge verdict with structure and execution lenses |

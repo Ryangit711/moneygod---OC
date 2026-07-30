@@ -687,3 +687,13 @@ COMMODITY SUPER-CYCLE:
 - [09-futures-trading-energy-and-receipts.md] — WTI, gold, nat gas
 - [systems/weekly-flow-checklist.md] — Weekly 15-min check
 - [mental-models/pipe-theory.md] — "Sit in the pipe"
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | Net liquidity formula drives the directional bias across all 18 regions | Computing the weekly liquidity verdict |
+| `core/tri-region-flow-map.md` | Superseded simpler 3-region version of this same map | Quick refresher without the full 18-region detail |
+| `core/plumbing-esoterica.md` | Insider signals (XCCY, FRA-OIS) that explain why regions transmit flow differently | Plumbing stress detected in a specific region |
+| `systems/weekly-flow-checklist.md` | Operational checklist that mirrors the tri-region synthesis from this map | Monday morning 10-min tri-region check |
+| `mental-models/pipe-theory.md` | Mental model of positioning in the pipe, mapped onto the 18-region flow hierarchy | Before any trade to confirm placement in the flow path |

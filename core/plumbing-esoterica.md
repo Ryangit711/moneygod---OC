@@ -644,3 +644,13 @@ Once a week, before Monday trading, run this check. It takes 5 minutes. It catch
 ---
 
 *File: core/plumbing-esoterica.md — What only insiders know. Everything above is missing from retail education.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/repo-plumbing.md` | Repo mechanics underpin every esoteric signal (SOFR, FRA-OIS, CCP margin) | Learning the base layer before studying esoteric signals |
+| `core/liquidity-equation.md` | The equation's TGA/RRP terms are checked in the insider's weekly plumbing check | Running the weekly plumbing check from section 12 |
+| `core/global-flow-map.md` | Regional flow map provides the global context for XCCY and Eurodollar stress signals | A cross-currency basis signal fires in a specific region |
+| `systems/plumbing-to-trade-bridge.md` | Esoteric stress signals translate to FLAT or REDUCED trade modes | SOFR > IORB or XCCY widening and deciding whether to trade |
+| `systems/live-data-workflow.md` | Workflow operationalizes esoteric checks (SOFR vs IORB, XCCY basis) in a 15-min routine | Morning routine when esoteric signals need a fast read |

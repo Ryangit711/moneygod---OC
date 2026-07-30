@@ -242,3 +242,14 @@ Print it. Save it on your phone. Do the work. Watch the flow turn into freedom.
 - [bank](03-money-as-debt-modern-system.md)
 
 [Complete reference list](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `05-how-money-flows-in-the-system.md` | The three-pool model and central bank pump mechanics that the 7 pressure points are designed to measure | When understanding WHY each pressure point matters for weekly flow verdict |
+| `14-monetary-plumbing-global.md` | Two-layer engine and reserve mechanics that underlie the BoC balance sheet and repo readings | When deepening understanding of the plumbing behind the weekly checklist |
+| `08-forex-trading-the-purest-flow.md` | CAD-specific FX flows and oil correlations that the weekly OS tracks for Canadian traders | When setting up CAD pairs based on the weekly liquidity verdict |
+| `09-futures-trading-energy-and-receipts.md` | COT report, EIA inventory, contango/backwardation — all monitored in the weekly routine | When running the weekly oil/gold/gas scan for futures setups |
+| `06-day-trading-tap-the-flow.md` | The execution layer — once the weekly verdict is set, this file provides the daily trading discipline | When transitioning from Monday's planning to Tuesday-Friday execution |
+| `10-investing-and-compounding.md` | Profit allocation rules (50/30/20) — the bridge between tapping flow and building wealth | When routing trading profits to the compound account per the weekly OS |

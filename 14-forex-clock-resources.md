@@ -121,3 +121,13 @@
 - [bank](03-money-as-debt-modern-system.md)
 
 [Complete reference list](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `08-forex-trading-the-purest-flow.md` | The six forces that move FX and the specific CAD-pair strategies that session timing supports | When applying session awareness to specific pair trading decisions |
+| `06-day-trading-tap-the-flow.md` | Time of day dictates who is trading and why — the session clock is the foundation of daily trading discipline | When planning which hours to trade and which to avoid (lunch chop) |
+| `13-weekly-flow-tapping-operating-system.md` | Weekly schedule integrates session timing with the full operating system | When building your weekly routine around optimal trading windows |
+| `09-futures-trading-energy-and-receipts.md` | EIA inventory reports (Wed 10:30 ET) and other timed events that drive commodity-currency moves | When aligning futures and forex trading around shared economic releases |
+| `CURRICULUM.md` | Phase 4 (Chart Foundations) directs students to use these tools while watching sessions on demo | When following the structured learning path from theory to practice |

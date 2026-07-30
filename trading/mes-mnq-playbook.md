@@ -289,3 +289,14 @@ These playbooks connect to the 15 trading edges from `plumbing-hierarchy-master.
 - **Commandments (pre-session read):** `trading/trading-commandments.md` — 10 rules
 - **Daily pre-session:** `systems/daily-pre-session.md` — 5-min ritual
 - **Live data workflow:** `systems/live-data-workflow.md` — plumbing data → trade decision
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/eval-mode-protocol.md` | Eval sizing rules (0.25% risk, 1 contract) directly determine contract count and stop distance in the risk tables | Sizing trades on eval accounts |
+| `trading/prop-firm-playbook.md` | Prop firm specs list which firms support Tradovate/NinjaTrader for MES/MNQ execution | Choosing a futures prop firm |
+| `plumbing-hierarchy-master.md` | Edge integration table maps 15 plumbing edges to specific MES/MNQ playbooks — the core of regime-based execution | Selecting playbook based on plumbing |
+| `systems/position-sizing-by-flow.md` | Position sizing by regime adjusts contract count when liquidity is thin or volatility high | Adjusting size during abnormal session |
+| `systems/daily-pre-session.md` | Pre-session ritual sets bias, levels, and trigger — directly feeds the MES/MNQ entry conditions | Morning prep before futures session |
+| `trading/trading-commandments.md` | The 10 commandments enforce discipline before every MES/MNQ trade — especially rule 1 (protect the account) | Pre-session read before every trade |

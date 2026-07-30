@@ -207,3 +207,14 @@ Gold:    [Bullish / Bearish / Neutral]
 - [core/liquidity-equation.md] — Liquidity math for daily check
 - [core/repo-plumbing.md] — Repo/SOFR read for daily liquidity check
 - [mental-models/10-level-mastery-path.md] — Level 9 (Execution) is this applied
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | Net Liq formula powers the liquidity-check step of the pre-session routine | Computing the daily liquidity verdict from TGA, RRP, DXY |
+| `core/repo-plumbing.md` | SOFR and repo rate check confirm the liquidity verdict before the session | Reading repo stress signals during the liquidity check |
+| `systems/live-data-workflow.md` | Live data workflow is the structured version of this 5-min checklist run as a 15-min block | Running the full pre-session data block, not the quick check |
+| `mental-models/pipe-theory.md` | The daily pipe check questions align with the bias confirmation in this routine | Confirming you're in the pipe, not trying to be the pipe |
+| `systems/3hr-daily-schedule.md` | This checklist fills the 30-min pre-session prep block in the daily schedule | Structuring the Block A pre-session time slot |
+| `systems/trade-journal-template.md` | Post-session 5 questions map to the journal template's session-summary fields | Logging the post-session review into the journal |

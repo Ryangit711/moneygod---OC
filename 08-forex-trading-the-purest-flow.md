@@ -263,3 +263,13 @@ This is exactly what Druckenmiller did with the pound. What Soros did with the b
 - **#70** — Trading Economics (tradingeconomics.com) — [central [bank](03-money-as-debt-modern-system.md)](05-how-[money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)-flows-in-the-system.md) calendars
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `05-how-money-flows-in-the-system.md` | Central bank policy drives interest rate differentials — the gravity of forex | When checking which central bank is hiking/cutting and trading the rate differential |
+| `07-what-money-actually-is-no-bs.md` | Currencies as receipts for national energy output — USD/CAD is US receipts vs Canadian oil receipts | When reminding yourself what a currency pair actually represents |
+| `09-futures-trading-energy-and-receipts.md` | Oil futures drive CAD directly — the FX + futures matrix for a Canadian trader | When trading USD/CAD and watching WTI crude as your leading indicator |
+| `14-forex-clock-resources.md` | Session overlap timing tools — London fix, NY open, Asian session for JPY pairs | When planning which sessions to trade and which pairs are most active |
+| `06-day-trading-tap-the-flow.md` | General day trading principles applied specifically to FX: stop hunts, volume confirmation, time windows | When executing forex trades with the same discipline as equity day trading |

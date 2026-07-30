@@ -214,3 +214,13 @@ Here's what the path looks like if you start at 30 with $10K and can generate $2
 - **#50** — Nassim Nicholas Taleb, *Antifragile* (2012)
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `06-day-trading-tap-the-flow.md` | The flow game (Game 1) generates the income that feeds into the compound game (Game 2) | When remembering that trading profits must be allocated, not spent |
+| `11-escaping-the-rat-race.md` | The freedom number is the target — this file builds the engine, 11-escaping defines the destination | When calculating how much you need to exit the rat race |
+| `08-forex-trading-the-purest-flow.md` | Forex trading is a primary income engine that feeds the compound account | When routing trading profits from FX into TFSA/RRSP |
+| `13-weekly-flow-tapping-operating-system.md` | Profit allocation rules (50/30/20) enforce the discipline of moving income into compounding assets | When executing the weekly routine and allocating profits |
+| `09-futures-trading-energy-and-receipts.md` | Futures trading income feeds the same compound pipeline — all flow, same destination | When diversifying trading income sources while maintaining the same allocation discipline |

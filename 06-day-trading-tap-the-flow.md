@@ -331,3 +331,13 @@ The traders who consistently profit understand that their trades exist **within 
 - **#55** — Nassim Nicholas Taleb, *The Black Swan* (2007)
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `05-how-money-flows-in-the-system.md` | The macro current your trades exist within — don't fight the Fed, align with the pump direction | When setting daily bias based on liquidity regime |
+| `08-forex-trading-the-purest-flow.md` | FX-specific esoteric knowledge: carry trade, news fade, London fix, session timing | When layering forex-specific edge on top of general day trading principles |
+| `13-weekly-flow-tapping-operating-system.md` | Daily and weekly operating system that turns these esoteric principles into a repeatable routine | When building your pre-market and post-market ritual |
+| `09-futures-trading-energy-and-receipts.md` | Futures markets are the deepest layer — energy and commodity flows beneath the currency layer | When expanding from forex into futures with the same flow-tapping mentality |
+| `systems/s03-volume-profile-and-order-flow.md` | Volume is the truth, price is the lie — this file deepens the volume/order flow reading skills | When learning to read actual institutional footprint on the tape |

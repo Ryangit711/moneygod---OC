@@ -225,3 +225,14 @@ POST-SESSION (5 min)
 - **Demo path (pre-eval prep):** `quickstart/03-demo-path.md` — 30-day plan
 - **Curriculum Phase 5:** `CURRICULUM.md` lines 155-220 — demo phase milestones
 - **Wealth Rule Book (your vault):** "The wealthy don't take more risk. They take better-structured risk."
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/prop-firm-playbook.md` | Full firm specs, promo codes, and drawdown types — supplements the eval rules with firm-specific detail | Comparing firms before buying eval |
+| `trading/mes-mnq-playbook.md` | MES/MNQ playbook provides the entry rules and R:R tables sized for eval accounts (1-contract, 0.25% risk) | Executing eval trades on MES/MNQ |
+| `trading/fill-your-cup.md` | Phase 1 of fill-your-cup maps directly to passing first eval and taking first payout | Planning the path from eval to freedom |
+| `trading/paper-vs-live-gap.md` | Execution costs (slippage, spread, commission) erode the tight eval R:R — must factor into sizing | Estimating real cost before eval |
+| `CURRICULUM.md` | Phase 5 demo milestones (60+ trades with positive expectancy) are prerequisite to attempting eval | Deciding if ready for eval |
+| `quickstart/03-demo-path.md` | 30-day demo path builds the discipline needed before risking eval money | Pre-eval practice routine |

@@ -281,3 +281,14 @@ YEAR 3+: IBKR self-directed + remaining prop accounts
 - **Position sizing:** `systems/position-sizing-by-flow.md` — size by regime
 - **Week 1 readiness:** `systems/week-1-readiness.md` — demo setup, risk caps
 - **Gangotri protocol:** `systems/gangotri-protocol.md` — plumbing × structure × execution
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/prop-firm-architecture.md` | Master prop firm map shows which firms handle FX vs futures — informs the firm selection in the combo matrix | Selecting which firms to combine |
+| `trading/eval-mode-protocol.md` | Eval mode sizing rules apply per account — the risk-per-trade per account rule maps directly to Layer 3 risk model | Setting risk per account in multi-account setup |
+| `trading/fill-your-cup.md` | Fill-your-cup's 3-phase scaling path aligns with the 4-stage multi-account progression | Moving from single to multiple accounts |
+| `trading/paper-vs-live-gap.md` | Execution cost differences across platforms affect which accounts to prioritize in the daily routine | Choosing which account to trade today |
+| `systems/trade-journal-template.md` | Journal template with firm/account columns tracks combined P&L and per-account performance | Logging multi-account trades |
+| `systems/gangotri-protocol.md` | Gangotri integration protocol provides the plumbing-to-trade bridge that unifies analysis across all accounts | Unified analysis across accounts |

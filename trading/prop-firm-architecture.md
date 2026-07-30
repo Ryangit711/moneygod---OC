@@ -478,3 +478,14 @@ LAYER 4: Single Journal (tracks everything)
 - **Demo path:** `quickstart/03-demo-path.md` — 30-day demo plan
 - **MES/MNQ playbook:** `trading/mes-mnq-playbook.md` — futures execution strategies
 - **Fill your cup:** `trading/fill-your-cup.md` — from first payout to freedom
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/prop-firm-playbook.md` | Playbook condenses this architecture into a comparison table with prices and promo codes — the actionable sibling | Comparing firms before purchase |
+| `trading/eval-mode-protocol.md` | Eval protocol defines the risk rules for each firm type — architecture tells you which platforms they use, eval tells you how to trade them | Setting eval rules on a chosen firm |
+| `trading/multi-account-gateway.md` | Multi-account gateway operationalizes the scaling architecture (Phase 1-4) into daily execution | Setting up multiple accounts across firms |
+| `trading/paper-vs-live-gap.md` | B-Book/A-Book explanation in paper-vs-live-gap details the execution quality reality behind each firm type | Evaluating firm execution quality |
+| `quickstart/01-broker-canada.md` | Canada-specific broker setup (IBKR, OANDA) for the self-directed phase — bridges prop firm path to real capital | Opening personal brokerage account |
+| `quickstart/02-platform-setup.md` | Platform setup guide for MT5 and TradingView — the hands-on setup that makes the architecture usable | Installing and configuring trading platforms |

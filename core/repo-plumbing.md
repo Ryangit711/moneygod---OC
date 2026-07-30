@@ -186,3 +186,12 @@ From conks.plumbing:
 - [core/liquidity-equation.md] — TGA, RRP, Fed BS
 - [core/tri-region-flow-map.md] — Dollar flows globally
 - [05-how-money-flows-in-the-system.md] 🔒 — 3-pool model
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | RRP is a direct term in the Net Liq formula; repo stress signals override the verdict | Checking RRP level or computing Net Liq |
+| `core/plumbing-esoterica.md` | FRA-OIS, CCP margin, and IOER corridor extend repo mechanics into deeper plumbing signals | Studying plumbing stress beyond basic SOFR |
+| `systems/live-data-workflow.md` | SOFR vs IORB check is a health check in the 15-min morning workflow | Running the daily plumbing check |
+| `systems/plumbing-to-trade-bridge.md` | Decision Tree 1 uses SOFR > IORB to decide FLAT vs PROCEED | Determining whether repo stress kills the session |

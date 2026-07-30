@@ -250,3 +250,15 @@ Say `TRADE MODE` → system loads the trading day schedule → live data workflo
 - **Commandments:** `trading/trading-commandments.md` — read before every session
 - **Curriculum:** `CURRICULUM.md` — full study path this schedule feeds into
 - **Growth protocol:** `GROWTH_PROTOCOL.md` — how the system grows with every session
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/live-data-workflow.md` | Live data workflow powers Block A pre-session prep every trading day | Starting the 15-min pre-session data check |
+| `systems/daily-pre-session.md` | Detailed chart prep ritual that fills in the 5-min chart block in this schedule | Marking ORB, VWAP, and key levels before open |
+| `systems/plumbing-to-trade-bridge.md` | Decision trees invoked when plumbing says "flat" mid-session | Session stalls or plumbing verdict turns defensive |
+| `systems/trade-journal-template.md` | Journal template structures the 15-min post-session review block | Logging each trade and writing the session summary |
+| `systems/weekly-flow-checklist.md` | Sunday study rotation loads this checklist to set Monday bias | Sunday plumbing prep or missed-session recovery |
+| `mental-models/10-level-mastery-path.md` | The 18-month path dictates which study block matches your current level | Choosing the weekly study focus during the study day |
+| `CURRICULUM.md` | Broader curriculum sequences what this schedule's study blocks cover over months | Planning multi-week study arcs |

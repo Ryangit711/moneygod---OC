@@ -310,3 +310,15 @@ On Mondays, extend the workflow by checking:
 - **HUD (cockpit view):** `plumbing-hierarchy-master.md → Part 6` — full signal hierarchy
 - **15 edges:** `plumbing-hierarchy-master.md → Part 5` — edge library
 - **Ritual (pre/post session):** `plumbing-hierarchy-master.md → Part 7` — full session rhythm
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | The formula computed in Min 4-6 to derive the liquidity verdict | Computing Net Liq from raw Fed BS, TGA, RRP numbers |
+| `core/repo-plumbing.md` | SOFR vs IORB health check is sourced from repo plumbing definitions | Running the SOFR spread check in Min 4-6 |
+| `core/plumbing-esoterica.md` | Esoteric checks (XCCY basis, FRA-OIS) extend the workflow's health checks | Adding deeper plumbing signals when the verdict is ambiguous |
+| `systems/plumbing-to-trade-bridge.md` | Decision trees consume this workflow's VERDICT as their primary input | Moving from the workflow verdict to a trade/no-trade decision |
+| `systems/gangotri-protocol.md` | Gangotri Lens 1 (plumbing) uses the workflow verdict directly | Feeding the workflow output into the 3-question gate |
+| `systems/position-sizing-by-flow.md` | Trade Mode from this workflow determines the sizing regime used | Sizing the session's trades based on FULL/NORMAL/REDUCED/FLAT |
+| `plumbing-hierarchy-master.md` | Part 5 edge library and Part 6 HUD supply the active-edges classification | Classifying active edges in Min 10-12 |

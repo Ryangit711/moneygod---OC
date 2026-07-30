@@ -376,3 +376,13 @@ You don't master the system. You live inside it.
 *"A coral reef is not a collection of organisms. It's the space between them, filled with relationship."*
 
 *git add -A && git commit -m "symbiotic — the living reef map — 2026-07-14 17:30" && git push*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `FREEFALL_360.md` | The complete nerve map — what this file calls the reef, FREEFALL_360 maps as the living organism | When needing the visual pulse of how every organism connects |
+| `ASSIMILATION_PROTOCOL.md` | This protocol is the active mechanism that grows the reef; SYMBIOTIC_MAP describes the static relationships | When deciding where to home new information based on the reef structure |
+| `GROWTH_PROTOCOL.md` | The evolution layer — how the reef grows through study and Feynman breakdowns | When planning a study session that will add new coral to the reef |
+| `MAP.md` | The structured index that catalogs every organism in the reef | When needing the file tree equivalent of the symbiotic relationships |
+| `plumbing-hierarchy-master.md` | Part 5 (15 edges) provides the deep structure that multiple symbioses depend on | When expanding understanding of a specific symbiotic relationship |

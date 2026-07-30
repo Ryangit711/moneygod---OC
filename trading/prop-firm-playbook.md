@@ -138,3 +138,14 @@ MONTH 5+: Scale with Apex ($19.90) once proven
 - **Fill your cup:** `trading/fill-your-cup.md` — from first payout to freedom
 - **Broker setup (Canada):** `quickstart/01-broker-canada.md` — IBKR, OANDA
 - **Demo path:** `quickstart/03-demo-path.md` — 30-day demo plan
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/prop-firm-architecture.md` | Architecture file provides the full categorization (FX-only, futures-only, multi-asset) that this playbook condenses into a shortlist | Getting the full picture of a firm |
+| `trading/eval-mode-protocol.md` | Eval mode protocol supplies the per-firm trading rules and sizing — playbook gives the specs, eval gives the method | Passing the specific firm's eval |
+| `trading/multi-account-gateway.md` | Multi-account gateway shows how to combine firms from this shortlist into a diversified portfolio | Combining multiple firms |
+| `trading/mes-mnq-playbook.md` | MES/MNQ playbook provides the instrument-specific execution for futures firms listed here | Trading MES/MNQ on a futures firm |
+| `quickstart/03-demo-path.md` | Demo path builds the prerequisite discipline before purchasing any eval from firms listed here | Preparing for first eval purchase |
+| `trading/paper-vs-live-gap.md` | Execution cost analysis determines real profitability for each firm — commissions and slippage vary widely by firm | Factoring costs into firm selection |

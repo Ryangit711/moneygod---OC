@@ -257,3 +257,13 @@ This path is your answer. The map is here. Walk it level by level.
 - [systems/weekly-flow-checklist.md] — Level 1 macro applied
 - [systems/position-sizing-by-flow.md] — Level 7 risk applied
 - [13-weekly-flow-tapping-operating-system.md] 🔒 — The expanded OS
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `mental-models/pipe-theory.md` | Core mental model that underpins the mindset required at every mastery level | Starting a new level and needing the foundational mindset |
+| `systems/accumulation-distribution-syllabus.md` | 12-week learning OS parallels the 18-month path; levels map to syllabus weeks | Planning weekly study within the mastery framework |
+| `systems/3hr-daily-schedule.md` | Daily schedule executes the study and trading blocks that build each level | Structuring the day to progress through the mastery path |
+| `systems/trade-journal-template.md` | Level 10 iteration and review cycle is powered by journal data | Weekly or monthly review to assess level advancement |
+| `CURRICULUM.md` | Broader reading path that feeds knowledge into each level | Deciding what to study next within the current level |

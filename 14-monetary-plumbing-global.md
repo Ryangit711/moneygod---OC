@@ -189,3 +189,13 @@ For each economy below, the **structure is identical**; only scale, institutiona
 - [bank](03-money-as-debt-modern-system.md)
 
 [Complete reference list](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `03-money-as-debt-modern-system.md` | Detailed domestic credit creation mechanics that the two-layer engine depends on at the commercial bank level | When understanding how bank lending creates the broad money supply |
+| `05-how-money-flows-in-the-system.md` | The three-pool model and Minsky cycle that describe where the plumbing output ends up | When connecting reserve mechanics to real-economy outcomes |
+| `13-weekly-flow-tapping-operating-system.md` | The 7 pressure points are the weekly dashboard for the global plumbing this file describes | When converting plumbing theory into a Monday morning monitoring routine |
+| `plumbing-hierarchy-master.md` | The 12-part, 3,307-line master deep dive that expands every concept in this file | When needing the full theoretical foundation behind the two-layer engine |
+| `08-forex-trading-the-purest-flow.md` | Six FX forces (rates, energy, trade, capital, geopolitics, intervention) are driven by the plumbing this file describes | When trading currencies informed by plumbing mechanics |

@@ -123,3 +123,13 @@ This is why there **must** be constant economic growth in a [debt](01-origins-of
 - **#63** — Positive [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md), *Sovereign [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)* (ongoing)
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `01-origins-of-money-and-debt.md` | Modern bank money creation is Step 4 of the four-step evolution from social credit to digital debt | When connecting ancient debt origins to today's banking system |
+| `05-how-money-flows-in-the-system.md` | Central bank pump (QE/QT) is the primary valve; commercial bank lending is the secondary distribution channel | When tracing how newly created money enters the three pools |
+| `14-monetary-plumbing-global.md` | Two-layer engine: central bank reserves → commercial bank credit. This file explains Layer 2 in depth | When studying the universal mechanics of money creation across all economies |
+| `04-what-the-powerful-understand.md` | The powerful understand that banks create money from nothing — this is the knowledge gap that separates the 1% from the 99% | When explaining why the elite see inflation and debt differently |
+| `07-what-money-actually-is-no-bs.md` | Money as debt = receipts for energy that haven't been redeemed yet | When stripping money down to its physical essence |

@@ -127,3 +127,13 @@ Markets rise   CAD follows     Bunds yield
 - [mental-models/pipe-theory.md] — Sit in the pipe
 - [core/tri-region-flow-map.md] — Where the pipe flows
 - [11-escaping-the-rat-race.md] 🔒 — The freedom number
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `mental-models/pipe-theory.md` | Pipe theory is the flow layer that integrates with the wealth pyramid | Understanding how trading flow feeds wealth building |
+| `core/tri-region-flow-map.md` | Maps the pipe flows that map to each pyramid level's trading pipeline | Choosing which regional flows to tap at each wealth stage |
+| `systems/position-sizing-by-flow.md` | Position sizing by liquidity regime aligns with the pyramid's risk management rules | Sizing trades to preserve and grow pyramid capital |
+| `mental-models/10-level-mastery-path.md` | The 18-month path tracks progression from Stability to Legacy | Planning the timeline from paper trading to allocator |
+| `systems/3hr-daily-schedule.md` | Daily schedule executes the trader's wealth code principles | Building consistency through the daily block structure |

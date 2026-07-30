@@ -1,10 +1,10 @@
 # MONEYGOD — OC MASTER MAP
 
-## (Updated: 2026-07-23)
+## (Updated: 2026-07-29)
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (64 files · ~18,700 lines)                    ║
+║            🌊 MONEYGOD — OC  (84 files · ~22,500 lines)                    ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"               ║
 ║     RAW TRUTH: Money = concentrated human time/energy                       ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                        ║
@@ -91,6 +91,9 @@ BEGINNER ──▶ PHASE I (Foundations) ──▶ PHASE II (Plumbing) ──▶
 | 2 | `systems/weekly-flow-checklist.md` | 135 | 15-min Monday tri-region check. Data sources with URLs. Verdict format. |
 | 3 | `systems/daily-pre-session.md` | 209 | 5-min pre-session ritual. 1-min post-session review. |
 | 4 | `systems/position-sizing-by-flow.md` | 223 | Size by liquidity regime matrix. Instrument multiplier per regime. |
+| 5 | `systems/s01-mathematics.md` | ~350 | Trading math from zero: pip value, EV, Kelly, drawdown non-linearity, probability, R-multiples, Sharpe/Sortino, volatility drag. Full reference card. |
+| 6 | `systems/s02-trading-psychology.md` | ~350 | Psychology architecture: 4 dangerous states, pre-trade state check, in-trade protocols, post-trade ritual, 8 flagged negatives from 9 AI models. |
+| 7 | `systems/s03-volume-profile-and-order-flow.md` | ~300 | Market microstructure: auction theory, volume profile (POC, VAH/VAL, HVN/LVN), delta, order flow, footprint charts, ICT integration. |
 
 **Total: 811 lines · ~5 hrs setup + practice**
 
@@ -113,6 +116,19 @@ BEGINNER ──▶ PHASE I (Foundations) ──▶ PHASE II (Plumbing) ──▶
 
 ### PHASE V — TRADING (Tapping the Flow)
 *"Last phase, not first — sits on everything above"*
+
+**FOUNDATIONS (new — read before Prep)**
+
+| # | File | Lines | What It Gives You |
+|:-:|------|:----:|--------------------|
+| 0a | `00-background-edge.md` | ~250 | Personal context: clinic story, 6 unfair advantages, Danger Zone (8 flagged risks from 9 AI models). Read before anything else. |
+| 0b | `systems/s04-backtesting-and-system-development.md` | ~300 | Scientific method for trading: manual backtesting methodology, metrics that matter, curve-fitting danger, development loop. Read before any system development. |
+| 0c | `systems/s05-intraday-market-structure.md` | ~250 | Session architecture (Asia/London/NY), opening drive/lunch/closing auction, 4 day templates (trend/range/reversal/inside), regime detection. |
+| 0d | `systems/s06-top-down-analysis.md` | ~250 | Three-step TDA (weekly→daily→intraday), TDA conflict matrix (6 scenarios), "pullback in a trend" as best setup, pre-market routine. |
+| 0e | `systems/s07-order-flow-levels.md` | ~250 | 10-level hierarchy of level strength, volume profile setup on TradingView, 4 trade scenarios (POC return, HVN approach, LVN approach, delta divergence). |
+| 0f | `systems/s08-advanced-risk-and-position-sizing.md` | ~350 | 4 sizing methods (fixed fractional, Kelly with quarter/eighth rule, volatility-adjusted, drawdown-modulated), correlation sizing, scaling in/out, risk decision tree. |
+| 0g | `systems/s09-journaling-and-performance-analysis.md` | ~300 | Pre-trade/post-trade journal template, rolling performance metrics (7 core), behavioral metrics (6), weekly review process, emotional decision log. |
+| 0h | `systems/s10-execution-and-trade-management.md` | ~300 | Market vs limit orders (when each), structural stop placement, 6 trailing methods, exit management, "let it run" mentality vs early exit. |
 
 **PREP (Before First Trade)**
 
@@ -158,6 +174,8 @@ BEGINNER ──▶ PHASE I (Foundations) ──▶ PHASE II (Plumbing) ──▶
 | # | File | Lines | What It Gives You |
 |:-:|------|:----:|--------------------|
 | 1 | `10-investing-and-compounding.md` | 216 | Two games: flow (trading) vs compound (investing). Asset hierarchy. **Canadian tax shields: TFSA, RRSP, FHSA, Norbert's Gambit.** Timeline: $10K→$100K→$1M. |
+| 1b | `systems/s11-trading-business-and-tax.md` | ~300 | Canada-specific: sole prop vs corporation, CRA trader vs investor, deductions, USD accounts, prop firm taxes, practical steps. |
+| 1c | `systems/s12-capital-management-and-scaling.md` | ~270 | Three-phase model (survival→growth→independence), loan/debt protocol, withdrawal schedule, scaling pitfalls, EMI coverage math. |
 | 2 | `11-escaping-the-rat-race.md` | 228 | **Freedom number: monthly burn × 12 × 30 (4% rule).** Three phases: Stack ammo → Build pipe → Extract and live. Four killers: lifestyle creep, leverage, taxes, wife. |
 | 3 | `12-who-knows-this-level.md` | 165 | Who gets it vs who doesn't. Hudson, Graeber, Keen, Werner, Kelton, Soros, Druckenmiller, Dalio, Taleb. |
 | 4 | `references/master-reference-list.md` | 178 | 70+ books, papers, tools in 11 categories. |
@@ -324,13 +342,16 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 | **`FREEFALL_LIFE.md`** | 820 | FREEFALL — every sector of life (body, mind, money, time, craft, emotions, relationships, environment, spirit, legacy) | When you need the big picture across ALL sectors |
 | **`FREEFALL_PHILOSOPHY.md`** | 750 | FREEFALL — the system thinking about itself (7 philosophical layers, tensions, meta-layer) | When you need to understand WHY the system exists |
 | **`README.md`** | 41 | Repo overview | First-time visitors |
+| **`ASSIMILATION_PROTOCOL.md`** | 286 | Core kernel — taxonomy table (19 info types), 8-step assimilation sequence, 8 rules, lifecycle Day 1→Year 3+. | **KERNEL — governs all info flow** |
+| **`systems/s13-options-mechanics-for-futures-traders.md`** | ~350 | Options plumbing for futures traders: delta/gamma, dealer hedging, 0DTE mechanics, put/call walls, Max Pain. | Before Friday sessions |
+| **`systems/s14-algorithmic-and-semi-automated-trading.md`** | ~300 | Semi-automation frameworks, Pine Script templates, Python analysis scripts, broker APIs, R:R calculator code. | When ready to automate analysis |
 
 ---
 
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (64 files · ~18,700 lines)
+📁 moneygod-oc/ (84 files · ~22,500 lines)
 │
 ├── 📁 basics/ (6 files · ~900 lines)
 │   ├── what-is-a-pip.md ............................. ~180  │ Pre-Nursery W2
@@ -340,7 +361,8 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── how-to-place-a-trade-tradovate.md ........... ~200  │ Primary W7
 │   └── what-is-vwap-ema-volume.md .................. ~150  │ Nursery W4
 │
-├── 📄 ROOT — NUMBERED (15 files · 2,840 lines)
+├── 📄 ROOT — NUMBERED (16 files · ~3,090 lines)
+│   ├── 00-background-edge.md ....................... ~250  │ Phase V — FOUNDATIONS
 │   ├── 01-origins-of-money-and-debt.md ............. 144  │ Phase I
 │   ├── 02-the-real-meaning-of-economy.md ...........  98  │ Phase I
 │   ├── 03-money-as-debt-modern-system.md ........... 125  │ Phase I
@@ -370,7 +392,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── pipe-theory.md .............................. 145  │ Core model
 │   └── wealth-code-synthesis.md .................... 129  │ Pyramid × pipe
 │
-├── 📁 systems/ (9 files · ~1,950 lines)
+├── 📁 systems/ (23 files · ~3,400 lines)
 │   ├── daily-pre-session.md ........................ 209  │ 5-min ritual
 │   ├── position-sizing-by-flow.md .................. 223  │ Size by regime
 │   ├── weekly-flow-checklist.md ................... 135  │ 15-min check
@@ -379,7 +401,24 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │   ├── 3hr-daily-schedule.md ......................  —  │ The daily OS
 │   ├── gangotri-protocol.md .......................  —  │ Integration master: plumbing×ICT×exec
 │   ├── accumulation-distribution-syllabus.md ......  —  │ 12-week learning OS with proof gates
-│   └── week-1-readiness.md ........................  —  │ Execution bridge: paper→live gap, prop firm ref, 4-week protocol
+│   ├── week-1-readiness.md ........................  —  │ Execution bridge: paper→live gap, prop firm ref, 4-week protocol
+│   ├── s01-mathematics.md ......................... ~350  │ Trading math reference card
+│   ├── s02-trading-psychology.md .................. ~350  │ Psychology architecture
+│   ├── s03-volume-profile-and-order-flow.md ....... ~300  │ Market microstructure
+│   ├── s04-backtesting-and-system-development.md .. ~300  │ Scientific method for trading
+│   ├── s05-intraday-market-structure.md ........... ~250  │ Session architecture
+│   ├── s06-top-down-analysis.md ................... ~250  │ Three-step TDA
+│   ├── s07-order-flow-levels.md ................... ~250  │ Level hierarchy
+│   ├── s08-advanced-risk-and-position-sizing.md ... ~350  │ 4 sizing methods
+│   ├── s09-journaling-and-performance-analysis.md . ~300  │ Journal system
+│   ├── s10-execution-and-trade-management.md ...... ~300  │ Order execution
+│   ├── s11-trading-business-and-tax.md ............ ~300  │ Canada tax
+│   ├── s12-capital-management-and-scaling.md ...... ~270  │ Capital scaling
+│   ├── s13-options-mechanics-for-futures-traders.md ... ~350  │ Options plumbing
+│   ├── s14-algorithmic-and-semi-automated-trading.md .. ~300  │ Automation
+│   ├── sunday-prep-ritual.md .......................  —  │ Sunday prep
+│   ├── trade-journal-template.md ..................  —  │ Journal template
+│   └── master-syllabus.md ......................... ~450  │ 20-week curriculum
 │
 ├── 📁 trading/ (9 files · ~1,550 lines)
 │   ├── complete-strategy-orb-eurusd.md ............. 174  │ ORB + London breakout
@@ -406,6 +445,9 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 │
 ├── 📄 plumbing-hierarchy-master.md .................3307  │ DEEP DIVE — 12 parts
 │
+├── 📄 ASSIMILATION_PROTOCOL.md ..................... 286  │ Core kernel — governs all info flow
+├── 📄 SYMBIOTIC_MAP.md .............................  —  │ Symbiotic map
+├── 📄 00-background-edge.md ....................... ~250  │ Personal context
 ├── 📄 CURRICULUM.md ................................ 361  │ Front door
 ├── 📄 MAP.md ....................................... 408  │ Mindmap
 ├── 📄 MAP_360.md ................................... THIS │ 360° architecture view
@@ -439,22 +481,25 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 
 | Metric | Count |
 |--------|:-----:|
-| Total files | 64 |
-| Total lines | ~18,700 |
-| Total words (est.) | ~374,000 |
+| Total files | 84 |
+| Total lines | ~22,500 |
+| Total words (est.) | ~450,000 |
 | Phases | 6 |
 | Basics files | 6 (900 lines) |
 | Core plumbing files | 6 (1,937 lines) |
 | Mental models | 3 |
 | Trading strategies | 9 |
-| Systems & ritual (incl. bridge) | 10 |
+| Systems & ritual (incl. bridge) | 23 |
 | Quickstart guides | 4 |
 | Master reference (hierarchy) | 1 file, 12 parts, 3,307 lines |
 | Part 11 lexicon terms | 25 |
 | External references | 70+ |
-| Root files | 15 |
+| Root files | 16 |
 | Conversations | 1 (genesis) |
 | Master syllabus | 1 (20-week curriculum) |
+| Assimilation protocol | 1 file, 286 lines |
+| Synthetic / automation files | 2 (s13, s14) |
+| Foundations (Phase V) | 8 files (00 + s04–s10) |
 
 ---
 

@@ -446,3 +446,14 @@ Drop in. Follow the thread. The thread always leads to freedom.
 *"The system is a body. Nobody knows the whole thing. But you know enough to make it work for you."*
 
 *Next: `git add -A && git commit -m "freefall — 360 degree mindmap — 2026-07-14 17:15" && git push`*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `SYMBIOTIC_MAP.md` | Both describe the system as a living organism — SYMBIOTIC focuses on relationships, this file on the complete nerve map | When needing the pulse vs the anatomy of the system |
+| `MAP.md` | Structured index (what and where) — this file is the living version of the same map | When navigating between structured file tree and organic connections |
+| `MAP_360.md` | Architectural view (how it connects) — FREEFALL_360 is the biological analog | When switching from architectural understanding to living-system understanding |
+| `FREEFALL_LIFE.md` | Applies the same freefall mindmap technique to all 10 life sectors beyond just money | When extending system-thinking from trading to every area of life |
+| `FREEFALL_PHILOSOPHY.md` | The system thinking about itself — the meta-observer viewpoint layered on top of the biological map | When asking why the system exists, not just how it works |
+| `GROWTH_PROTOCOL.md` | How the system evolves itself — the heartbeat that keeps the fossil record growing | When adding new understanding to the system after a freefall insight |

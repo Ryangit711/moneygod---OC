@@ -245,3 +245,13 @@ Gold is the opposite of fiat [money](03-money-as-[debt](01-origins-of-money-and-
 - CFTC COT Reports — cftc.gov
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `08-forex-trading-the-purest-flow.md` | FX + futures matrix: oil rising + CAD strengthening vs oil rising + CAD weakening tells different stories | When trading both currencies and commodities and reading the combined signal |
+| `07-what-money-actually-is-no-bs.md` | Futures trade the actual energy that money is a receipt for — the deepest layer of the game | When grounding futures trading in the physical reality of energy |
+| `05-how-money-flows-in-the-system.md` | Money flow into/out of commodities tracks the liquidity cycle — commodities rally when central banks inject | When positioning in oil/gold/gas based on central bank liquidity |
+| `14-monetary-plumbing-global.md` | The commodity-exporter tier (Tier 4) plumbing — how oil revenue flows through the Canadian financial system | When connecting Canadian oil exports to CAD and BoC policy |
+| `10-investing-and-compounding.md` | What you do with the profits — futures trading feeds the compound engine | When allocating trading profits from commodity plays into long-term wealth |

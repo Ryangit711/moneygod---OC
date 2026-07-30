@@ -170,3 +170,13 @@
 - [09-futures-trading-energy-and-receipts.md] — WTI, gold, nat gas
 - [13-weekly-flow-tapping-operating-system.md] — Weekly OS
 - [14-monetary-plumbing-global.md] — Global plumbing (SWIFT, Eurodollar)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/global-flow-map.md` | Expanded 18-region map supersedes this 3-region version | Full global context is needed beyond US/CA/EU |
+| `core/liquidity-equation.md` | Net Liq formula drives the dollar flows mapped across the three regions | Computing whether dollar liquidity is injecting or draining |
+| `core/money-creation-mechanism.md` | Explains how each region's central bank creates the money that flows through these pipes | Tracing the source of a regional liquidity change |
+| `mental-models/wealth-code-synthesis.md` | Maps the wealth pyramid onto the tri-region pipe system | Connecting personal wealth stages to regional flow opportunities |
+| `systems/position-sizing-by-flow.md` | Regional liquidity regimes determine position size in the position-sizing matrix | Setting size based on which region is injecting or draining |

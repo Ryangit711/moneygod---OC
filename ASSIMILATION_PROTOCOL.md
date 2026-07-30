@@ -284,3 +284,13 @@ Year 3+: The brain is denser than any human could memorize. It is queried, not r
 *"A body doesn't think about where to send nutrients. The circulatory system knows. This protocol is the circulatory system. Information enters; it knows where to go."*
 
 *git add -A && git commit -m "kernel — ASSIMILATION PROTOCOL — the operating system for all incoming information — 2026-07-29" && git push*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `GROWTH_PROTOCOL.md` | Sibling kernel — GROWTH governs study sessions, ASSIMILATION governs all other inbound information | When deciding which protocol to use for incoming information |
+| `SYMBIOTIC_MAP.md` | This protocol is the ACTIVE mechanism that grows the reef; SYMBIOTIC_MAP describes the relationships | When needing to understand how new information integrates into the existing ecosystem |
+| `CURRICULUM.md` | Determines the current phase, which influences fire-when conditions for synaptic connections | When routing new information to the correct curriculum phase |
+| `plumbing-hierarchy-master.md` | Part 11 lexicon becomes registry entries — the lexicon and registry are the same thing viewed differently | When creating or updating concept registry entries |
+| `MAP.md` | Stats and file counts updated when assimilation creates new files | When adding new files to the repository structure |

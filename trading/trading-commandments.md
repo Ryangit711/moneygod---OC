@@ -68,3 +68,14 @@
 ## PRINT THIS
 
 Print or screenshot the 10 commandments. Keep it next to your screen. Read it before EVERY session. No exceptions.
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/complete-strategy-orb-eurusd.md` | ORB strategy's daily risk limits (1% per trade, 3 trades max) directly implement Commandments 1, 2, and 5 | During pre-session prep for ORB |
+| `trading/eval-mode-protocol.md` | Eval mode's 0.25% risk and 2-consecutive-loss stop are stricter versions of Commandments 1 and 5 | Trading during prop eval challenge |
+| `trading/mes-mnq-playbook.md` | Golden rules of MES/MNQ playbook (one instrument per session, no trade before 7AM) echo Commandments 3 and 6 | Executing futures trades |
+| `trading/paper-vs-live-gap.md` | Commandment 8 (screenshot every trade) and 7 (know the news) are the specific habits that bridge demo complacency to live discipline | Building journaling habit |
+| `MAP.md` | MAP.md's Three Laws mirror the commandments — protect the account (Law 1), sit in the pipe (Law 2), freedom is the goal (Law 3) | Understanding why the commandments exist |
+| `systems/daily-pre-session.md` | Pre-session ritual is where Commandments 2, 4, and 7 are executed — bias, level, trigger, stop, target | Starting the daily routine |

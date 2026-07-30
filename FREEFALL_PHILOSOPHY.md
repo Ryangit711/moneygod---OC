@@ -633,3 +633,13 @@ And understanding is the only freedom there is.
 *"The map is not the territory. The territory is not the map. But the map-maker IS the territory. And every map they make changes the territory. This is the recursion. This is the system. This is you."*
 
 *git add -A && git commit -m "FREEFALL_PHILOSOPHY — the system thinking about itself — 2026-07-21" && git push*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `FREEFALL_360.md` | The biological map of the money system — this file is the meta-observer layer thinking about that biology | When shifting from how the system works to why it exists |
+| `FREEFALL_LIFE.md` | The 10-sector life map — philosophy asks what it MEANS to live across all those sectors | When extending philosophical inquiry beyond money to all of life |
+| `SYMBIOTIC_MAP.md` | The reef of relationships between files — philosophy observes the reef observing itself | When contemplating the meta-recursive nature of knowledge systems |
+| `12-who-knows-this-level.md` | Lists who truly understands vs who doesn't — philosophy provides the framework for this discernment | When evaluating whether a source truly grasps the nature of the system |
+| `04-what-the-powerful-understand.md` | The fiction of money and how belief creates structure — philosophy lays bare the ontological truth | When needing to distinguish between the map and the territory |

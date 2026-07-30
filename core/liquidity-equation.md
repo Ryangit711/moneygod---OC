@@ -120,3 +120,13 @@ The trader is not creating value. The trader is reading the pipes and placing th
 - [13-weekly-flow-tapping-operating-system.md] — The OS this powers
 - [14-monetary-plumbing-global.md] — Reserves, Eurodollar, global flows
 - [tri-region-flow-map.md] — How the regions connect
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/repo-plumbing.md` | RRP and SOFR are direct inputs to the liquidity equation's TGA and RRP terms | Checking why RRP is draining or spiking |
+| `core/money-creation-mechanism.md` | Explains how Fed reserves and bank lending create the liquidity that the equation measures | Tracing the source of a liquidity injection or drain |
+| `systems/live-data-workflow.md` | Operational 15-min workflow that computes the equation every morning | Before every trading session |
+| `systems/plumbing-to-trade-bridge.md` | Translates the equation's verdict into trade/no-trade decisions | After computing Net Liq, to decide action |
+| `core/plumbing-esoterica.md` | Deeper signals (XCCY, FRA-OIS) that confirm or override the equation's read | When Net Liq verdict is ambiguous |

@@ -237,3 +237,15 @@ Cross-ref: systems/week-1-readiness.md (demo setup, Vancouver killzones, risk ca
 Cross-ref: systems/sunday-prep-ritual.md (weekly chart context — every Sunday)
 Cross-ref: trading/eval-mode-protocol.md (Week 12 gate)
 Cross-ref: CURRICULUM.md (broader reading order — the syllabus is the active path)*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/live-data-workflow.md` | The distribution phase runs the live-data workflow each trading day for the plumbing verdict | Starting any session's distribution phase |
+| `systems/gangotri-protocol.md` | Integration master checked against the current week's concept during every distribution session | Filtering active edges by the week's concept |
+| `systems/sunday-prep-ritual.md` | Sunday prep ritual structures the weekly accumulation phase and bias framing | Beginning the Sunday prep block |
+| `systems/trade-journal-template.md` | Each trade is tagged with the current week's concept name using this template | Logging trades and the Friday review |
+| `systems/week-1-readiness.md` | Per-session risk caps and demo setup are hard rules carried across all 12 weeks | Confirming risk limits before every session |
+| `mental-models/10-level-mastery-path.md` | The 18-month path contextualizes the 12-week syllabus as the active execution sub-path | Mapping syllabus progress onto the mastery levels |
+| `plumbing-hierarchy-master.md` | Each week's concept cross-references a specific Part of the hierarchy-master knowledge base | Looking up the plumbing cross-ref for the week's ICT concept |

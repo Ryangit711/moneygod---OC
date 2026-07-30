@@ -118,3 +118,12 @@ This is the "shadow plumbing" most traders never see.
 - [14-monetary-plumbing-global.md] — Two-layer engine deep dive
 - [liquidity-equation.md] — Net liquidity = ΔBS − ΔTGA − ΔRRP
 - [tri-region-flow-map.md] — How the three regions connect
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | Money creation feeds the Fed balance sheet term in the Net Liq formula | Computing Net Liq to trace where new reserves came from |
+| `core/plumbing-esoterica.md` | Eurodollar system reveals a parallel money-creation layer outside the Fed's reach | Studying offshore dollar credit or plumbing stress |
+| `core/tri-region-flow-map.md` | Maps how created money flows between US, Canada, and Europe | Tracing money from creation through transmission |
+| `systems/accumulation-distribution-syllabus.md` | Week 0 foundation source read references money creation mechanics | Starting the 12-week syllabus or re-reading fundamentals |

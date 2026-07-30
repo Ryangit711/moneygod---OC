@@ -237,3 +237,14 @@ When the monthly income from your wealth bucket (index funds, real estate, alter
 - **The level:** `12-who-knows-this-level.md` — who else has done this
 - **Pipe theory:** `mental-models/pipe-theory.md` — why this works
 - **Wealth code:** `mental-models/wealth-code-synthesis.md` — the pyramid + pipe synthesis
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/eval-mode-protocol.md` | Eval protocol defines how to pass challenges — the gateway to earning the first payout that fuels Phase 1 | Starting first eval challenge |
+| `trading/multi-account-gateway.md` | Multi-account gateway shows how to scale from 1 to 5+ funded accounts — the engine behind Phase 2 compounding | Scaling beyond first payout |
+| `10-investing-and-compounding.md` | Deep-dive on compounding mechanics — explains the exponential curve that makes Phase 3 work | Building the wealth bucket |
+| `11-escaping-the-rat-race.md` | Defines what freedom actually means — aligns with the Phase 3 end state of time sovereignty | Setting the freedom number |
+| `mental-models/pipe-theory.md` | Pipe theory explains why sitting at the liquidity valve creates exponential returns — the theoretical foundation | Understanding why compounding works |
+| `CURRICULUM.md` | Curriculum Phase 6 (prop firm path) directly feeds into the scaling milestones of Phase 1 and 2 | Planning the 12-month roadmap |

@@ -394,3 +394,14 @@ Live execution — whether prop firm eval or real capital — introduces:
 - **Trading commandments:** `trading/trading-commandments.md` — 10 rules, read before every session
 - **MES/MNQ playbook:** `trading/mes-mnq-playbook.md` — instrument-specific execution
 - **Gangotri protocol:** `systems/gangotri-protocol.md` — plumbing × structure × execution integration
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/eval-mode-protocol.md` | Eval protocol's 0.25% risk rule must account for the execution costs detailed here — slippage and commissions reduce real R:R | Recalculating R:R for eval trades |
+| `trading/prop-firm-architecture.md` | B-Book vs A-Book architecture explains WHY execution quality varies across firms — grounds the execution gap in firm business model | Choosing a firm based on execution quality |
+| `trading/multi-account-gateway.md` | Multi-account gateway's per-account risk model must factor in different slippage profiles across FX and futures platforms | Managing risk across different platforms |
+| `basics/order-types.md` | Order types reference explains market vs limit orders — the execution gap directly affects which order type to use when | Choosing market vs limit order entry |
+| `basics/what-is-a-pip.md` | Pip/spread definitions are foundational to understanding the cost math and spread widening at rollover | Understanding the cost-per-trade formula |
+| `quickstart/03-demo-path.md` | The 4-week bridge protocol (Week 1-4) is the practical transition from demo to eval — this file provides the cost math | Transitioning from demo to first eval |

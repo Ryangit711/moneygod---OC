@@ -142,3 +142,13 @@ The real question: **who gets to create the obligations, and who is forced to fu
 - **#59** — Federal Reserve [Bank](03-money-as-debt-modern-system.md) of Chicago, *Modern [Money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md) Mechanics* (1961)
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `03-money-as-debt-modern-system.md` | Money today is still debt — bank loans create 90%+ of the money supply, extending the ancient pattern | When you need to connect ancient debt origins to modern central banking |
+| `02-the-real-meaning-of-economy.md` | Oikonomia (household management) is the original purpose that money and debt were supposed to serve | When questioning whether the modern system serves the household or the creditors |
+| `04-what-the-powerful-understand.md` | Debt as architecture of power — from Sumer to IMF, debt has been used to control populations | When studying how debt is weaponized by elites across history |
+| `07-what-money-actually-is-no-bs.md` | Money as concentrated human time and energy — the bare-essence definition that strips away all abstraction | When you need to remind yourself what a dollar actually represents |
+| `12-who-knows-this-level.md` | Lists who understands debt origins (Graeber, Hudson) vs who doesn't (mainstream economics) | When identifying which thinkers actually understand the system |

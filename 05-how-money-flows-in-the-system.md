@@ -180,3 +180,13 @@ Everything else — sectors, stocks, crypto, gold — is secondary to this prima
 - **#70** — Trading Economics — tradingeconomics.com
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `03-money-as-debt-modern-system.md` | Money creation mechanics: banks create deposits when lending — this is the source of the flow this file tracks | When understanding where the money in the three pools originally comes from |
+| `14-monetary-plumbing-global.md` | Two-layer engine of reserves and credit — the country-agnostic plumbing behind every central bank action | When studying how a Fed QE operation mechanically creates reserves |
+| `06-day-trading-tap-the-flow.md` | Day trading within the flow: align with Fed policy direction, don't fight the pump | When setting intraday bias based on macro regime |
+| `13-weekly-flow-tapping-operating-system.md` | Weekly checklist monitors the 7 pressure points that this file's flow map describes | When converting plumbing theory into a Monday morning routine |
+| `08-forex-trading-the-purest-flow.md` | Interest rate differentials are the gravity of FX — central bank policy drives currency flows | When trading currencies based on relative central bank policy |

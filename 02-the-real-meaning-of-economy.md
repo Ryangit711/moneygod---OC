@@ -96,3 +96,13 @@ We forgot that. Or more precisely — the people who redesigned the word and the
 - **#17** — Robert Heilbroner, *The Worldly Philosophers* (1953)
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `01-origins-of-money-and-debt.md` | Oikonomia describes the original purpose of community credit — managing the household before money abstracted it | When tracing how social debt became financialized |
+| `04-what-the-powerful-understand.md` | The powerful understand oikonomia was replaced by chrematistike — and that the system serves the stewards, not the household | When analyzing who benefits from the current economic design |
+| `05-how-money-flows-in-the-system.md` | Minsky's Hedge → Speculative → Ponzi progression is the transition from oikonomia to pathological chrematistike | When diagnosing which phase of the credit cycle we're in |
+| `11-escaping-the-rat-race.md` | Escaping = becoming your own steward, managing your own oikos instead of being managed by others | When designing your personal freedom plan |
+| `12-who-knows-this-level.md` | Lists Aristotle alongside those who grasp the oikonomia/chrematistike distinction | When identifying who truly understands what economy means |

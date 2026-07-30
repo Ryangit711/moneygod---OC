@@ -143,3 +143,13 @@ The pipe doesn't need you. You need the pipe.
 - [13-weekly-flow-tapping-operating-system.md] — The weekly OS to read the pipe
 - [liquidity-equation.md] — The formula for reading the pipe
 - [tri-region-flow-map.md] — The pipe system across 3 regions
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | The formula that quantifies whether the pipe is injecting or draining | Computing Net Liq to confirm pipe direction |
+| `core/global-flow-map.md` | Maps the full 18-region pipe system that pipe theory describes | Understanding the global scale of the pipe network |
+| `mental-models/wealth-code-synthesis.md` | Merges pipe theory with the wealth pyramid for a unified framework | Integrating trading flow with personal wealth building |
+| `systems/plumbing-to-trade-bridge.md` | Operationalizes "sit in the pipe" through decision trees that keep you in the flow | Deciding whether a specific trade aligns with the pipe |
+| `systems/daily-pre-session.md` | Daily pipe check ritual built from the five questions in this file | Before every session to confirm you're in the pipe |

@@ -120,3 +120,13 @@ These are the questions that people like Soros understand are the **real** quest
 - **#57** — Liaquat Ahamed, *Lords of Finance* (2009)
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `01-origins-of-money-and-debt.md` | Debt as power tool — from Sumerian debt peonage to IMF structural adjustment, debt has always been architecture of control | When tracing the historical pattern of debt as coercion |
+| `03-money-as-debt-modern-system.md` | The powerful understand banks create money from nothing, inflation is a hidden tax, and debt is the source of money itself | When contrasting surface beliefs with operational reality |
+| `05-how-money-flows-in-the-system.md` | The rules of the financial system are political choices — who writes them determines who the money flows to | When analyzing why QE inflates assets but not wages |
+| `08-forex-trading-the-purest-flow.md` | Soros reflexivity in action — currencies move on belief as much as fundamentals; the map is not the territory | When trading FX with a macro edge |
+| `12-who-knows-this-level.md` | Expands the list of who gets it (Soros, Druckenmiller, Hudson) vs who doesn't (retail, mainstream media) | When identifying true signal from noise in market commentary |

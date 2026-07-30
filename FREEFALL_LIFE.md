@@ -818,3 +818,13 @@ WEEKLY (Sunday)
 *"The system is a body. Nobody knows the whole thing. But you know enough to make it work for you. Start with sleep. End with legacy. Fill everything in between with deliberate, compounding action."*
 
 *git add -A && git commit -m "FREEFALL_LIFE — free fall mindmap of every sector of life — 2026-07-21" && git push*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `FREEFALL_360.md` | Money system as a living organism — this file extends the same lens to all 10 life sectors | When needing the full picture of how money fits into a complete human life |
+| `FREEFALL_PHILOSOPHY.md` | The meta-observer — this file maps the sectors, philosophy asks what it all means | When questioning the purpose behind the life sector framework |
+| `11-escaping-the-rat-race.md` | The Money sector in this file maps directly to the escape plan — the freedom number is the target | When aligning life sector goals with financial independence targets |
+| `07-what-money-actually-is-no-bs.md` | Money as concentrated human time and energy — the Money sector's foundational truth | When grounding financial decisions in the physical reality of energy exchange |
+| `02-the-real-meaning-of-economy.md` | Oikonomia = household management — this file is the modern, multi-sector version of managing the household | When realizing that economy was never just about money, but about running a life well |

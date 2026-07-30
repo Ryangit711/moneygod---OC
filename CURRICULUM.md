@@ -383,3 +383,14 @@ All roads lead to the curriculum. Every file in this repo exists to serve a spec
 ---
 
 *Start at Day 1. Do the reading. Write in the journal. Do not skip. Do not rush. The trading will come.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `ASSIMILATION_PROTOCOL.md` | The kernel that governs how all new information homes into the files this curriculum points to | When adding new content discovered during curriculum study |
+| `13-weekly-flow-tapping-operating-system.md` | Phase 2 (Systems & Ritual) introduces the weekly OS — the bridge between learning and doing | When transitioning from study phase to execution phase |
+| `01-origins-of-money-and-debt.md` | Phase 0 Week 1 — the first file in the curriculum, the foundation of money understanding | When starting the curriculum from Day 1 |
+| `14-monetary-plumbing-global.md` | Phase 1 Week 3 — the plumbing layer that reveals how money actually moves | When progressing to understanding the machine behind markets |
+| `06-day-trading-tap-the-flow.md` | Phase 4 — chart foundations and market microstructure before touching real trades | When learning to read price action and order flow on demo |
+| `10-investing-and-compounding.md` | Phase 6+ — after funding, the compound game turns trading income into lasting freedom | When planning what to do with prop firm payouts |

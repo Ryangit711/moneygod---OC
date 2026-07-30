@@ -107,3 +107,13 @@ Before walking away:
 ---
 
 *This file itself grows. If you find a better way to grow, add it here. Never replace.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `ASSIMILATION_PROTOCOL.md` | Sibling kernel — GROWTH governs study sessions, ASSIMILATION governs all other inbound information | When determining which protocol to run for new incoming content |
+| `SYMBIOTIC_MAP.md` | The reef that this protocol grows — every study session adds coral to the living ecosystem | When understanding how study sessions feed the larger system architecture |
+| `plumbing-hierarchy-master.md` | Part 11 lexicon is the primary growth target — new Feynman terms are added after every study session | When completing a study session and adding new lexicon entries |
+| `CURRICULUM.md` | The structured path that determines what to study in each session | When planning which file to read and break down next |
+| `MAP.md` | Cross-reference table updated when new terms are added to Part 11 | When updating the master index after a growth session |

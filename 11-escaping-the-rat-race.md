@@ -226,3 +226,14 @@ Your family wonders why you're "obsessed with [money](03-money-as-[debt](01-orig
 - **#50** — Nassim Nicholas Taleb, *Antifragile* (2012) — build what gains from disorder
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `02-the-real-meaning-of-economy.md` | Escaping the rat race = becoming your own steward, managing your own oikos | When grounding your freedom plan in the original meaning of economy |
+| `10-investing-and-compounding.md` | The compound engine is the vehicle that gets you to the freedom number | When building the wealth machine that funds your escape |
+| `06-day-trading-tap-the-flow.md` | Phase 1 (survival) relies on trading income from day trading to feed the compound account | When designing the income-generation side of the escape plan |
+| `04-what-the-powerful-understand.md` | The rat race is a designed system — understanding the design is the first step to escaping it | When analyzing how the system keeps most people trapped in wage labor |
+| `12-who-knows-this-level.md` | The freedom layer — who actually escapes vs who stays trapped in their own limiting beliefs | When checking whether your mindset is aligned with escape or with safety |
+| `07-what-money-actually-is-no-bs.md` | Money is time/energy — every dollar spent on lifestyle inflation is energy you don't get back | When making spending decisions during the accumulation phase |

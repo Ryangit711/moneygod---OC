@@ -172,3 +172,14 @@ What will I improve tomorrow?:
 - [quickstart/pip-calculator.md] — Sizing your trades
 - [systems/daily-pre-session.md] — Full pre-session routine
 - Your vault: PROP - Funded accounts - 2025 Dec.md (full original strategy)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/mes-mnq-playbook.md` | MES/MNQ playbook mirrors ORB breakout logic for micro futures — same 15-min range, tick-confirmed entry | Applying ORB concept to futures |
+| `trading/trading-commandments.md` | Commandment 2 (A+ setups only) and 4 (plan the trade) enforce the pre-session checklist ritual | Before every session |
+| `quickstart/pip-calculator.md` | Pip-value reference needed to size trades for ORB 20-pip targets on USD/CAD and EUR/USD | Sizing a trade before entry |
+| `quickstart/03-demo-path.md` | 30-day demo plan builds the muscle memory for executing ORB and London breakout consistently | Practicing ORB on demo |
+| `systems/daily-pre-session.md` | Full 5-min pre-session ritual that feeds bias, level, and structure into the ORB setup | Pre-session prep |
+| `systems/plumbing-to-trade-bridge.md` | Plumbing data determines regime — tells you whether to trade ORB, stand aside, or reduce size | Checking market regime

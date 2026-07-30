@@ -155,3 +155,13 @@ If [money](03-money-as-[debt](01-origins-of-money-and-debt.md)-modern-system.md)
 - **#54** — Nassim Nicholas Taleb, *Fooled by Randomness* (2001) — separating skill from luck in extraction
 
 Full list: [references/master-reference-list.md](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `01-origins-of-money-and-debt.md` | Money as a social construct — not natural, not neutral, engineered by power | When grounding yourself in the fundamental nature of money before trading |
+| `08-forex-trading-the-purest-flow.md` | Currencies = receipts for nations' energy output — the purest expression of money as stored energy | When trading forex and needing to remember what you're really betting on |
+| `09-futures-trading-energy-and-receipts.md` | Futures = betting on the price of energy itself (oil, gas, gold) — the raw inputs that money is a receipt FOR | When trading commodities and connecting price action to physical reality |
+| `04-what-the-powerful-understand.md` | The 1% position where money MUST flow — they don't create value, they sit in the pipe | When analyzing why certain people/companies consistently capture wealth |
+| `05-how-money-flows-in-the-system.md` | Money flows through engineered pipes — understanding the plumbing is the difference between being water and being the plumber | When studying how central bank actions translate to market movement |

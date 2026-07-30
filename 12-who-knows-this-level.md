@@ -163,3 +163,13 @@ It's: **"Will you join them—or keep pretending the emperor wears clothes?"**
 - [bank](03-money-as-debt-modern-system.md)
 
 [Complete reference list](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `04-what-the-powerful-understand.md` | Lists the knowledge gap (5 beliefs vs 5 truths) that separates those who get it from those who don't | When identifying who truly understands the system vs who parrots textbook myths |
+| `01-origins-of-money-and-debt.md` | Historical debt patterns (Graeber, Hudson) that only a minority of thinkers understand | When tracing who understands debt as power tool vs neutral transaction |
+| `02-the-real-meaning-of-economy.md` | Aristotle's oikonomia distinction — the few who grasp household management vs the many who confuse economy with chrematistike | When evaluating whether someone is asking the right question (who manages the household?) |
+| `05-how-money-flows-in-the-system.md` | Minsky and Dalio understand the cycle — most economists don't — this is the trader's edge | When deciding which macro thinkers to follow |
+| `14-monetary-plumbing-global.md` | Section VI lists who actually understands the plumbing (Tucker, Werner, Pozsar) vs who doesn't (textbooks, journalists) | When assessing sources of plumbing knowledge |
