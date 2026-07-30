@@ -337,6 +337,12 @@ Use this registry when:
 - **Neuron:** Arithmetic = average return; geometric = compounded return. Geometric is always ≤ arithmetic when volatility > 0.
 - **Synapse:** The gap is the volatility drag (σ²/2). Doubling risk doesn't double returns — it squares drawdowns and extends the recovery timeline.
 
+### Gatherer vs Converger
+- **Primary:** `00-background-edge.md`
+- **Secondary:** `systems/s02-trading-psychology.md`, `conversations/2026-07-29_arena-analysis-catalyst.md`
+- **Neuron:** The distinction between gathering knowledge broadly (which feels like progress but doesn't compound) and converging on one catalyst pathologically (which feels risky but is the only path to leverage). Most intelligent people stay in gather mode forever.
+- **Synapse:** At every phase, ask: "Am I gathering or converging?" The feeling of needing "just one more book/file/course before I start" is the gatherer protecting itself from the risk of failure.
+
 ### Higher Timeframe Dominance
 - **Primary:** `systems/s06-top-down-analysis.md`
 - **Secondary:** `systems/s05-intraday-market-structure.md`
@@ -402,6 +408,12 @@ Use this registry when:
 - **Secondary:** `systems/s08-advanced-risk-and-position-sizing.md`
 - **Neuron:** The multiplier between your cash and your position size — 1:100 leverage means $1,000 controls $100,000. Multiplies both wins AND losses equally.
 - **Synapse:** Leverage is not edge. 1:100 leverage on a $1k account with a 100-pip move = 100% gain or 100% loss. Use leverage to size appropriately, not to amplify returns.
+
+### Leverage Types (Labor / Capital / Code / Media)
+- **Primary:** `00-background-edge.md`
+- **Secondary:** `systems/s12-capital-management-and-scaling.md`, `conversations/2026-07-29_arena-analysis-catalyst.md`
+- **Neuron:** The four forms of leverage that multiply output without multiplying hours: labor (people working for you), capital (money working for you), code (software working for you), media (content working for you). Smart people sell time; rich people build machines.
+- **Synapse:** Most intelligent people default to selling time (consulting, job, trading with their hands). The shift to wealth is building one of the four leverages. The prop firm + algo trading path targets capital + code leverage.
 
 ### Limit Order
 - **Primary:** `systems/s10-execution-and-trade-management.md`
@@ -876,3 +888,201 @@ Use this registry when:
 - **Secondary:** `systems/s02-trading-psychology.md`, `systems/s04-backtesting-and-system-development.md`
 - **Neuron:** A 15-minute Sunday ritual: aggregate the week's trades, analyze losses for pattern vs. randomness, extract 1-2 focus items for next week.
 - **Synapse:** The weekly review is the feedback loop that turns journal data into behavioral change. Without it, the journal is just record-keeping.
+
+### 3-Strike Rule
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s08-advanced-risk-and-position-sizing.md`
+- **Neuron:** After 3 consecutive losses OR daily loss limit → close all positions, walk away 2+ hours. Prevents a bad day from becoming a blown account.
+- **Synapse:** 3 losses is still within statistical variance (6.4% with 60% WR), but the psychology of 3 losses triggers the revenge cascade. The rule stops the cascade before it starts.
+
+### 7 Cognitive Defects
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `conversations/2026-07-29_arena-analysis.md`
+- **Neuron:** Seven hardwired cognitive defects that are root causes of the Four Dangerous States: narrative addiction, temporal compression, prospect theory, agency illusion, social proof contamination, complexity bias, survival bias blindness.
+- **Synapse:** Parts 1-4 manage symptoms. Part 7 treats root causes. Treating both is required for lasting psychological change.
+
+### 14 Mental Exercises (Practice Regimen)
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s09-journaling-and-performance-analysis.md`
+- **Neuron:** Fourteen daily/weekly drills (pre-mortem, devil's advocate, EV calibration, coin flip rewire, chart autopsy, rapid pattern drill, emotional replay, 5-second rule, silence training, drawdown simulation, what-did-I-miss review, distraction audit, gratitude close, reset protocol).
+- **Synapse:** Without practice, psychology is theory. These exercises TRAIN the psychological muscles the same way backtesting trains the analytical muscles.
+
+### 80% Rule (Value Area Re-Entry)
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s07-order-flow-levels.md`, `systems/s03-volume-profile-and-order-flow.md`
+- **Neuron:** If price opens outside the prior value area and re-enters within 1-2 hours, ~80% probability of rotation to the opposite value area edge.
+- **Synapse:** This is a testable mechanical rule. Add to your playbook and backtest across 50+ sessions.
+
+### $ADD (NYSE Advance/Decline)
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s06-top-down-analysis.md`
+- **Neuron:** Number of advancing NYSE stocks minus declining stocks. Confirms breadth of market moves. If /ES is up but $ADD is negative, the rally is narrow and likely to fail.
+- **Synapse:** Use $ADD + $TICK together. $TICK shows speed of the move; $ADD shows whether it has support.
+
+### $TICK (NYSE Tick)
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s03-volume-profile-and-order-flow.md`
+- **Neuron:** Number of stocks on an uptick minus downtick. Range -2000 to +2000. >+1000 = overbought (fade). <-1000 = oversold (buy).
+- **Synapse:** $TICK is a REVERSAL indicator, not a trend indicator. Use it to time fades, not to confirm direction.
+
+### $VOLD (NYSE Volume)
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s03-volume-profile-and-order-flow.md`
+- **Neuron:** Volume-weighted breadth. Divergence between $VOLD and price = reversal signal. Confirmation between $VOLD and price = real move.
+- **Synapse:** $VOLD is the most reliable of the three internals because it weighs by volume. If price and $VOLD agree, the move is institutionally backed.
+
+### Anti-Fragile Position Architecture (Probe → Confirm → Conviction)
+- **Primary:** `systems/s08-advanced-risk-and-position-sizing.md`
+- **Secondary:** `systems/s10-execution-and-trade-management.md`
+- **Neuron:** Enter 10-20% as probe (buy information), add 30-40% on confirmation, add remaining on structure break. Lose small when wrong; full-size when right.
+- **Synapse:** Transforms position sizing from a SINGLE BET to a PROCESS. The probe IS the cost of learning. If you can't afford the probe, the trade is too big.
+
+### Anti-Strategy Strategy
+- **Primary:** `systems/s04-backtesting-and-system-development.md`
+- **Secondary:** `systems/s10-execution-and-trade-management.md`
+- **Neuron:** Identify the "obvious" trade everyone sees. Plan for its failure. If the obvious trade fails, trapped traders create a bigger move in the opposite direction.
+- **Synapse:** The failure of the obvious trade IS the best trade. This is the "contra-trade" approach. Requires identifying what the herd expects.
+
+### Biological Hedging
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `00-background-edge.md`
+- **Neuron:** Sleep (7-9h), HRV monitoring (no trade if depressed), exercise (30m before trading), blood sugar management, box breathing under stress. The body IS the trading platform.
+- **Synapse:** Performance physiology is not optional. A 5% drop in cognitive performance from poor sleep costs more in trading losses than any edge can recover.
+
+### "Buy Information" Philosophy
+- **Primary:** `systems/s08-advanced-risk-and-position-sizing.md`
+- **Secondary:** `mental-models/information-half-life.md`
+- **Neuron:** Every small initial position is a payment for information. If the probe loses, you learned "this level is not valid today." That information is worth the probe cost.
+- **Synapse:** Reframes losses as tuition. The question is not "did I lose?" — it's "what did I learn?" If the answer is nothing, you didn't pay attention.
+
+### Casino Mindset
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `mental-models/pipe-theory.md`
+- **Neuron:** "I am the house, not the gambler." The house has an edge, takes many bets, and doesn't care about any single outcome. The gambler chases, hopes, and prays.
+- **Synapse:** Every time you feel hope or prayer during a trade, you've switched from house to gambler. Close the trade. The next one is the house's bet.
+
+### Catalyst Theory / Talent Stack
+- **Primary:** `00-background-edge.md`
+- **Secondary:** `mental-models/wealth-code-synthesis.md`, `conversations/2026-07-29_arena-analysis-catalyst.md`
+- **Neuron:** The observation that rich people are not necessarily geniuses but structured masters of one asymmetric choke point — a catalyst they went pathological on for 5-15 years, built ownership around, and applied leverage to. The opposite of broad gathering.
+- **Synapse:** "Interesting" is the enemy of "leverage." Broad curiosity feels like progress but is sophisticated procrastination for intelligent people. The game is not to know more — it's to own the bottleneck.
+
+### Complexity Bias
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s04-backtesting-and-system-development.md`
+- **Neuron:** The brain mistakes complexity for sophistication. A 12-indicator system "feels" more reliable than a 2-line system. It's not. Complexity adds noise, not signal.
+- **Synapse:** Your system should fit on a 3x5 index card. If it doesn't, strip until it does.
+
+### Decision Quality Score
+- **Primary:** `systems/s09-journaling-and-performance-analysis.md`
+- **Secondary:** `systems/s02-trading-psychology.md`
+- **Neuron:** Rate every trade 1-5 on decision quality INDEPENDENTLY of outcome. A good decision can lose. A bad decision can win. The DQ score is the signal; P&L is noise.
+- **Synapse:** Track rolling 30-trade average DQ. If DQ drops below 3.5, your process is broken regardless of P&L. Fix the process first.
+
+### Entropy Model of Markets
+- **Primary:** `mental-models/pipe-theory.md`
+- **Secondary:** `systems/s05-intraday-market-structure.md`, `systems/s03-volume-profile-and-order-flow.md`
+- **Neuron:** Markets oscillate between low-entropy (compression/order) and high-entropy (expansion/disorder). The transitions between these states are where nearly all extractable profit resides.
+- **Synapse:** Humans trade price; elite traders trade entropy. Compression → anticipate expansion. Expansion with decreasing volatility → anticipate compression (range). This model unifies all regime detection.
+
+### Information Contamination
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `mental-models/information-half-life.md`, `conversations/2026-07-29_arena-analysis.md`
+- **Neuron:** Every piece of external opinion consumed before trading DEGRADES decision quality. YouTube, Discord, Twitter, Arena chats — all create anchoring bias.
+- **Synapse:** Isolation first. Do your own analysis before consuming ANY external content. Use external input as a CHECK, not a SOURCE.
+
+### Information Decay Curve (Half-Life)
+- **Primary:** `mental-models/information-half-life.md`
+- **Secondary:** `systems/s05-intraday-market-structure.md`, `systems/s02-trading-psychology.md`
+- **Neuron:** Every piece of information has a half-life: nanoseconds (order book), seconds (headlines), minutes (intraday structure), hours (daily patterns). Humans treat all information as equally current.
+- **Synapse:** Using expired information = trading on noise. Know the half-life of the information you're acting on. Don't use level-2 prints from 30 seconds ago as entry rationale.
+
+### Luck vs. Skill Column
+- **Primary:** `systems/s09-journaling-and-performance-analysis.md`
+- **Secondary:** `systems/s02-trading-psychology.md`
+- **Neuron:** For every winning trade, classify as skill (setup matched backtest rules, execution per plan) or luck (worked but didn't match rules). Track both win rates separately.
+- **Synapse:** If luck WR > skill WR over 60+ trades, you don't have an edge — you're getting lucky. The system needs revision, not celebration.
+
+### Market Internal Dashboard
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s06-top-down-analysis.md`
+- **Neuron:** $TICK, $ADD, $VOLD form the three-core internal dashboard for /ES and /NQ traders. Tells you whether the move is real before price confirms.
+- **Synapse:** Check internals before every breakout trade. A breakout without internal confirmation is a trap 60%+ of the time.
+
+### Narrative Addiction
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `conversations/2026-07-29_arena-analysis.md`
+- **Neuron:** The brain demands a story for every price move. The story is almost always wrong, but the brain prefers a wrong story over no story. Leads to trading the narrative instead of the structure.
+- **Synapse:** After every trade, answer "what was the STRUCTURAL reason?" (volume level, delta shift, structural break). If you can't, your trade was based on a story.
+
+### "Next Bus" Mindset
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s10-execution-and-trade-management.md`
+- **Neuron:** "The market is a bus that comes every 5 minutes." If you miss one setup, another will come. There is no scarcity of opportunities.
+- **Synapse:** FOMO disappears when you genuinely believe the next bus is minutes away. Scarcity is the enemy of patience.
+
+### OPEX (Option Expiry) Pinning
+- **Primary:** `systems/s13-options-mechanics-for-futures-traders.md`
+- **Secondary:** `systems/s05-intraday-market-structure.md`
+- **Neuron:** Price gravitates toward the "max pain" strike price (where most options expire worthless) before monthly OPEX. After expiry, pinned volatility releases.
+- **Synapse:** Check forexlive.com daily for large option expiries. $1B+ expiry at a strike = gravitational pull. Trade the pin AND the post-expiry breakout.
+
+### "Pay the Toll" Model
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s08-advanced-risk-and-position-sizing.md`
+- **Neuron:** Losses are not failures — they are TOLLS. Every road has a toll. The question is whether the toll is worth the destination. A toll is expected; a failure is a surprise.
+- **Synapse:** Track your "toll" (total losses) as a separate line item. As long as the toll is less than the revenue, the road is profitable. The toll is not a mistake.
+
+### Predator-Prey Market Ecosystem
+- **Primary:** `mental-models/pipe-theory.md`
+- **Secondary:** `systems/s03-volume-profile-and-order-flow.md`, `systems/s07-order-flow-levels.md`
+- **Neuron:** Markets are a food chain. Your stops ARE the predator's food supply. Where most traders place stops → you should place entries. Where most traders place entries → you should place nothing.
+- **Synapse:** This is the "anti-herd" execution model. Your entry should be where the herd's pain is (their stop-loss), not where their hope is (their entry).
+
+### Prospect Theory (Loss/Gain Asymmetry)
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s08-advanced-risk-and-position-sizing.md`
+- **Neuron:** Loss of $100 hurts ~2.25x more than gain of $100 feels good. Causes: hold losers too long, exit winners too early.
+- **Synapse:** The only fix is mechanical: set exit rules BEFORE entry. The stop and target are not suggestions — they are protection against your own hardwired asymmetry.
+
+### Second Move News Protocol
+- **Primary:** `systems/s10-execution-and-trade-management.md`
+- **Secondary:** `systems/s05-intraday-market-structure.md`
+- **Neuron:** After high-impact data, wait for the initial spike (0-30 sec) → let the reaction range form (1-15 min) → trade the break of the reaction range in the direction of the daily/weekly trend.
+- **Synapse:** The first move is noise (algo reaction). The second move is signal (institutional positioning). Ignore the first, trade the second.
+
+### Sector Rotation (Market Cycle)
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s06-top-down-analysis.md`
+- **Neuron:** Markets rotate through sectors in a predictable sequence during risk-on/risk-off cycles: Tech → Industrial/Materials → Energy → Utilities/Defensive → Gold/Treasuries.
+- **Synapse:** Rotation from tech to utilities in 3 days = cycle is late, risk-off approaching. Rotation from defensives to tech = cycle restarting, risk-on.
+
+### Social Proof Contamination
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s09-journaling-and-performance-analysis.md`
+- **Neuron:** Seeing others make money creates urgency to act. You don't know their context, but your brain treats their success as evidence you should trade too.
+- **Synapse:** Before opening any social feed, pre-write your session plan. Social feeds are post-session only. Treat as journal review material, not research.
+
+### Survival Bias Blindness
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `systems/s04-backtesting-and-system-development.md`
+- **Neuron:** You only see the traders who made it. The 95% who failed are invisible. This makes trading look easier than it is.
+- **Synapse:** Before every session, read one story of a trader who blew up. Not to scare yourself — to remember that this is the baseline outcome. Survival is not guaranteed.
+
+### Temporal Arbitrage / High-Information Moments
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `mental-models/pipe-theory.md`
+- **Neuron:** The market reveals its hand at specific moments: first test of a level, first 5 min post-data, session transitions, first pullback in a trend. These moments contain 10-100x more actionable information.
+- **Synapse:** Allocate 80% of attention to these 20% of moments. The rest of the time, do nothing. "Patience is a position" is literal — your capital is safest when you're waiting.
+
+### Temporal Compression
+- **Primary:** `systems/s02-trading-psychology.md`
+- **Secondary:** `conversations/2026-07-29_arena-analysis.md`
+- **Neuron:** The brain compresses price action bursts together, making you feel like you "missed" something. FOMO is temporal compression, not actual opportunity cost.
+- **Synapse:** Wait for a candle close before ANY decision. The fact that you "saw it coming" after the fact is hindsight bias, not skill.
+
+### Time-Based Edges
+- **Primary:** `systems/s05-intraday-market-structure.md`
+- **Secondary:** `systems/s10-execution-and-trade-management.md`
+- **Neuron:** Predictable minute-level patterns: 9:30-9:50 initial drive, 9:50-10:10 first reversal window, 11:15 European close inflection, 14:00-15:30 closing auction, 15:30-15:50 MOC imbalance, 16:00 close surge.
+- **Synapse:** These edges are specific enough to script. If an edge is not on the clock, it's not a time-based edge — it's a guess.

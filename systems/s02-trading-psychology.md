@@ -318,6 +318,152 @@ you've already lost. Here are the early-warning signals:
 
 ---
 
+## Part 7: The 7 Cognitive Defects (Root Causes)
+
+The Four Dangerous States (Part 1) are SYMPTOMS. These 7 cognitive defects are ROOT CAUSES. They are baked into human cognition. You cannot eliminate them. You can only build immune protocols.
+
+### Defect 1: Narrative Addiction
+
+**The defect:** Your brain demands a story for every price move. "The market went down because..." The story is almost always wrong (it's a simplification), but the brain prefers a wrong story over no story. This leads you to trade the narrative instead of the structure.
+
+**Immune protocol:** After every trade, answer: "What was the STRUCTURAL reason for this move (not the narrative)?" If you can't point to a volume level, delta shift, or structural break, your trade was based on a story.
+
+### Defect 2: Temporal Compression
+
+**The defect:** You experience market time as continuous. It's not. Price action happens in bursts separated by dead time. Your brain compresses the bursts together, making you feel like you "missed" or "should have been in." This creates FOMO at the wrong moment.
+
+**Immune protocol:** Wait for a candle close before making ANY decision. The fact that you "saw it coming" after the move happened is hindsight bias, not skill.
+
+### Defect 3: Loss/Gain Asymmetry (Prospect Theory)
+
+**The defect:** A loss of $100 hurts ~2.25x more than a gain of $100 feels good. This is hardwired. It means you will: hold losing trades too long (avoiding the hurt), and exit winning trades too early (locking in the good feeling).
+
+**Immune protocol:** Set exit rules BEFORE entry. The stop and target are not suggestions — they are the only protection against your asymmetric pain response.
+
+### Defect 4: Agency Illusion
+
+**The defect:** You believe you have more control over outcomes than you do. "I made that trade work" vs. "The market happened to go my way." This is the most dangerous defect because it feels like confidence.
+
+**Immune protocol:** Keep a "luck vs. skill" column in your journal. For every winning trade, honestly assess: was this skill (setup matched my backtest) or luck (it worked but didn't match my rules)? If luck, it doesn't count toward your edge.
+
+### Defect 5: Social Proof Contamination
+
+**The defect:** Seeing others make money (Discord, Twitter, Telegram) creates an urgency to act. You don't know their context — account size, risk management, drawdown state — but your brain treats their success as evidence that you should be trading too.
+
+**Immune protocol:** Before opening any social feed, pre-write your session plan. Social feeds are post-session only. Treat them as journal review material, not research.
+
+### Defect 6: Complexity Bias
+
+**The defect:** The brain mistakes complexity for sophistication. A 12-indicator system "feels" more reliable than a 2-line system. It's not. Complexity adds noise, not signal. You avoid simple systems because they "can't possibly be enough."
+
+**Immune protocol:** Your system should fit on a 3x5 index card. If it doesn't, strip until it does. The extra margin space is for the pre-trade check, not more indicators.
+
+### Defect 7: Survival Bias Blindness
+
+**The defect:** You only see the traders who made it. The 95% who failed are invisible. This makes trading look easier than it is. Every winning trader's interview is survivorship bias — you don't see their 3 blow-ups before they got it right.
+
+**Immune protocol:** Before every session, read one story of a trader who blew up. Not to scare yourself — to remember that THIS is the baseline outcome. Survival is not guaranteed. It is earned.
+
+---
+
+## Part 8: The Practice Regimen (14 Mental Exercises)
+
+Psychology is not a trait — it is a SKILL. These exercises train the psychological muscles just as backtesting trains the analytical muscles.
+
+### Exercise 1: Pre-Mortem (Daily, 2 min before first trade)
+
+Close your eyes. Imagine it's the end of the day and you LOST money. Write down exactly why. "I entered without my setup. I revenge traded after the first loss. I sized up." This primes your brain to avoid those paths.
+
+**Do this:** Before every single session. It takes 2 minutes. It prevents 50% of bad trades.
+
+### Exercise 2: The Devil's Advocate (Each trade idea)
+
+For every trade you want to take, write the strongest ARGUMENT AGAINST it. "The daily trend is down and I'm buying." "Volume is low at this level." "Delta is diverging." If you cannot write a convincing counter-argument, you don't understand the trade well enough to take it.
+
+### Exercise 3: Expected Value Calibration (Weekly, 5 min)
+
+Before the session, write down your predicted EV for the day: "I expect to make/lose X R today." At end of day, compare to actual. Do this for 30 days. You will discover: your predictions are too optimistic when you're feeling good, and too pessimistic when you're feeling bad. Calibration is the cure.
+
+### Exercise 4: Coin Flip Rewire (When you feel "sure" about a trade)
+
+If you are 100% sure a trade will work, flip a coin. If the coin says "no," skip the trade. This is not about the coin — it's about breaking the certainty trance. The market humbles certainty. The coin reminds you that you don't know.
+
+### Exercise 5: Chart Autopsy (Daily, 10 min post-session)
+
+Take the day's chart. Without looking at your trades, mark where the HIGH-QUALITY setups were (by your rules). Then compare to where you actually traded. Rate each gap: was it a missed opportunity or was your system not triggered? The gaps tell you where to improve.
+
+### Exercise 6: Rapid Pattern Drill (Weekly, 15 min)
+
+Pull up 20 random historical charts. Spend 30 seconds on each: identify (a) trend or range, (b) key levels, (c) the next likely move. Check what actually happened. This trains your pattern recognition without the pressure of money.
+
+### Exercise 7: Emotional Replay (After every trade)
+
+"At entry, I felt ____. At +1R, I felt ____. At stop hit, I felt ____." Write this in your journal (s09 Part 5). Over 60 trades, your emotional patterns become visible. "I always close too early when I feel anxious." You cannot fix what you haven't measured.
+
+### Exercise 8: The 5-Second Rule (Entry hesitation)
+
+If you hesitate at entry for more than 5 seconds, close the chart. Walk away. Hesitation means your analysis was incomplete or your conviction is fake. Either way, the trade is not ready.
+
+### Exercise 9: Silence Training (15 min daily)
+
+Sit in front of the chart with NO intent to trade. No levels. No bias. Just watch. Notice the urge to "do something." Notice the stories your brain creates for every move. This trains the "observer mind" — the part of you that watches the trader without being the trader.
+
+### Exercise 10: Drawdown Simulation (Monthly)
+
+Apply a 10% drawdown to your paper account. Trade from that state for a week. Feel the psychological squeeze. Then decide: "Can I trade my system when I'm down 10%?" If yes, you're ready. If no, you need more loss-protocol practice.
+
+### Exercise 11: The "What Did I Miss" Review (Weekly, 15 min)
+
+Review every trade from the week. For each loser, ask: "What did the chart show that I missed?" Not "why did I lose" — that's ego. "What was the data on the chart that would have prevented this loss?" The chart always has the answer.
+
+### Exercise 12: Distraction Audit (Weekly)
+
+List every external input you consumed before and during trading: Twitter, Discord, YouTube, news, Arena chats. Rate each on a scale of 1-5: "Did this improve my trading or contaminate it?" After 4 weeks, the data will show you which sources are poison.
+
+### Exercise 13: Gratitude Close (End of every session)
+
+Regardless of P&L, write one thing you did well today. "I skipped a bad setup." "I took a stop without hesitation." "I held to my target." The brain defaults to focusing on losses. Gratitude forces it to see progress. This prevents despair accumulation.
+
+### Exercise 14: The Reset Protocol (After any blown trade — stop loss hit)
+
+1. Close the terminal.
+2. Walk away for 5 minutes (minimum).
+3. Drink water.
+4. Come back. Write the answers to: "Did I follow my plan? If not, why? If yes, was the setup valid?"
+5. If you followed the plan and lost: good. That's a losing trade, not a mistake. Take the next setup.
+6. If you didn't follow the plan: session over. You are not safe to trade.
+
+---
+
+## Part 9: Hard Limits and Information Hygiene
+
+### The 3-Strike Rule
+
+After 3 consecutive losing trades OR hitting your daily loss limit (whichever comes first):
+
+1. Close ALL positions immediately.
+2. Walk away from the terminal for 2+ hours minimum.
+3. Do not re-enter for the rest of the session.
+4. Journal the 3 losses: was each a valid setup that lost (variance) or a rule violation (mistake)?
+5. If 2+ were rule violations: force 3 study days before next live trade.
+
+**Why 3?** Because 3 consecutive losses is statistically possible even with a 60% win rate (probability = 6.4%). It's not a blow-up yet. But the psychology of 3 losses triggers the revenge state (Part 1, State 2), which turns 3R into -15R. The rule stops the cascade before it starts.
+
+### Information Hygiene Protocol
+
+Every piece of external opinion you consume before trading DEGRADES the quality of your decisions. This includes: YouTube, Twitter/X, Discord, Telegram, Arena chats, newsletter analysis.
+
+**The protocol:**
+1. **Isolation first:** Do your OWN analysis before consuming ANY external content.
+2. **Validate second:** After your analysis is complete, use external content as a CHECK, not as a SOURCE.
+3. **If they agree:** Your analysis is probably correct. Proceed.
+4. **If they disagree:** Your analysis may be wrong — or they may be. Dig deeper. Do not default to theirs.
+5. **If you haven't done your own analysis:** You are not allowed to consume external content. Period.
+
+**The one exception:** Educational content (this repo itself, structured courses, books) consumed outside trading hours. But even this must be processed through Part 8 Exercise 12 (Distraction Audit).
+
+---
+
 ## Synaptic Connections
 
 | Neuron | Synapse | Fire When |
@@ -330,3 +476,5 @@ you've already lost. Here are the early-warning signals:
 | `plumbing-hierarchy-master.md` Part 0.10 (Complex Systems) | "Feel don't predict" is the body-vs-machine antidote to the totalizing worldview negative. When you feel the desire to predict from your plumbing understanding, re-read Part 0.10. | tempted to predict instead of read flow |
 | `ASSIMILATION_PROTOCOL.md` | All new info about psychology fires s02 as the primary home — the taxonomy rule. | When any new psychology insight, AI chat, journal entry arrives |
 | `systems/s12-capital-management-and-scaling.md` | "Compression risk" (Negative 2 in s02) is addressed by s12's phased scaling plan. The protocol: when compression bites, re-read s12 Phase 1 (Survival). Don't accelerate; the timeline is the protection. | When urgency to skip phases or oversize hits |
+| `mental-models/information-half-life.md` | Information hygiene protocol (Part 9) is the immune system for information decay. s02 sets the behavioral rules; the half-life model explains WHY information expires. | Before consuming any external analysis pre-trade |
+| `conversations/2026-07-29_arena-analysis.md` | The 7 cognitive defects (Part 7) were extracted from this Arena session. Re-read when any defect feels active but unnamed. | When you sense a "block" in decision-making but can't name it |

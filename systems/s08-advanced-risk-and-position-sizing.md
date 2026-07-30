@@ -174,6 +174,58 @@ Is the trade in the direction of the daily/weekly trend? (from s06)
 
 ---
 
+## Part 6: Anti-Fragile Position Architecture
+
+Most position sizing (Parts 1-4) treats every entry as a single bet. Anti-fragile architecture treats a position as a PROCESS — a sequence of bets that adapts as the market reveals information.
+
+### The Probe → Confirmation → Conviction Framework
+
+| Phase | Size (% of intended max) | Trigger | Stop | Psychology |
+|-------|--------------------------|--------|------|------------|
+| **Probe** | 10-20% | First indication of setup. Level is near, structure is set-up. | Wide — structural level below/above. | "I'm paying to learn." The probe is tuition, not conviction. |
+| **Confirmation** | 30-40% | Price reaches the level, shows absorption/acceptance, first target hit. | Move to breakeven on full position. | "The market confirmed my thesis at the level." |
+| **Conviction** | Remaining 40-50% | Structure break — price breaks the range, delta confirms, session in your favor. | Breakeven on full position or trail. | "Flow has committed." Size accordingly. |
+
+### How It Works in Practice
+
+**Example: Long EUR/USD at support level**
+
+**Step 1 — Probe (0.05 lots, $5 risk in a $1000 account):**
+- Entry at 1.0950, stop at 1.0920 (30 pip stop)
+- Thesis: "Weekly support + HVN at this level + bullish delta divergence on 15m"
+- If stopped: loss = $5. You paid $5 for information: "This level is not holding."
+
+**Step 2 — Confirmation (add 0.15 lots, total 0.2 lots, $7.50 additional risk):**
+- Trigger: Price touched 1.0950, bounced to 1.0970 (20 pips), shows buying at the level
+- Move stop on entire 0.2 lots to 1.0940 (breakeven from here)
+- If stopped now: loss = $0 (the probe's profit covers the new add's stop distance)
+- You are paying nothing more for this information
+
+**Step 3 — Conviction (add 0.2 lots, total 0.4 lots):**
+- Trigger: Price breaks above 1.1000 (resistance, structural break) with delta confirmation
+- Move all stops to breakeven
+- Target: 1.1080 (next major level)
+- If reversed to breakeven: $0 loss. You tested the thesis for free.
+- If hits target: profit = (0.05 x $50) + (0.15 x $110) + (0.2 x $80) = $2.50 + $16.50 + $16.00 = $35 on what started as a $5 risk trade
+
+### The "Buy Information" Philosophy
+
+Every probe is a SMALL payment for information. If the probe loses, you learned: "this level is not valid today." That information is worth the probe cost. If the probe wins, you get confirmation and size up.
+
+**Rule:** If you are not willing to lose the probe, you should not take the trade. The probe IS the cost of learning. If the probe feels too expensive, the trade is too big.
+
+### When NOT to Use This Framework
+
+| Situation | Why | Alternative |
+|-----------|-----|-------------|
+| High-volatility news event | The probe can get stopped before confirmation arrives | Either full-size after second move (s10 Part 6) or skip |
+| Gap openings | Multiple entries impossible / unreliable | Single entry at post-gap level |
+| Scalping (1-2 tick targets) | No time for multiple entries | Single entry, full size |
+| 0DTE options | Time decay destroys the probe | Single entry or skip |
+| Account < $500 | Commission costs eat the probe structure | Single entry, reduced size |
+
+---
+
 ## Synaptic Connections
 
 | Neuron | Synapse | Fire When |
@@ -184,3 +236,5 @@ Is the trade in the direction of the daily/weekly trend? (from s06)
 | `systems/s10-execution-and-trade-management.md` | Scaling in/out (s08 Part 4) is executed via s10's entry/exit mechanics. s08 decides the plan, s10 executes it. | Executing a scale-in or scale-out plan |
 | `systems/s02-trading-psychology.md` | Over-sizing is the #1 cause of emotional trading. s02's revenge state (Dangerous State #2) usually expresses as "increase size to get back to even." s08 prevents this mechanically. | Pre-trade state check; feeling urge to oversize |
 | `systems/s12-capital-management-and-scaling.md` | s12 uses the methodology from s08 to decide when to scale up (after 3+ months of positive expectancy, the risk % can increase). s08 is the daily sizing tool, s12 is the growth planner. | Planning account growth targets |
+| `systems/s10-execution-and-trade-management.md` | Anti-fragile position architecture (Part 6) relies on s10's execution mechanics for the multiple entries. s08 plans the sequence; s10 places each entry. | Executing a probe → confirmation → conviction sequence |
+| `mental-models/information-half-life.md` | "Buy information" philosophy (Part 6) aligns with the information decay curve: early probes in high-information moments are worth more than late entries. | Deciding whether to probe or skip a marginal setup |

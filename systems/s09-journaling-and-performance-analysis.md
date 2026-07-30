@@ -146,6 +146,49 @@ The pattern becomes visible after 20 entries. Your specific triggers. Your speci
 
 ---
 
+## Part 6: Decision Quality Tracking
+
+The most dangerous error in trading is judging by outcomes. A good decision can lose (bad outcome). A bad decision can win (good outcome). If you only evaluate by P&L, you will reinforce bad habits (because they won this time) and abandon good habits (because they lost this time).
+
+### The Decision Quality Score
+
+Rate every trade on decision quality INDEPENDENTLY of outcome:
+
+| Score | Meaning | Example |
+|-------|---------|---------|
+| **5** | Perfect execution | Setup matched all rules, entry at exact level, stop at structural level, target hit. Textbook. |
+| **4** | Good execution, minor imperfection | Setup was valid, entry 2 pips off ideal, still followed plan. |
+| **3** | Acceptable | Setup was valid but execution had a flaw (entered too early, exited too late). |
+| **2** | Poor | Entered without full confirmation, moved stop during trade, exited before target out of fear. |
+| **1** | Gambling | No setup, no plan, sized up emotionally, revenge trade. |
+
+### The Decision Quality Field
+
+Add this to your journal template (Part 2):
+
+| Field | Example | Why |
+|-------|---------|-----|
+| Decision quality (1-5) | 4 | Separates luck from skill. A winning trade with DQ=2 is still a bad trade. A losing trade with DQ=5 is a good trade. The score is the signal; P&L is noise. |
+
+### The 30-Trade Rolling Decision Quality
+
+Track your average DQ across the last 30 trades. If DQ drops below 3.5:
+- Something is wrong with your process
+- Review the last 10 trades with DQ < 3: what was common?
+- Common causes: skipping pre-trade check, trading tired, trading during lunch lull, FOMO after seeing social media
+
+### Luck vs. Skill Column
+
+Separate from decision quality, add a simple field:
+
+| Field | Options |
+|-------|---------|
+| Skill or luck? | **Skill** if setup matched backtest rules and execution was per plan. **Luck** if it worked but didn't match rules, or if you deviated from plan and it happened to work. |
+
+Track your "luck" win rate vs. "skill" win rate. If luck rate > skill rate, your system isn't working — you're just getting lucky. If after 60 trades your luck win rate approaches your skill win rate, you don't actually have an edge.
+
+---
+
 ## Synaptic Connections
 
 | Neuron | Synapse | Fire When |
@@ -157,3 +200,4 @@ The pattern becomes visible after 20 entries. Your specific triggers. Your speci
 | `systems/s05-intraday-market-structure.md` | Session-based win rate analysis in s09 (wins by session) feeds back into s05's session framework. If you win more in London, allocate more focus there. | Analyzing session-based performance |
 | `systems/s10-execution-and-trade-management.md` | MFE/MAE analysis (s09 Part 2) feeds back into s10. If MFE is consistently higher than realized exit, your exit strategy is wrong (leaving money on the table). | Refining exit rules based on MFE/MAE data |
 | `systems/s00-concept-registry.md` | Each setup type in the journal maps to a concept in the registry. Make entries like "POC bounce": definitions, win rate, notes. | Building the concept registry |
+| `systems/s02-trading-psychology.md` | Decision quality tracking (Part 6) directly supports s02's cognitive defects — especially Agency Illusion (Defect 4) and Survival Bias (Defect 7). The DQ score is the objective check on self-deception. | Reviewing a winning trade that felt good; DQ score keeps it honest |

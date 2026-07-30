@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (84 files · ~22,500 lines)                    ║
+║            🌊 MONEYGOD — OC  (91 files · ~27,000 lines)                    ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"               ║
 ║     RAW TRUTH: Money = concentrated human time/energy                       ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                        ║

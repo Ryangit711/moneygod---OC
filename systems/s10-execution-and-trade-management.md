@@ -182,6 +182,79 @@ That's the difference between a profitable system and a loser — just from exit
 
 ---
 
+## Part 6: The "Second Move" News Protocol
+
+The standard advice ("don't trade news") is correct for beginners. But news events create the highest-volatility, highest-volume setups of the month. If you know how to trade them, they are among the most reliable edges.
+
+### Why the Second Move Works
+
+When a high-impact release hits (CPI, NFP, FOMC, etc.):
+
+1. **First move (0-30 seconds):** Algos and HFTs react to the number. Price spikes violently in one direction. This move is noise — it's the automated reaction, not the real signal.
+2. **Reaction range (30 sec - 15 min):** Price stabilizes into a range as human traders evaluate the data. The initial spike is tested. A range forms at the new price level.
+3. **Second move (15-60 min):** Price breaks the reaction range in the DIRECTION OF THE TREND (not necessarily the direction of the initial spike). This is the "real" move — driven by institutional positioning, not algos.
+
+**Your edge:** You ignore the first move entirely. You wait for the reaction range to form. You trade the break of the reaction range in the direction of the higher timeframe trend.
+
+### The Protocol
+
+1. **Pre-event preparation:**
+   - Know the release time (schedule on forexfactory.com)
+   - Have your bias ready: daily/weekly trend direction (from s06)
+   - Mark key levels (previous day VAH/VAL, prior week high/low)
+   - Be flat 5+ minutes before the release
+
+2. **During the first move (0-1 min):**
+   - DO NOTHING. The initial spike will whipsaw.
+   - Watch from the sidelines. Note where the spike went and where it stalled.
+
+3. **Reaction range forms (1-15 min):**
+   - Draw the high and low of the first 5-15 minutes after release
+   - This is your "post-release range"
+   - Watch for volume to return to normal (the initial panic volume subsides)
+
+4. **Second move entry:**
+   - When price breaks the post-release range in the direction of your daily/weekly bias → enter with a market order
+   - Stop: 1 ATR beyond the opposite side of the post-release range
+   - Target: Previous day VAH/VAL or the nearest HVN
+   - Risk: Standard (1%)
+
+5. **If the second move fails:**
+   - If price breaks the post-release range against the daily bias → treat it as a potential trend reversal
+   - Halve size. Place a tight stop. Scalp only.
+   - The failed second move is a reversal signal
+
+### Examples
+
+**NFP release — 8:30 AM EST:**
+- Daily bias: UP (price above EMA 21, HH/HL sequence intact)
+- Payrolls number beats expectations
+- First move: /ES spikes up 15 points in 10 seconds
+- Reaction range (8:31-8:45): 5410-5420
+- Second move: price breaks above 5420 at 8:52 with volume
+- Entry: Long at 5420, stop at 5400 (-20 points), target 5440
+- Result: hits 5440 at 10:15 AM. 2R winner.
+
+**FOMC — 2:00 PM EST:**
+- Daily bias: RANGE (price inside value area, ADX < 20)
+- Fed holds rates, hawkish statement
+- First move: /ES drops 30 points in 20 seconds
+- Reaction range (2:01-2:20): 5380-5400
+- Second move: price breaks below 5380 at 2:25
+- Entry: Short at 5380, stop at 5410 (-30 points), target 5340
+- Result: hits 5340 at 3:45. 1.33R winner (tightened stop due to late-day volatility).
+
+### When to Skip
+
+| Scenario | Why Skip |
+|----------|----------|
+| The post-release range is too wide (>2x ATR of the prior hour) | The spread is too wide. Your stop would be too far. |
+| The higher timeframe is flat (no bias from s06) | No direction to trade. 50/50 odds. Skip. |
+| The reaction range overlaps entirely with pre-existing levels | No new information. The event didn't change the map. |
+| Less than 30 min before market close | Not enough time for the second move to develop. |
+
+---
+
 ## Synaptic Connections
 
 | Neuron | Synapse | Fire When |
@@ -193,3 +266,5 @@ That's the difference between a profitable system and a loser — just from exit
 | `systems/s06-top-down-analysis.md` | The exit decision depends on TDA alignment: in a strong trend (s06), let trades run. In a range (s06), take profits early. | Deciding whether to trail or take target |
 | `systems/s04-backtesting-and-system-development.md` | Execution rules (market vs. limit, trailing methods, BE rules) should be backtested in s04 before being used live. s10 puts theory into live practice. | Testing entry/exit rules in backtester |
 | `systems/s02-trading-psychology.md` | Hesitation at entry, greed at exit, fear of losing profitable trades — all s02 territory. s10 provides the process that overrides emotional interference. | Pre-trade state check; post-trade emotion management |
+| `systems/s05-intraday-market-structure.md` | The second move news protocol (Part 6) depends on s05's time-based edges — especially the calendar-based event timing. s05 tells you WHEN the event matters; s10 tells you HOW to trade its aftermath. | Planning news event trades; reviewing post-news execution |
+| `systems/s08-advanced-risk-and-position-sizing.md` | The second move protocol uses full-size entry (not anti-fragile probe structure) because the event window is narrow. s08's "when NOT to probe" table lists this case. | Deciding between single-entry vs. probe for news trades |
