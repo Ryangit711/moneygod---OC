@@ -73,3 +73,13 @@ NOW: ACTIVE (learning + demo trading)
 ---
 
 *moneygod is the cash engine. It runs forever. Every study session, every trade, every term — the system only grows. aman-os tracks the journey.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `ARCHITECTURE/MASTER_MAP.md` | LINKS references MASTER_MAP's Three Laws and file inventory as shared identity | Reviewing master map |
+| `ARCHITECTURE/RIPPLE_OUT.md` | The ripple mechanism defined in abstract here is instantiated in RIPPLE_OUT | Logging outbound event |
+| `trading/trading-commandments.md` | The Trading Commandments are referenced as what aman-os tracks from moneygod | Reciting commandments |
+| `mental-models/pipe-theory.md` | Pipe theory is shared between repos as a core mental model | Applying pipe theory |
+| `mental-models/wealth-code-synthesis.md` | The freedom number connects to wealth code synthesis across both repos | Calculating freedom number |

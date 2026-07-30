@@ -163,3 +163,13 @@ SUNDAY (20 min)    MONDAY (trade)     WEDNESDAY (trade)   FRIDAY (trade/review)
 - **Concept cross-ref:** `plumbing-hierarchy-master.md → Part 9.2` (lines 2538-2601) — all ICT concepts with plumbing links
 - **Weekly checklist:** `systems/weekly-flow-checklist.md` — plumbing deep dive (Monday)
 - **Readiness checklist:** `systems/week-1-readiness.md` — demo setup, Vancouver killzones, risk caps
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/weekly-flow-checklist.md` | Sunday prep sets weekly context; Monday flow checklist dives into liquidity plumbing | Transitioning Sunday→Monday |
+| `systems/trade-journal-template.md` | Weekly bias and key levels from Sunday prep feed into each daily journal entry | Journaling daily bias |
+| `core/plumbing-esoterica.md` | Sunday plumbing events (FOMC, NFP, opex) determine weekly bias direction | Checking plumbing calendar |
+| `mental-models/pipe-theory.md` | Weekly liquidity pools (PDH/PDL sweeps) are the pipe theory flow targets for the week | Identifying sweep targets |
+| `systems/position-sizing-by-flow.md` | Weekly bias and volatility regime from Sunday prep set the position sizing parameters | Sizing for the week |

@@ -138,3 +138,13 @@ Consistency is the only thing that works. One missed day is fine. Five missed da
 - [trade-journal-template.md] — Journal template
 - [pip-calculator.md] — Pip values
 - [10-investing-and-compounding.md] — After you make it, keep it
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/trade-journal-template.md` | Every demo trade on the path is logged using the journal template | Logging demo trade in journal |
+| `trading/complete-strategy-orb-eurusd.md` | ORB is introduced in Week 3 as the single strategy to master during demo practice | Applying ORB on demo |
+| `systems/sunday-prep-ritual.md` | Sunday prep sets up the weekly context for the demo path's daily activities | Sunday before demo week |
+| `systems/week-1-readiness.md` | Week 1 readiness checklist maps directly to the first week of the demo path | Starting demo week 1 |
+| `systems/weekly-flow-checklist.md` | Weekly flow check keeps demo practice aligned with actual market conditions | Weekly flow review on demo |

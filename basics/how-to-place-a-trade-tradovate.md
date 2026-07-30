@@ -230,3 +230,13 @@ Repeat 10 times. You should be clicking through the interface without hesitation
 ---
 
 *Open Tradovate right now. Place a demo trade. /MES, 1 contract, 10 point SL, 15 point TP. Close it after 5 minutes. You just placed your first futures trade.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/mes-mnq-playbook.md` | Tradovate is the execution interface for the /MES + /MNQ strategies | Placing /MES or /MNQ trade |
+| `basics/how-to-place-a-trade-mt5.md` | Parallel mechanics: MT5 lots ↔ Tradovate contracts, SL/TP entry identical | Comparing forex to futures |
+| `trading/prop-firm-architecture.md` | Tradovate login credentials and account rules are defined by the prop firm | Setting up prop firm account |
+| `quickstart/pip-calculator.md` | Futures point value ($5 for /MES, $2 for /MNQ) replaces pip calculations | Calculating futures risk |
+| `systems/position-sizing-by-flow.md` | Number of contracts entered in Tradovate is sized by flow regime | Entering contract quantity |

@@ -156,3 +156,13 @@ Money is debt
 ## The Single Sentence That Captures It All
 
 > The financial system is a body made of belief, running on agreements nobody voted for, maintained by language designed to hide what it does — and the maps exist not to predict it, but to navigate it well enough to find your way out.
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `ARCHITECTURE/MASTER_MAP.md` | The 7-map synthesis is the philosophical overlay on the master map's structural view | Synthesizing all maps |
+| `mental-models/pipe-theory.md` | The Cantillon geometry (Layer 3) and pipe theory are the same first principle | Sitting at the valve |
+| `SYMBIOTIC_MAP.md` | The observer-is-the-map recursion (Layer 5) is the core of the symbiotic reef | Meta-cognitive reflection |
+| `core/global-flow-map.md` | The "body not machine" epistemology maps onto the 18-region global flow map | Reading global flow |
+| `GROWTH_PROTOCOL.md` | The temporal layer (Layer 4) is enacted by the growth protocol's weekly rhythm | Evolving with the system |

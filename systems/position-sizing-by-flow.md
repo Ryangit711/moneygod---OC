@@ -221,3 +221,13 @@ PIP VALUE FOR USD/CAD:
 - [systems/weekly-flow-checklist.md] — Weekly regime determination
 - [systems/daily-pre-session.md] — Daily sizing check before first trade
 - [mental-models/pipe-theory.md] — "Sit in the flow, don't create it"
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | The liquidity equation is the mathematical foundation that every size calculation executes | Computing max position risk |
+| `systems/weekly-flow-checklist.md` | Weekly checklist determines liquidity regime which is the primary input to sizing | Checking weekly liquidity regime |
+| `mental-models/pipe-theory.md` | Pipe theory identifies flow direction; position sizing determines how much to allocate | Sizing within flow direction |
+| `core/repo-plumbing.md` | Repo/SOFR data feeds the regime determination that drives the sizing matrix | Reading repo data for regime |
+| `trading/prop-firm-architecture.md` | Prop firm daily-loss and max-drawdown limits overlay additional size constraints | Applying prop firm limits |

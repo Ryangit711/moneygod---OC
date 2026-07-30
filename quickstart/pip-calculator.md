@@ -98,3 +98,13 @@ If your stop gets hit:
 - [systems/position-sizing-by-flow.md] — Full sizing system (advanced)
 - [trading/complete-strategy-orb-eurusd.md] — Strategy with pre-calculated targets
 - [quickstart/03-demo-path.md] — Practice sizing on demo
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/position-sizing-by-flow.md` | Pip value is the raw input; flow-based sizing converts it to optimal lot size | Sizing by flow regime |
+| `core/liquidity-equation.md` | Pip value × stop distance × lot size = the risk variable solved in the liquidity equation | Computing trade risk |
+| `basics/what-is-a-pip.md` | Foundational pip definitions, lot sizes, and leverage concepts feed into these calculations | Reviewing pip basics |
+| `trading/complete-strategy-orb-eurusd.md` | ORB strategy uses pre-calculated pip targets that depend on this calculator's output | Setting ORB take profit |
+| `trading/prop-firm-architecture.md` | Prop firm daily-loss limits in dollars are back-calculated to pip stops via this calculator | Obeying prop risk limits |

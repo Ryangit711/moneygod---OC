@@ -197,3 +197,13 @@ PLUMBING (How it works)        BRIDGE (Translation)      TRADING (What you do)
 ---
 
 *"The cash engine runs forever. Every study session, every trade, every term — the system only grows."*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `ARCHITECTURE/RIPPLE_OUT.md` | MASTER_MAP file inventory is what ripples out to aman-os via RIPPLE_OUT | Logging phase completion |
+| `ARCHITECTURE/LINKS.md` | LINKS defines the identity shared between moneygod and aman-os referenced here | Referencing sibling repo |
+| `CURRICULUM.md` | The 6-phase path in MASTER_MAP is the curriculum's structural skeleton | Navigating the curriculum |
+| `core/liquidity-equation.md` | The plumbing diagram's Net Liq formula is the liquidity equation in visual form | Explaining liquidity flow |
+| `trading/complete-strategy-orb-eurusd.md` | The "Bridge to Trading" section connects plumbing directly to the ORB strategy | Bridging plumbing to trade |

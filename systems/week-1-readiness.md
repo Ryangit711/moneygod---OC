@@ -265,3 +265,13 @@ Trade your retail demo, but manually subtract realistic costs:
 - **Journal template:** `systems/trade-journal-template.md`
 - **Sunday prep:** `systems/sunday-prep-ritual.md`
 - **Morning workflow:** `systems/live-data-workflow.md`
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `trading/paper-vs-live-gap.md` | The 4-week bridge protocol directly addresses the execution gap | Bridging demo to live |
+| `trading/prop-firm-architecture.md` | Platform and demo choice maps to prop firm architecture | Choosing first eval |
+| `quickstart/03-demo-path.md` | Week 1 readiness is the transition from the 30-day demo path | Completing demo path |
+| `quickstart/02-platform-setup.md` | Platform setup and chart templates are the mechanical prerequisite | Setting up demo account |
+| `systems/sunday-prep-ritual.md` | The weekly cycle described in readiness begins with Sunday prep | Starting weekly cycle |

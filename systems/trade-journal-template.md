@@ -171,3 +171,13 @@ For each trade this week, note the plumbing context when it happened:
 | Psyche | Trader's psyche — track the internal trend, not just the external |
 | Real Economy & On-Chain | Physical economy + parallel plumbing — one line keeps both on radar |
 | Weekly Review | Reverse causality — patterns emerge across sessions, not in one |
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `systems/weekly-flow-checklist.md` | Journal's weekly review aggregates daily data from the flow checklist | Completing weekly review |
+| `core/plumbing-esoterica.md` | Model Check section validates the plumbing verdict against actual market action | Running model check |
+| `mental-models/pipe-theory.md` | Psyche and discipline metrics track whether trader stayed in or fought the flow | Assessing trade discipline |
+| `systems/position-sizing-by-flow.md` | Trade log R:R and $Result verify whether position sizing rules were followed | Reviewing trade results |
+| `systems/sunday-prep-ritual.md` | Pre-session bias and key levels entered in journal stem from Sunday weekly prep | Filling pre-session section |

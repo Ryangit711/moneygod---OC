@@ -216,3 +216,13 @@ TRAILING STOP   = stop loss that moves with price
 ---
 
 *Open MT5. Place a demo market order on EUR/USD with a stop loss and take profit. Then place a limit order 10 pips below current price with SL and TP. Get comfortable with both.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `basics/candlestick-anatomy.md` | SL is placed beyond swing highs/lows; TP targets structural levels visible on candle wicks | Placing stop loss at structure |
+| `systems/position-sizing-by-flow.md` | Market vs limit order choice affects fill price and therefore the risk-per-contract calculation | Choosing market vs limit |
+| `core/liquidity-equation.md` | SL distance (pips) × position size = the risk variable in every liquidity decision | Computing risk per trade |
+| `trading/complete-strategy-orb-eurusd.md` | ORB strategy uses market orders for breakout entry and limit orders for OTE retrace entries | Entering an ORB setup |
+| `trading/mes-mnq-playbook.md` | Order types are identical in futures — market, limit, stop — applied to /MES and /MNQ contracts | Trading futures with orders |

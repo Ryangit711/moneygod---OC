@@ -169,3 +169,13 @@ Open TradingView with EUR/USD 15-minute chart:
 5. If all 3 have R:R ≥ 1:2, those are A+ setups
 
 *Open TradingView right now. Add VWAP, 20 EMA, 50 EMA, and Volume to EUR/USD 15-min. Find one setup where all four agree. You just read the chart like a pro.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/tri-region-flow-map.md` | VWAP acts as the magnetic midline that price oscillates around within Tri-Region zones | VWAP bias aligns with region |
+| `core/liquidity-equation.md` | Volume spikes confirm the liquidity imbalance that the equation quantifies | Volume spike at breakout |
+| `trading/complete-strategy-orb-eurusd.md` | VWAP + EMA slope + volume confirmation are the three filters before ORB entry | Filtering ORB with indicators |
+| `trading/mes-mnq-playbook.md` | Same VWAP/EMA/volume framework maps directly to /MES and /MNQ futures trading | Applying indicators to futures |
+| `mental-models/pipe-theory.md` | Volume reveals whether the liquidity pipe is flowing freely or obstructed | Reading volume conviction |

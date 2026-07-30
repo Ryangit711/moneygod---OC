@@ -40,3 +40,13 @@
 ---
 
 *This file itself stays in moneygod. It's the outbound log. aman-os has its own inbound log (RIPPLE_LOG.md).*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `ARCHITECTURE/MASTER_MAP.md` | RIPPLE_OUT events are triggered by milestones tracked in MASTER_MAP | Phase milestone reached |
+| `ARCHITECTURE/LINKS.md` | The ripple direction (moneygod → aman-os) and trigger table are defined in LINKS | Understanding repo boundary |
+| `trading/fill-your-cup.md` | The first payout event feeds directly into the fill-your-cup freedom plan | First prop firm payout |
+| `trading/prop-firm-architecture.md` | The "prop firm funded" ripple is governed by the prop firm architecture | Getting funded |
+| `systems/trade-journal-template.md` | The "60 demo trades complete" ripple requires 60 journaled trades | Completing demo phase |

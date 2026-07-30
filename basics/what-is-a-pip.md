@@ -218,3 +218,13 @@ R:R        = risk vs reward (aim for 1:2 or better)
 ---
 
 *This file is your vocabulary. Read it until you can define every term without looking.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `quickstart/pip-calculator.md` | Pip values from this file are the direct inputs to the pip calculator tool | Opening pip calculator |
+| `core/liquidity-equation.md` | Pip value × SL distance × lot size = the numeric risk in the liquidity equation | Computing dollar risk |
+| `systems/position-sizing-by-flow.md` | Pip value is the measurement unit that converts flow regime into lot size | Sizing position by flow |
+| `basics/order-types.md` | SL and TP distances defined in pips are entered as the stop and limit on every order | Setting SL/TP in pips |
+| `trading/prop-firm-architecture.md` | Prop firm drawdown limits are tracked in pips-equivalent and enforced per trade | Checking prop firm rules |

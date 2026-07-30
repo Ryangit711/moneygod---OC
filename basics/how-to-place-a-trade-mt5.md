@@ -199,3 +199,13 @@ Repeat 10 times. The clicks should be automatic by then.
 ---
 
 *Open MT5 right now. Place a demo trade. EUR/USD, 0.01 lot, 10 pip SL, 15 pip TP. Close it after 5 minutes. You just placed your first trade.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `quickstart/02-platform-setup.md` | MT5 workspace configuration is the mechanical prerequisite for all execution | Setting up MT5 platform |
+| `systems/trade-journal-template.md` | Every MT5 trade feeds the journal for flow-performance analysis | Journaling the trade |
+| `trading/prop-firm-architecture.md` | MT5 order entry must comply with prop firm daily-loss and position-size rules | Trading on prop account |
+| `core/liquidity-equation.md` | Lot size and SL distance in MT5 are the numeric inputs to the liquidity equation | Setting lot size |
+| `quickstart/pip-calculator.md` | Pip value from calculator determines SL/TP distance in pips on the order window | Calculating stop distance |

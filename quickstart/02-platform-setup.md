@@ -180,3 +180,13 @@ Day 3: Read 03-demo-path.md for your 30-day plan
 - [03-demo-path.md] — 30-day demo plan
 - [first-setup-orb.md] — Your first real strategy
 - [pip-calculator.md] — Pip values and position sizing
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `quickstart/01-broker-canada.md` | Platform (MT5/Tradovate/TWS) is chosen based on the broker opened in the broker guide | Setting up after broker choice |
+| `quickstart/03-demo-path.md` | This workspace setup is the mechanical prerequisite for starting the 30-day demo path | Beginning demo path |
+| `quickstart/pip-calculator.md` | Pip value calculator used alongside platform to compute SL/TP distances in dollar terms | Calculating SL/TP in dollars |
+| `basics/how-to-place-a-trade-mt5.md` | Detailed MT5 order-entry mechanics referenced in the daily setup checklist | Placing demo trade |
+| `trading/fill-your-cup.md` | Platform discipline and workspace cleanliness is part of the fill-your-cup readiness | Daily pre-trade ritual |

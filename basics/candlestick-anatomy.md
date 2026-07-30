@@ -192,3 +192,13 @@ TIMEFRAME = which candle to use depends on what you're doing
 ---
 
 *Open TradingView. Look at EUR/USD 1-hour chart. Read 10 candles aloud: "This candle is [color], body is [size], wicks are [long/short], price was rejected from [level]." Do this until it's automatic.*
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/tri-region-flow-map.md` | Wick rejection marks liquidity boundaries between Tri-Region zones | Candle wick at key level |
+| `core/liquidity-equation.md` | Body size quantifies the liquidity imbalance during a price move | Reading candle strength |
+| `trading/complete-strategy-orb-eurusd.md` | ORB entry triggered by candle close above/below opening-range high/low | ORB entry candle forms |
+| `core/plumbing-esoterica.md` | Multi-timeframe candle structure shows how liquidity pools drain across timeframes | Stacking timeframes |
+| `systems/weekly-flow-checklist.md` | Weekly candle structure sets the flow context for position sizing | Monday candle review |

@@ -140,3 +140,13 @@ Day 3: Read 02-platform-setup.md → configure your workspace
 - [10-investing-and-compounding.md] — TFSA/RRSP/FHSA tax shield guide
 - [11-escaping-the-rat-race.md] — Freedom number, phases
 - Your vault: PROP - Funded accounts - 2025 Dec.md (prop firm details)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `quickstart/02-platform-setup.md` | Broker selection determines which platform (MT5, Tradovate, TWS) to configure | Choosing a broker type |
+| `quickstart/03-demo-path.md` | Every broker choice offers a demo account that feeds into the 30-day demo plan | Starting demo trading |
+| `trading/prop-firm-architecture.md` | Goat Funded Trader and FTMO setup details are governed by prop firm architecture rules | Opening funded account |
+| `systems/weekly-flow-checklist.md` | Broker selection affects available instruments and execution constraints for flow trading | Reviewing broker readiness |
+| `mental-models/wealth-code-synthesis.md` | Capital allocation across TFSA, margin, and prop accounts follows wealth code layers | Structuring account capital |

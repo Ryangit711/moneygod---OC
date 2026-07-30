@@ -176,3 +176,13 @@ All books, papers, and resources referenced across this wiki. Organized by categ
 - [bank](03-money-as-debt-modern-system.md)
 
 [Complete reference list](references/master-reference-list.md)
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `CURRICULUM.md` | The reference list provides the reading material mapped to each curriculum phase | Planning study phase |
+| `core/plumbing-esoterica.md` | Papers on money creation and central banking (BoE, MMT) directly underpin the esoterica | Researching plumbing |
+| `mental-models/wealth-code-synthesis.md` | Investing books (Graham, Bogle, Housel) feed into the wealth code synthesis framework | Building wealth code |
+| `ARCHITECTURE/MASTER_MAP.md` | Every reference listed is a source for the map's 6-phase path | Cross-referencing master map |
+| `systems/position-sizing-by-flow.md` | Liquidity and crisis books (Kindleberger, Dalio) inform the regime determination | Studying liquidity cycles |

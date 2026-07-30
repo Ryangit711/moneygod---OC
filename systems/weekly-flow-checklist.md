@@ -133,3 +133,13 @@ The one who sits out during drains lives to trade another day.
 - [13-weekly-flow-tapping-operating-system.md] — Original expanded OS
 - [08-forex-trading-the-purest-flow.md] — Canadian forex specifics
 - [14-forex-clock-resources.md] — Session times, data releases
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `core/liquidity-equation.md` | The checklist is the practical Monday-morning execution of the liquidity equation | Computing net liquidity |
+| `core/tri-region-flow-map.md` | Each step (US, Canada, Europe) directly maps to Tri-Region flow zones | Tri-region synthesis |
+| `mental-models/pipe-theory.md` | The daily pre-session pipe check is pipe theory in practice | Sitting in the pipe |
+| `systems/position-sizing-by-flow.md` | Liquidity signal from checklist feeds directly into position sizing regime | Sizing by liquidity signal |
+| `systems/sunday-prep-ritual.md` | Monday full check builds on the weekly context set during Sunday prep | Monday weekly review |
