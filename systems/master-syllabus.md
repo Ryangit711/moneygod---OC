@@ -2,6 +2,8 @@
 
 ## "From 'What is money?' to 'I am a funded trader.' 20 weeks. Zero assumptions."
 
+**NEW FOUNDATION FILES ADDED 2026-07-29: See ADDENDUM at end of file.**
+
 ---
 
 ## ORIENTATION COMPLETE. CLASS STARTS TOMORROW.
@@ -450,3 +452,28 @@ Week 30:  "I am free."
 ---
 
 *git add -A && git commit -m "syllabus — THE MASTER SYLLABUS — day by day, ABC to first funded trade — 2026-07-23" && git push*
+
+---
+
+## ADDENDUM — New Foundation Files (Assimilated 2026-07-29)
+
+These files enrich the syllabus above. Read alongside the indicated week:
+
+| File | Week | Purpose |
+|------|------|---------|
+| `00-background-edge.md` | PRE (Read before Week 1) | Personal context, edge, danger zone. Without this, the syllabus is generic. |
+| `systems/s01-mathematics.md` | Week 5 (alongside position sizing) | First-principles trading math — pip value, EV, Kelly, probability, R-multiples. Eliminates every math blocker. |
+| `systems/s02-trading-psychology.md` | Week 1+ (parallel track) | Psychology as structured OS — 4 dangerous states, 8 flagged negatives, pre-trade state check. Re-read in Week 15. |
+| `systems/s03-volume-profile-and-order-flow.md` | Week 6-7 (alongside chart foundations) | Market microstructure — the missing layer that explains "why" behind every ICT concept. |
+| `systems/s04-backtesting-and-system-development.md` | Week 12 (before eval prep) | Scientific method for trading — backtesting, metrics, curve-fitting, development loop. |
+| `systems/s05-intraday-market-structure.md` | Week 6-7 (alongside chart reading) | Session framework, day templates, regime detection. |
+| `systems/s06-top-down-analysis.md` | Week 6-7 (before first strategies) | Three-step TDA, timeframe conflict resolution. |
+| `systems/s07-order-flow-levels.md` | Week 8 (alongside level-based trading) | 10-level hierarchy, level trade scenarios. |
+| `systems/s08-advanced-risk-and-position-sizing.md` | Week 9-10 (alongside scaling) | 4 sizing methods, correlation, scaling in/out. |
+| `systems/s09-journaling-and-performance-analysis.md` | Week 2+ (start journaling) | Trade journal template, performance metrics, weekly review. |
+| `systems/s10-execution-and-trade-management.md` | Week 8-10 (alongside execution) | Entry types, stop placement, trailing, exit management. |
+| `systems/s11-trading-business-and-tax.md` | Week 18+ (before first payout) | Canada-specific business/tax structure. |
+| `systems/s12-capital-management-and-scaling.md` | Week 20+ (after first funded) | Three-phase growth model, debt protocol, scaling plan. |
+| `systems/s13-options-mechanics-for-futures-traders.md` | Week 13+ (alongside advanced order flow) | Options plumbing for futures traders — dealer hedging, 0DTE. |
+| `systems/s14-algorithmic-and-semi-automated-trading.md` | Week 19+ (when ready to automate) | Semi-automation frameworks, Pine/Python templates. |
+| `ASSIMILATION_PROTOCOL.md` | KERNEL (read once) | Taxonomy, assimilation sequence, 8 rules. Governs all info flow. |

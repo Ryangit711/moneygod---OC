@@ -2157,6 +2157,10 @@ These are specific, repeatable edges derived from the plumbing understanding. Ea
 | 4 | Cross-Currency Basis (Edge 8) | Days-weeks | Dollar shortage = everything else falls |
 | 5 | Funding Trade Unwind (Edge 14) | 1-8 weeks | The carry unwind is the most explosive FX move |
 
+**NEW FOUNDATION FILES (2026-07-29):** These 15 edges are now supported by 10 system files (`systems/s01-mathematics.md` through `systems/s10-execution-and-trade-management.md`) that provide the math, psychology, microstructure, backtesting, intraday structure, TDA, levels, risk sizing, journaling, and execution layers. See individual files for implementation. The options edge (Edge 15 and 0DTE) is further detailed in `systems/s13-options-mechanics-for-futures-traders.md`.
+
+> **Architecture connections:** The new system files form a coherent stack: s01 (math) → s02 (psychology) → s03 (microstructure) → s04 (backtesting) → s05 (intraday structure) → s06 (TDA) → s07 (levels) → s08 (risk sizing) → s09 (journaling) → s10 (execution). This mirrors the plumbing hierarchy's own layered architecture — each layer builds on the one below it. Use alongside the Exfiltration Path (Part 10) and the Daily Ritual (Part 7).
+
 ---
 
 ## PART 6 — TRADER'S HUD
@@ -2599,6 +2603,8 @@ The most tradeable price moves happen where multiple layers capitulate simultane
 - **The cross-currency basis is stable** (no dollar shortage — so the move is not a liquidity crisis, just a normal correction)
 
 When these align, you have a high-probability trade.
+
+**NEW FOUNDATION FILE:** `systems/s03-volume-profile-and-order-flow.md` contains a dedicated ICT integration table that maps every ICT concept (liquidity void, displacement, FVG, OTE, kill zones, etc.) to its volume-profile and order-flow counterpart. Use it alongside this section for the microstructure implementation layer.
 
 ---
 
@@ -3305,3 +3311,14 @@ Consumers (last dip — prices already adjusted, wages unchanged)
 *End of Part 11*
 
 ---
+
+## Synaptic Connections
+
+| Neuron | Synapse | Fire When |
+|--------|---------|-----------|
+| `14-monetary-plumbing-global.md` | Country-agnostic overview of the two-layer engine — this file is the 3,307-line deep dive into every concept | When needing the executive summary before diving into the hierarchy |
+| `05-how-money-flows-in-the-system.md` | Three-pool model and Minsky cycle that this file's 12 parts expand in exhaustive detail | When connecting hierarchy mechanics to real-economy flow outcomes |
+| `core/liquidity-equation.md` | Net Liq = ΔCB BS − ΔTGA − ΔRRP — the heartbeat equation that Part 2 derives from first principles | When running the liquidity equation and needing the foundational theory |
+| `core/repo-plumbing.md` | Deep dive on the repo market that Part 3 covers at scale | When repo stress appears in the weekly OS and you need the full plumbing context |
+| `core/plumbing-esoterica.md` | Esoteric plumbing layers (Eurodollar, XCCY, FRA-OIS) that Part 6-8 reference | When plumbing-esoterica signals appear in the live data workflow |
+| `03-money-as-debt-modern-system.md` | Commercial bank credit creation that Part 1 describes as Layer 2 of the engine | When connecting hierarchy-master's credit creation theory to practical money mechanics |

@@ -1,6 +1,6 @@
 # Moneygod 1.0
 
-**A living system.** 41 files · ~11,600 lines · 12 parts · 25 Feynman terms · growing with every study.
+**A living system.** 52+ files · ~13,900+ lines · 12 parts · 25 Feynman terms · 17 new foundation files assimilated 2026-07-29 · growing with every study.
 
 ---
 
@@ -25,6 +25,7 @@ The system is engineered. The pipes exist. Your job: read the plumbing, sit in t
 | If you want to... | Start here |
 |-------------------|-----------|
 | **Learn from zero** | `CURRICULUM.md` — 6-phase, day-by-day path to funded trader |
+| **Assimilate the system** | `ASSIMILATION_PROTOCOL.md` — The core kernel. Taxonomy of 19 info types, 8-step assimilation sequence, 8 non-negotiable rules. Read first. |
 | **See the full map** | `MAP.md` — all 41 files, all connections, all terms cross-referenced |
 | **Understand how this grows** | `GROWTH_PROTOCOL.md` — the living system heartbeat |
 | **Dive deep into plumbing** | `plumbing-hierarchy-master.md` — 12 parts, 3,307 lines, sovereign source to retail execution |

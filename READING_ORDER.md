@@ -57,6 +57,9 @@ Before you trade, you need the discipline framework. No strategy survives withou
 | 2 | `systems/weekly-flow-checklist.md` | 15-min Monday tri-region check. Data sources. Verdict format. |
 | 3 | `systems/daily-pre-session.md` | 5-min pre-session ritual. 1-min post-session review. |
 | 4 | `systems/position-sizing-by-flow.md` | Size by liquidity regime matrix. Instrument multiplier. |
+| 5 | `systems/s01-mathematics.md` | Trading math from zero — pip value, EV, Kelly, drawdown, probability, R-multiples, Sharpe/Sortino, volatility drag, full reference card. |
+| 6 | `systems/s02-trading-psychology.md` | Psychology as an operating system — 4 dangerous states, pre-trade state check, in-trade protocols, 8 flagged negatives. |
+| 7 | `systems/s03-volume-profile-and-order-flow.md` | Market microstructure — auction theory, volume profile, delta, order flow, footprint charts, ICT integration table. |
 
 **Checkpoint:** After Phase III, the ritual exists before the trade. You know how to prepare, how much to risk, and when to step away.
 
@@ -79,6 +82,19 @@ Your mind must be structured before you learn techniques. These models are the c
 ## PHASE V — TRADING (Tapping the Flow — Last, Not First)
 
 Now — and only now — do you touch trading. This is where the original 06 used to sit (right after foundations). It was too early. Here it belongs: after plumbing, systems, and mental models.
+
+### FOUNDATIONS (Your Personal Edge + System Development)
+
+| Step | File | What It Gives You |
+|------|------|-------------------|
+| 0a | `00-background-edge.md` | Your personal edge, danger zone from 9 AI models, clinic story. Read first. |
+| 0b | `systems/s04-backtesting-and-system-development.md` | How to develop and validate a trading system — backtesting methodology, metrics, curve-fitting, development loop. |
+| 0c | `systems/s05-intraday-market-structure.md` | Session architecture, day templates, regime detection. |
+| 0d | `systems/s06-top-down-analysis.md` | Three-step TDA, timeframe conflict resolution, "pullback in a trend" setup. |
+| 0e | `systems/s07-order-flow-levels.md` | 10-level level hierarchy, volume profile setup, level-based trade scenarios. |
+| 0f | `systems/s08-advanced-risk-and-position-sizing.md` | 4 sizing methods, correlation risk, scaling in/out, risk decision tree. |
+| 0g | `systems/s09-journaling-and-performance-analysis.md` | Trade journal template, rolling metrics, weekly review, emotional decision log. |
+| 0h | `systems/s10-execution-and-trade-management.md` | Market vs limit orders, stop placement, trailing methods, exit management. |
 
 ### Prep (before your first trade)
 
@@ -117,6 +133,8 @@ The point of all of it. What you're building toward.
 | Step | File | What It Gives You |
 |------|------|-------------------|
 | 1 | `10-investing-and-compounding.md` | Two games: flow (trading) vs compound (investing). Asset hierarchy. Canadian tax shields. |
+| 1b | `systems/s11-trading-business-and-tax.md` | Canada-specific business/tax structure for traders. |
+| 1c | `systems/s12-capital-management-and-scaling.md` | Three-phase growth model, loan/debt protocol, scaling plan. |
 | 2 | `11-escaping-the-rat-race.md` | Freedom number. Three phases. The four killers. Canadian path. |
 | 3 | `12-who-knows-this-level.md` | Who gets it vs who doesn't. Be in the first group. |
 | 4 | `references/master-reference-list.md` | 70+ books, papers, tools. Reference — not linear read. |
@@ -128,6 +146,9 @@ The point of all of it. What you're building toward.
 | File | When to Use |
 |------|-------------|
 | `references/master-reference-list.md` | When you need a specific book/paper recommendation |
+| `ASSIMILATION_PROTOCOL.md` | Always — governs all info flow in this repo |
+| `systems/s13-options-mechanics-for-futures-traders.md` | Before Friday sessions (0DTE) |
+| `systems/s14-algorithmic-and-semi-automated-trading.md` | When ready to automate analysis or backtesting |
 | `conversations/2026-07-07_oc-session-01.md` | Read at any time — context on where you started and where you are |
 
 ---
