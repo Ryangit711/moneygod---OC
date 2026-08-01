@@ -1270,6 +1270,24 @@ Flow enters at Layer 1 and cascades down. Price is discovered at Layer 5 (market
 4. Watch Layer 7 (retail) for the opposite trade
 5. Enter via Layer 5 understanding (know where the liquidity pools are)
 
+### 2.9 The Food Chain View (God-Level Tiers — Arena Framing)
+
+*From Arena session 2026-07-29. Same structure as the 8 layers, reframed as a food chain of PLAYERS. Useful when you want to know exactly who eats who.*
+
+| Arena Tier | Who | Maps to 8-Layer | What They Actually Do |
+|------------|-----|----------------|----------------------|
+| **Tier 0** | The Fed | Layer 1 | Creates the water. Sets the price of money. Nobody eats the Fed. |
+| **Tier 1** | Big 4 dealers (JPM, GS, MS, BofA) | Layer 4 | First to the water. See every order flow. Prime brokers to everyone below. |
+| **Tier 2** | BlackRock, Vanguard, State Street | Layer 3 | Own the boats. Move trillions via rebalancing. So big they can't dump — they repo instead. |
+| **Tier 3** | Hedge funds + prop firms | Layer 6 | Eat the flow. Borrow from Tier 1, trade against Tier 4-6. |
+| **Tier 4** | Mid-tier funds, regional desks | Layer 5 | Smaller versions. Sometimes eat Tier 6, usually get eaten by Tier 3. |
+| **Tier 5** | Sovereign wealth, crypto whales | Layer 2 | Out of the daily food chain. Generational moves only. |
+| **Tier 6** | Retail (you) | Layer 7 | Plankton. The aggregate food supply that makes the whole chain work. |
+
+**The plankton realization (do not cry — calibrate):** You are Tier 6 TODAY. The goal of the FX/futures-first doctrine is to move up one tier at a time — prop firm (becomes a Tier 3 subcontractor), personal pod (Tier 4), then capital behind you (Tier 3+). You do not jump tiers. You earn them by feeding on the tier directly above you while being fed on by the tier below — the only sustainable exit is to become the one who eats the flow instead of being the flow.
+
+**Where you sit in the food chain is a statement of fact, not identity.** Today: plankton with a map of the ocean. The map is the edge that lets you pick your predators instead of being random prey.
+
 ---
 
 ## PART 3 — THE ESOTERIC STRUCTURE

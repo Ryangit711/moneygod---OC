@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║            🌊 MONEYGOD — OC  (91 files · ~27,000 lines)                    ║
+║            🌊 MONEYGOD — OC  (93 files · ~27,250 lines)                    ║
 ║     CORE QUESTION: "Who manages the household, and for whom?"               ║
 ║     RAW TRUTH: Money = concentrated human time/energy                       ║
 ║     STRUCTURE: 6 phases · read in order → don't skip                        ║
@@ -351,7 +351,7 @@ core/plumbing-esoterica.md (646 lines — the deep end)
 ## COMPLETE FILE INVENTORY
 
 ```
-📁 moneygod-oc/ (84 files · ~22,500 lines)
+📁 moneygod-oc/ (93 files · ~27,250 lines)
 │
 ├── 📁 basics/ (6 files · ~900 lines)
 │   ├── what-is-a-pip.md ............................. ~180  │ Pre-Nursery W2

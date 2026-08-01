@@ -2,7 +2,7 @@
 
 ## What This Is
 
-The concept registry is the hippocampus of the Moneygod brain. It indexes every distinct trading/finance concept across all 84+ files in this repo. When a new piece of information arrives (from Arena chat, personal journal, book, AI conversation), the ASSIMILATION_PROTOCOL.md taxonomy table routes it to the correct file — but the concept registry connects all files by CONCEPT, not by file location.
+The concept registry is the hippocampus of the Moneygod brain. It indexes every distinct trading/finance concept across all 93+ files in this repo. When a new piece of information arrives (from Arena chat, personal journal, book, AI conversation), the ASSIMILATION_PROTOCOL.md taxonomy table routes it to the correct file — but the concept registry connects all files by CONCEPT, not by file location.
 
 Use this registry when:
 - You read a term in one file and want to find all related files
@@ -1086,3 +1086,21 @@ Use this registry when:
 - **Secondary:** `systems/s10-execution-and-trade-management.md`
 - **Neuron:** Predictable minute-level patterns: 9:30-9:50 initial drive, 9:50-10:10 first reversal window, 11:15 European close inflection, 14:00-15:30 closing auction, 15:30-15:50 MOC imbalance, 16:00 close surge.
 - **Synapse:** These edges are specific enough to script. If an edge is not on the clock, it's not a time-based edge — it's a guess.
+
+### Abundant vs Clean Supply (Water vs Boat)
+- **Primary:** `mental-models/water-vs-boat.md`
+- **Secondary:** `systems/CURRICULUM.md`, `core/repo-plumbing.md`
+- **Neuron:** Markets differ by supply structure. FX/futures = abundant supply (deep, uncornerable, no one can see your order). Single stocks = clean supply (finite shares, one whale can move it). Abundant supply = water; clean supply = boat.
+- **Synapse:** Trade the water first, boats as the end game. The FX/futures-first doctrine is a supply-structure argument, not a preference.
+
+### Food Chain Tiers (Player Hierarchy)
+- **Primary:** `plumbing-hierarchy-master.md` (Section 2.9)
+- **Secondary:** `mental-models/water-vs-boat.md`
+- **Neuron:** Tier 0 (Fed) → Tier 1 (Big 4 dealers) → Tier 2 (BlackRock/Vanguard) → Tier 3 (hedge funds/prop firms) → Tier 4 (mid-tier) → Tier 5 (sovereign/crypto) → Tier 6 (retail plankton). You sit where you sit; the map lets you pick your predators.
+- **Synapse:** Prop firm = becoming a Tier 3 subcontractor. The way up is tier by tier — you feed on the tier above, get fed on by the tier below, until you eat the flow instead of being the flow.
+
+### Repo Pawn Shop Model
+- **Primary:** `core/repo-plumbing.md`
+- **Secondary:** `mental-models/water-vs-boat.md`
+- **Neuron:** Repo is a pawn shop for billionaires — sell the bond today, buy it back tomorrow at a slightly higher price. Nobody actually sells anything; the collateral is insurance, the trade is a loan. It exists so money moves without assets changing hands.
+- **Synapse:** BlackRock lends bonds to JPMorgan because both win and neither disturbs the boat's price. The biggest flows are invisible — they happen in repo, off-exchange, never hitting the tape.
