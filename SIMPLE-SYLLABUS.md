@@ -24,7 +24,7 @@ Do these things **once**:
 | Mon | `01-origins-of-money-and-debt.md` | "Money is not what I thought. It is actually ___" |
 | Tue | `02-the-real-meaning-of-economy.md` | "The economy is not GDP. It is ___" |
 | Wed | `03-money-as-debt-modern-system.md` | "Banks don't lend money. They ___" |
-| Thu | `04-what-the-powerful-understand.md` | "The 5 things most people believe that are wrong: ___" |
+| Thu | `04-what-the-powerful-understand.md` | "The 5 things most people believe that are actually wrong: ___" |
 | Fri | `07-what-money-actually-is-no-bs.md` | "My job as a trader is to ___" |
 
 ### Weekend Review (Sat‑Sun)
