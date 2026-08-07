@@ -1,25 +1,3 @@
-#!/usr/bin/env bash
-# setup_cron.sh - Install cron jobs for the trading system
-# Run this once to set up automated daily runs
-
-set -euo pipefail
-
-TRADING_DIR="/home/aryan/trading_system"
-VENV_PYTHON="/home/aryan/trading_venv/bin/python"
-LOG_DIR="$TRADING_DIR/logs"
-
-echo "Setting up cron jobs for trading system..."
-echo "Trading directory: $TRADING_DIR"
-echo "Python: $VENV_PYTHON"
-
-# Create log directory
-mkdir -p "$LOG_DIR"
-
-# Backup existing crontab
-crontab -l > "$TRADING_DIR/crontab.backup.$(date +%Y%m%d)" 2>/dev/null || true
-
-# Generate new crontab entries
-cat > "$TRADING_DIR/crontab.new" << 'CRONEOF'
 # ============================================================
 # TRADING SYSTEM AUTOMATED JOBS
 # ============================================================
@@ -37,14 +15,3 @@ cat > "$TRADING_DIR/crontab.new" << 'CRONEOF'
 # Weekly state cleanup - Sunday 2 AM
 0 2 * * 0 cd /home/aryan/trading_system && /home/aryan/trading_venv/bin/python cleanup_logs.py >> /home/aryan/trading_system/logs/cleanup.log 2>&1
 
-CRONEOF
-
-# Install the new crontab
-crontab "$TRADING_DIR/crontab.new"
-echo "✅ Crontab installed successfully"
-echo ""
-echo "Current crontab:"
-crontab -l
-echo ""
-echo "Log directory: $LOG_DIR"
-echo "To view logs: tail -f $LOG_DIR/cron_full.log"

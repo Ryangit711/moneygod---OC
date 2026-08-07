@@ -60,7 +60,7 @@ class CatalystProfile:
 
 def fetch_forex_factory_calendar() -> list[EconomicEvent]:
     """
-    Fetch economic calendar from Forex Factory (HTML scrape using regex - no BS4 needed).
+    Fetch economic calendar from Forex Factory (HTML scrape using regex – no BS4 needed).
     Returns list of EconomicEvent objects.
     """
     import re
@@ -78,48 +78,44 @@ def fetch_forex_factory_calendar() -> list[EconomicEvent]:
         return fallback_calendar_events()
 
     events = []
-    # Parse using regex - Forex Factory embeds data in JavaScript
-    # Look for the calendar data in the page
-    try:
-        # The calendar data is often in a script tag as JSON
-        # Pattern: {"date":"2024-01-15","time":"08:30","currency":"USD","impact":"High","event":"CPI","actual":"3.2%","forecast":"3.1%","previous":"3.4%"}
-        pattern = r'\{"date":"(\d{4}-\d{2}-\d{2})","time":"([^"]*)","currency":"([^"]*)","impact":"([^"]*)","event":"([^"]*)"(?:"actual":"([^"]*)")?(?:"forecast":"([^"]*)")?(?:"previous":"([^"]*)")?\}'
-        matches = re.findall(pattern, html)
-        
-        for match in matches:
-            date_str, time_str, currency, impact, event, actual, forecast, previous = match
-            
-            # Only keep HIGH impact
-            if impact.upper() != 'HIGH':
-                continue
-            
-            # Parse timestamp
-            try:
-                if time_str and ':' in time_str:
-                    dt_str = f"{date_str}T{time_str}:00"
-                else:
-                    dt_str = f"{date_str}T00:00:00"
-                # Assume ET timezone for Forex Factory
-                et = zoneinfo.ZoneInfo('America/New_York')
-                dt = datetime.fromisoformat(dt_str).replace(tzinfo=et)
-                dt_utc = dt.astimezone(timezone.utc)
-            except:
-                dt_utc = datetime.now(timezone.utc)
-            
-            events.append(EconomicEvent(
-                timestamp=dt_utc.isoformat(),
-                currency=currency,
-                event=event,
-                impact=impact.upper(),
-                actual=actual if actual else None,
-                forecast=forecast if forecast else None,
-                previous=previous if previous else None,
-            ))
-    except Exception as e:
-        print(f"[WARN] Calendar regex parse failed: {e}")
-        return fallback_calendar_events()
+    # Parse using regex – Forex Factory embeds data in JavaScript
+    # The calendar data is often in a script tag as JSON
+    # Example snippet:
+    # {"date":"2024-01-15","time":"08:30","currency":"USD","impact":"High","event":"CPI","actual":"3.2%","forecast":"3.1%","previous":"3.4%"}
+    pattern = r'\{"date":"(\d{4}-\d{2}-\d{2})","time":"([^"]*)","currency":"([^"]*)","impact":"([^"]*)","event":"([^"]*)"(?:"actual":"([^"]*)")?(?:"forecast":"([^"]*)")?(?:"previous":"([^"]*)")?\}'
+    matches = re.findall(pattern, html)
     
-    # If no events found, use fallback
+    for match in matches:
+        date_str, time_str, currency, impact, event, actual, forecast, previous = match
+        
+        # Only keep HIGH impact
+        if impact.upper() != 'HIGH':
+            continue
+        
+        # Parse timestamp – assume Eastern Time (ET) for Forex Factory releases
+        try:
+            if time_str and ':' in time_str:
+                dt_str = f"{date_str}T{time_str}:00"
+            else:
+                dt_str = f"{date_str}T00:00:00"
+            et = zoneinfo.ZoneInfo('America/New_York')
+            dt = datetime.fromisoformat(dt_str).replace(tzinfo=et)
+            dt_utc = dt.astimezone(timezone.utc)
+        except Exception as e:
+            print(f"[WARN] Timestamp parse error: {e}")
+            dt_utc = datetime.now(timezone.utc)
+        
+        events.append(EconomicEvent(
+            timestamp=dt_utc.isoformat(),
+            currency=currency,
+            event=event,
+            impact=impact.upper(),
+            actual=actual if actual else None,
+            forecast=forecast if forecast else None,
+            previous=previous if previous else None,
+        ))
+    
+    # If the regex didn't capture anything (site changed), fall back to static template events
     if not events:
         return fallback_calendar_events()
     

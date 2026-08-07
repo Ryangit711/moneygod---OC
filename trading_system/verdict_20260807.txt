@@ -1,0 +1,10 @@
+DATE: 2026-08-07
+TRADING: YES
+TRADE MODE: REDUCED
+INSTRUMENT: MES
+BIAS: NEUTRAL
+CATALYST SCORE: -1.6
+CATALYST NARRATIVE: ⚡ 1 HIGH-impact event(s) in next 24h | 🎯 Key risk events: CPI, Core CPI, NFP | 🏛️ Next Fed event: FOMC Rate Decision in 39 days
+SESSION PLAN:
+FULL | MES | NEUTRAL
+I will follow MES ORB setup per playbook. Max 2 trades. Strict risk rules.

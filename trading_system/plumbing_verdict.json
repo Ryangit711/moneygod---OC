@@ -1,40 +1,41 @@
 {
-  "timestamp": "2026-08-06T20:52:18.416481",
-  "trade_mode": "FLAT",
-  "instrument": "NONE",
-  "bias": "NONE",
-  "max_contracts": 1,
-  "risk_pct_per_trade": 0.25,
-  "daily_max_pct": 0.75,
+  "timestamp": "2026-08-07T17:26:06.748568+00:00",
+  "trade_mode": "FULL",
+  "instrument": "MES",
+  "bias": "NEUTRAL",
+  "max_contracts": 3,
+  "risk_pct_per_trade": 1.5,
+  "daily_max_pct": 3.0,
   "active_edges": [
-    "Edge 3: TGA Directional"
+    "Edge 2: RRP-to-Zero Squeeze",
+    "Edge 11: Liquidity Void"
   ],
-  "session_plan": "FLAT | NONE | NONE\nStaying flat. Edge 3: TGA Directional",
+  "session_plan": "FULL | MES | NEUTRAL\nI will follow MES ORB setup per playbook. Max 2 trades. Strict risk rules.",
   "raw_data": {
     "fed_bs": 6748.567,
     "tga": 929.325,
     "rrp": 0.0014290000000000001,
-    "sofr": 5.33,
+    "sofr": 0.00365,
     "vix": 14.2,
     "dxy": 103.45,
-    "dxy_direction": "down",
-    "mes_gap_pts": 5.0,
-    "mnq_gap_pts": -12.0,
-    "news_today": "FOMC minutes 2:00 PM ET; No high-impact FX news",
-    "timestamp": "2026-08-06T20:52:18.416481"
+    "dxy_direction": "flat",
+    "mes_gap_pts": 2.5,
+    "mnq_gap_pts": 130.0,
+    "news_today": "No high-impact events today",
+    "timestamp": "2026-08-07T17:26:06.748568+00:00"
   },
   "liquidity": {
-    "net_liquidity_b": -340.8,
-    "liquidity_verdict": "DRAIN",
+    "net_liquidity_b": 51.5,
+    "liquidity_verdict": "INJECT",
     "sofr_vs_iorb": "normal",
     "vix_level": "low",
-    "dxy_trend": "down"
+    "dxy_trend": "flat"
   },
   "signals": {
     "vwap_position": "above",
     "tick_index": "neutral",
     "wti_direction": "up",
-    "dxy_direction": "down",
+    "dxy_direction": "flat",
     "cot_extreme": false
   }
 }

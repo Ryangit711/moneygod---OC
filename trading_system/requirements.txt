@@ -1,5 +1,8 @@
 requests>=2.32.0
 pandas>=2.0.0
 numpy>=1.24.0
+yfinance>=0.2.0
 MetaTrader5>=5.0.45  # Only works on Windows with MT5 terminal
 python-dotenv>=1.0.0  # For loading .env files
+plotly>=5.15.0        # For interactive charts
+seaborn>=0.12.0       # For correlation heatmaps

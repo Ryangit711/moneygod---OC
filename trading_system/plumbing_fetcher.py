@@ -14,6 +14,9 @@ from typing import Optional
 import os
 from pathlib import Path
 
+# Import our new unified data feeds
+from data_feeds import fetch_all_plumbing_raw, get_latest_two_values
+
 # Load config
 CONFIG_PATH = Path(__file__).parent / "config.json"
 if CONFIG_PATH.exists():
@@ -32,6 +35,7 @@ SERIES = {
     "fed_bs": "WALCL",      # Fed Balance Sheet (total assets, $M)
     "tga": "WDTGAL",        # Treasury General Account ($M)
     "rrp": "RRPONTSYD",     # Overnight Reverse Repo ($M)
+    "sofr": "SOFR",         # SOFR rate
 }
 
 # URLs for manual fetching (fallback if no FRED key)
@@ -143,45 +147,23 @@ def get_latest_two_weeks(series_id: str) -> tuple[Optional[float], Optional[floa
 
 def fetch_plumbing_data() -> RawPlumbingData:
     """
-    Fetch all 6 raw numbers. 
-    NOTE: In production, you'd use proper APIs for SOFR, DXY, VIX, MES/MNQ, Calendar.
-    For demo, we simulate with reasonable defaults + FRED if key available.
+    Fetch all raw numbers using unified data_feeds module.
+    Replaces the old simulated/demo implementation with real free API calls.
     """
-    # --- FRED data (Fed BS, TGA, RRP) ---
-    fed_bs_this, fed_bs_last = get_latest_two_weeks("WALCL")
-    tga_this, tga_last = get_latest_two_weeks("WDTGAL")
-    rrp_this, rrp_last = get_latest_two_weeks("RRPONTSYD")
-    
-    # Fallback demo values if no FRED key or mock data enabled
-    if fed_bs_this is None or USE_MOCK_DATA:
-        fed_bs_this, fed_bs_last = 7200, 7180  # ~$7.2T
-    if tga_this is None or USE_MOCK_DATA:
-        tga_this, tga_last = 650, 600        # ~$650B
-    if rrp_this is None or USE_MOCK_DATA:
-        rrp_this, rrp_last = 400, 420        # ~$400B
-    
-    # --- Simulated market data (replace with real API calls) ---
-    # In production: use Twelve Data, Alpha Vantage, Polygon, or broker APIs
-    sofr = 5.33           # SOFR %
-    vix = 14.2            # VIX level
-    dxy = 103.45          # DXY price
-    dxy_direction = "down"  # up/down/flat
-    mes_gap_pts = 5.0     # MES overnight gap points
-    mnq_gap_pts = -12.0   # MNQ overnight gap points
-    news_today = "FOMC minutes 2:00 PM ET; No high-impact FX news"
+    raw = fetch_all_plumbing_raw()
     
     return RawPlumbingData(
-        fed_bs=fed_bs_this,
-        tga=tga_this,
-        rrp=rrp_this,
-        sofr=sofr,
-        vix=vix,
-        dxy=dxy,
-        dxy_direction=dxy_direction,
-        mes_gap_pts=mes_gap_pts,
-        mnq_gap_pts=mnq_gap_pts,
-        news_today=news_today,
-        timestamp=datetime.now().isoformat(),
+        fed_bs=raw["fed_bs"],
+        tga=raw["tga"],
+        rrp=raw["rrp"],
+        sofr=raw["sofr"],
+        vix=raw["vix"],
+        dxy=raw["dxy"],
+        dxy_direction=raw["dxy_direction"],
+        mes_gap_pts=raw["mes_gap_pts"],
+        mnq_gap_pts=raw["mnq_gap_pts"],
+        news_today=raw["news_today"],
+        timestamp=raw["timestamp"],
     )
 
 
@@ -189,11 +171,21 @@ def fetch_plumbing_data() -> RawPlumbingData:
 
 def compute_liquidity(raw: RawPlumbingData) -> LiquidityVerdict:
     """Min 4-6: Compute Net Liquidity = ΔFedBS - ΔTGA - ΔRRP"""
-    # Get previous week values (in demo, we use the fallbacks)
-    # In production, these come from FRED fetch
-    fed_bs_last = 7180  # $B
-    tga_last = 600
-    rrp_last = 420
+    # Get previous week values from FRED
+    _, fed_bs_last = get_latest_two_values("WALCL")
+    _, tga_last = get_latest_two_values("WDTGAL")
+    _, rrp_last = get_latest_two_values("RRPONTSYD")
+    _, sofr_last = get_latest_two_values("SOFR")
+    
+    # Fallback to reasonable defaults if FRED fails
+    if fed_bs_last is None:
+        fed_bs_last = raw.fed_bs - 20
+    if tga_last is None:
+        tga_last = raw.tga - 50
+    if rrp_last is None:
+        rrp_last = raw.rrp + 20
+    if sofr_last is None:
+        sofr_last = 5.40  # IORB proxy
     
     delta_bs = raw.fed_bs - fed_bs_last
     delta_tga = raw.tga - tga_last
@@ -213,9 +205,8 @@ def compute_liquidity(raw: RawPlumbingData) -> LiquidityVerdict:
     else:
         verdict = "DRAIN"  # risk-off
     
-    # SOFR vs IORB (IORB ~5.4% currently)
-    iorb = 5.40
-    sofr_spread = raw.sofr - iorb
+    # SOFR vs IORB (use previous week SOFR as IORB proxy)
+    sofr_spread = raw.sofr - sofr_last
     sofr_status = "stress" if sofr_spread > 0.05 else "normal"  # >5bp spread
     
     # VIX classification
