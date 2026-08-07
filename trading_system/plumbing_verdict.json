@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-08-06T20:28:03.640842",
+  "trade_mode": "FLAT",
+  "instrument": "NONE",
+  "bias": "NONE",
+  "max_contracts": 1,
+  "risk_pct_per_trade": 0.25,
+  "daily_max_pct": 0.75,
+  "active_edges": [
+    "Edge 3: TGA Directional"
+  ],
+  "session_plan": "FLAT | NONE | NONE\nStaying flat. Edge 3: TGA Directional",
+  "raw_data": {
+    "fed_bs": 6748.567,
+    "tga": 929.325,
+    "rrp": 0.0014290000000000001,
+    "sofr": 5.33,
+    "vix": 14.2,
+    "dxy": 103.45,
+    "dxy_direction": "down",
+    "mes_gap_pts": 5.0,
+    "mnq_gap_pts": -12.0,
+    "news_today": "FOMC minutes 2:00 PM ET; No high-impact FX news",
+    "timestamp": "2026-08-06T20:28:03.640842"
+  },
+  "liquidity": {
+    "net_liquidity_b": -340.8,
+    "liquidity_verdict": "DRAIN",
+    "sofr_vs_iorb": "normal",
+    "vix_level": "low",
+    "dxy_trend": "down"
+  },
+  "signals": {
+    "vwap_position": "above",
+    "tick_index": "neutral",
+    "wti_direction": "up",
+    "dxy_direction": "down",
+    "cot_extreme": false
+  }
+}

@@ -1,0 +1,3 @@
+Date,Trade Mode,Instrument,Bias,Active Edges,Session Plan,Execution Status,Combined PnL
+2026-08-06,REDUCED,MES,NEUTRAL,"Edge 3: TGA Directional","REDUCED | MES | NEUTRAL | I will follow MES ORB setup per playbook. Max 2 trades. Strict risk rules.",demo_mode,0.0
+2026-08-06,FLAT,NONE,NONE,"Edge 3: TGA Directional","FLAT | NONE | NONE | Staying flat. Edge 3: TGA Directional",none,0.0

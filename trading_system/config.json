@@ -1,0 +1,54 @@
+{
+  "mode": "paper",
+  "accounts": {
+    "fx": {
+      "enabled": true,
+      "bot": "mt5_bot.py",
+      "symbol": "BTCUSD",
+      "magic_number": 20260802,
+      "comment": "AbhimanyuBot"
+    },
+    "futures": {
+      "enabled": false,
+      "bot": "tradovate_bot.py",
+      "symbol": "MES"
+    }
+  },
+  "risk": {
+    "max_daily_loss_pct": 3.0,
+    "max_accounts_in_drawdown": 2,
+    "per_trade_risk_pct": {
+      "FULL": 1.5,
+      "NORMAL": 1.0,
+      "REDUCED": 0.25,
+      "FLAT": 0.0
+    },
+    "daily_max_pct": {
+      "FULL": 3.0,
+      "NORMAL": 2.0,
+      "REDUCED": 0.75,
+      "FLAT": 0.0
+    },
+    "max_contracts": {
+      "FULL": 3,
+      "NORMAL": 2,
+      "REDUCED": 1,
+      "FLAT": 0
+    }
+  },
+  "notifications": {
+    "telegram_enabled": true,
+    "telegram_token": "",
+    "telegram_chat_id": "6766010191"
+  },
+  "schedule": {
+    "plumbing_check": "05:30",
+    "execution_start": "06:30",
+    "execution_end": "09:00",
+    "journal_close": "09:05"
+  },
+  "data_sources": {
+    "fred_api_key": "8a5cf2d5ee371bb122d1dc352b93f206",
+    "use_mock_data": false
+  }
+}
