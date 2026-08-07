@@ -12,13 +12,9 @@ from datetime import datetime, timedelta
 from dataclasses import dataclass, asdict
 from typing import Optional
 import os
-
-# ==================== CONFIG ====================
-import os
-import json
 from pathlib import Path
 
-# Load config from config.json
+# Load config
 CONFIG_PATH = Path(__file__).parent / "config.json"
 if CONFIG_PATH.exists():
     with open(CONFIG_PATH) as f:

@@ -18,6 +18,7 @@ import argparse
 sys.path.insert(0, str(Path(__file__).parent))
 
 from plumbing_fetcher import run_plumbing_pipeline, PlumbingVerdict, save_verdict
+from catalyst_engine import run_catalyst_engine, CatalystProfile, apply_catalyst_modifiers
 
 
 def send_telegram(message: str, config: dict) -> bool:
@@ -78,13 +79,60 @@ class TradingOrchestrator:
         return default
     
     def run_plumbing_check(self) -> PlumbingVerdict:
-        """Step 1: Run plumbing pipeline (05:30 AM)"""
+        """Step 1: Run plumbing pipeline + catalyst engine (05:30 AM)"""
         print("\n" + "="*60)
-        print("STEP 1: PLUMBING CHECK (05:30 AM)")
+        print("STEP 1: PLUMBING CHECK + CATALYST ENGINE (05:30 AM)")
         print("="*60)
         
         verdict = run_plumbing_pipeline()
         save_verdict(verdict, self.verdict_path)
+        
+        # Run catalyst engine
+        catalyst = run_catalyst_engine()
+        
+        # Apply catalyst modifiers to the verdict
+        new_mode, new_bias, modifiers = apply_catalyst_modifiers(
+            verdict.liquidity, verdict.trade_mode, verdict.bias, catalyst
+        )
+        
+        # Update verdict with catalyst adjustments
+        if new_mode != verdict.trade_mode:
+            print(f"  🔧 Catalyst adjusted trade mode: {verdict.trade_mode} → {new_mode}")
+            verdict.trade_mode = new_mode
+        if new_bias != verdict.bias:
+            print(f"  🔧 Catalyst adjusted bias: {verdict.bias} → {new_bias}")
+            verdict.bias = new_bias
+        
+        # Recalculate sizing based on new mode
+        if new_mode == "FULL":
+            verdict.max_contracts = 3
+            verdict.risk_pct_per_trade = 1.5
+            verdict.daily_max_pct = 3.0
+        elif new_mode == "NORMAL":
+            verdict.max_contracts = 2
+            verdict.risk_pct_per_trade = 1.0
+            verdict.daily_max_pct = 2.0
+        elif new_mode == "REDUCED":
+            verdict.max_contracts = 1
+            verdict.risk_pct_per_trade = 0.25
+            verdict.daily_max_pct = 0.75
+        else:  # FLAT
+            verdict.max_contracts = 0
+            verdict.risk_pct_per_trade = 0.0
+            verdict.daily_max_pct = 0.0
+        
+        # Apply size multiplier from catalysts
+        if modifiers.get("size_multiplier", 1.0) != 1.0:
+            mult = modifiers["size_multiplier"]
+            verdict.max_contracts = max(1, int(verdict.max_contracts * mult))
+            verdict.risk_pct_per_trade *= mult
+            verdict.daily_max_pct *= mult
+            print(f"  🔧 Size multiplier applied: {mult:.2f}x")
+        
+        # Add catalyst info to active edges
+        if modifiers.get("warnings"):
+            for w in modifiers["warnings"]:
+                verdict.active_edges.append(f"CATALYST: {w}")
         
         # Also save human-readable summary
         summary_path = Path(f"verdict_{datetime.now().strftime('%Y%m%d')}.txt")
@@ -94,6 +142,8 @@ class TradingOrchestrator:
             f.write(f"TRADE MODE: {verdict.trade_mode}\n")
             f.write(f"INSTRUMENT: {verdict.instrument}\n")
             f.write(f"BIAS: {verdict.bias}\n")
+            f.write(f"CATALYST SCORE: {modifiers.get('catalyst_score', 'N/A')}\n")
+            f.write(f"CATALYST NARRATIVE: {modifiers.get('catalyst_narrative', 'N/A')}\n")
             f.write(f"SESSION PLAN:\n{verdict.session_plan_line1}\n{verdict.session_plan_line2}\n")
         
         # Send Telegram notification
@@ -102,6 +152,7 @@ class TradingOrchestrator:
                f"Instrument: {verdict.instrument} | Max Contracts: {verdict.max_contracts}\n"
                f"Risk/Trade: {verdict.risk_pct_per_trade}% | Daily Max: {verdict.daily_max_pct}%\n"
                f"Active Edges: {', '.join(verdict.active_edges) if verdict.active_edges else 'None'}\n"
+               f"Catalyst: {modifiers.get('catalyst_narrative', 'N/A')}\n"
                f"Plan: {verdict.session_plan_line1}\n{verdict.session_plan_line2}")
         send_telegram(msg, self.config)
         

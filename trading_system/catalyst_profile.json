@@ -1,0 +1,146 @@
+{
+  "high_impact_count": {
+    "USD": 3
+  },
+  "next_24h": [],
+  "next_7d": [
+    {
+      "timestamp": "2026-08-08T12:30:00+00:00",
+      "currency": "USD",
+      "event": "CPI",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-08-10T12:30:00+00:00",
+      "currency": "USD",
+      "event": "Core CPI",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-08-12T12:30:00+00:00",
+      "currency": "USD",
+      "event": "NFP",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    }
+  ],
+  "fed_events": [
+    {
+      "timestamp": "2026-09-16T00:00:00+00:00",
+      "currency": "USD",
+      "event": "FOMC Rate Decision",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "Rate decision + statement + projections",
+      "previous": "Previous rate decision",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-10-07T00:00:00+00:00",
+      "currency": "USD",
+      "event": "FOMC Minutes",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "Minutes of previous meeting",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-11-04T00:00:00+00:00",
+      "currency": "USD",
+      "event": "FOMC Rate Decision",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "Rate decision + statement + projections",
+      "previous": "Previous rate decision",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-11-25T00:00:00+00:00",
+      "currency": "USD",
+      "event": "FOMC Minutes",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "Minutes of previous meeting",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-12-16T00:00:00+00:00",
+      "currency": "USD",
+      "event": "FOMC Rate Decision",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "Rate decision + statement + projections",
+      "previous": "Previous rate decision",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2027-01-06T00:00:00+00:00",
+      "currency": "USD",
+      "event": "FOMC Minutes",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "Minutes of previous meeting",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    }
+  ],
+  "key_risk_events": [
+    {
+      "timestamp": "2026-08-08T12:30:00+00:00",
+      "currency": "USD",
+      "event": "CPI",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-08-10T12:30:00+00:00",
+      "currency": "USD",
+      "event": "Core CPI",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    },
+    {
+      "timestamp": "2026-08-12T12:30:00+00:00",
+      "currency": "USD",
+      "event": "NFP",
+      "impact": "HIGH",
+      "actual": null,
+      "forecast": "",
+      "previous": "",
+      "unit": "",
+      "country": "US"
+    }
+  ],
+  "catalyst_score": -1.3,
+  "narrative": "\ud83c\udfaf Key risk events: CPI, Core CPI, NFP | \ud83c\udfdb\ufe0f Next Fed event: FOMC Rate Decision in 39 days"
+}
